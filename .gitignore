@@ -1,0 +1,37 @@
+# === SECRETS — never commit ===
+api_key.txt
+*api_key*
+*.key
+*.pem
+.env
+.env.*
+# Google / cloud service-account credentials
+*service-account*.json
+*service_account*.json
+experiment-gemini-*.json
+credentials*.json
+client_secret*.json
+
+# === Personal / cost data ===
+billing/
+*billing*.pdf
+
+# === Raw run outputs (regenerate from scripts) ===
+*_test_results_*.json
+*_classification_log_*.txt
+
+# === Data CSVs: hosted on Hugging Face, must NOT go into GitHub (100MB limit) ===
+# The huggingface/ folder is a staging area for the HF upload; its README (dataset
+# card) is fine to keep, but the large CSVs must never be committed to GitHub.
+huggingface/*.csv
+*.csv.gz
+# Keep the 97-sample annotation subset (it is small and belongs in the repo):
+!annotation/multi_error_subset_97.csv
+
+# === OS / editor cruft ===
+__MACOSX/
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
