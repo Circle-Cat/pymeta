@@ -1,0 +1,98 @@
+Sample_Index,predicted_label_raw,predicted_ids
+0,"TypeError (#4), LogicError (#1)",4|1
+1,"TypeError (#4), NameError (#3), LogicError (#1)",4|3|1
+2,"SyntaxError (#2), NameError (#3), LogicError (#1)",2|3|1
+3,"IndexError (#8), LogicError (#1)",8|1
+4,"TypeError (#4), LogicError (#1)",4|1
+5,"NameError (#3), LogicError (#1)",3|1
+6,"TypeError (#4), LogicError (#1)",4|1
+7,"ValueError (#11), NameError (#3), LogicError (#1)",11|3|1
+8,"NameError (#3), TypeError (#4), LogicError (#1)",3|4|1
+9,"TabError (#12), LogicError (#1)",12|1
+10,"ValueError (#11), TypeError (#4), LogicError (#1)",11|4|1
+11,"TypeError (#4), LogicError (#1)",4|1
+12,"SyntaxError (#2), UnboundLocalError (#6)",2|6
+13,"TypeError (#4), LogicError (#1)",4|1
+14,"UnboundLocalError (#6), LogicError (#1)",6|1
+15,"SyntaxError (#2), TypeError (#4), LogicError (#1)",2|4|1
+16,LogicError (#1),1
+17,"SyntaxError (#2), LogicError (#1)",2|1
+18,"TypeError (#4), UnboundLocalError (#6), LogicError (#1)",4|6|1
+19,"NameError (#3), LogicError (#1)",3|1
+20,TypeError (#4),4
+21,"RecursionError (#10), LogicError (#1)",10|1
+22,"NameError (#3), TypeError (#4), LogicError (#1)",3|4|1
+23,"IndexError (#8), LogicError (#1)",8|1
+24,"TypeError (#4), LogicError (#1)",4|1
+25,"NameError (#3), LogicError (#1)",3|1
+26,"IndentationError (#5), LogicError (#1)",5|1
+27,"ValueError (#11), LogicError (#1)",11|1
+28,"TypeError (#4), LogicError (#1)",4|1
+29,"SyntaxError (#2), LogicError (#1)",2|1
+30,"UnboundLocalError (#6), LogicError (#1)",6|1
+31,LogicError (#1),1
+32,"UnboundLocalError (#6), NameError (#3), LogicError (#1)",6|3|1
+33,"NameError (#3), LogicError (#1)",3|1
+34,"TypeError (#4), LogicError (#1)",4|1
+35,"RecursionError (#10), LogicError (#1)",10|1
+36,"LogicError (#1), IndexError (#8)",1|8
+37,"IndentationError (#5), LogicError (#1)",5|1
+38,"TypeError (#4), LogicError (#1)",4|1
+39,"SyntaxError (#2), KeyError (#7), LogicError (#1)",2|7|1
+40,"KeyError (#7), LogicError (#1)",7|1
+41,UnboundLocalError (#6),6
+42,"SyntaxError (#2), NameError (#3)",2|3
+43,"TypeError (#4), NameError (#3), LogicError (#1)",4|3|1
+44,"TypeError (#4), LogicError (#1)",4|1
+45,"TypeError (#4), LogicError (#1)",4|1
+46,"TypeError (#4), LogicError (#1)",4|1
+47,"SyntaxError (#2), LogicError (#1)",2|1
+48,"ValueError (#11), LogicError (#1)",11|1
+49,"TypeError (#4), LogicError (#1)",4|1
+50,"TypeError (#4), LogicError (#1)",4|1
+51,"NameError (#3), TypeError (#4), IndentationError (#5), LogicError (#1)",3|4|5|1
+52,"SyntaxError (#2), UnboundLocalError (#6), LogicError (#1)",2|6|1
+53,TypeError (#4),4
+54,"SyntaxError (#2), Other errors (#13)",2|13
+55,TypeError (#4),4
+56,"TypeError (#4), LogicError (#1)",4|1
+57,SyntaxError (#2),2
+58,"NameError (#3), LogicError (#1)",3|1
+59,NameError (#3),3
+60,"IndentationError (#5), LogicError (#1)",5|1
+61,"EOFError (#9), NameError (#3), LogicError (#1)",9|3|1
+62,"SyntaxError (#2), LogicError (#1)",2|1
+63,SyntaxError (#2),2
+64,"RecursionError (#10), LogicError (#1)",10|1
+65,"NameError (#3), LogicError (#1)",3|1
+66,"SyntaxError (#2), NameError (#3), LogicError (#1)",2|3|1
+67,"NameError (#3), LogicError (#1)",3|1
+68,"SyntaxError (#2), LogicError (#1)",2|1
+69,"SyntaxError (#2), LogicError (#1)",2|1
+70,IndentationError (#5),5
+71,"SyntaxError (#2), TypeError (#4), LogicError (#1)",2|4|1
+72,"IndentationError (#5), LogicError (#1)",5|1
+73,"SyntaxError (#2), LogicError (#1)",2|1
+74,NameError (#3),3
+75,"NameError (#3), LogicError (#1)",3|1
+76,"NameError (#3), LogicError (#1)",3|1
+77,"SyntaxError (#2), NameError (#3), TypeError (#4), LogicError (#1)",2|3|4|1
+78,"SyntaxError (#2), LogicError (#1)",2|1
+79,"KeyError (#7), LogicError (#1)",7|1
+80,"SyntaxError (#2), LogicError (#1)",2|1
+81,"SyntaxError (#2), LogicError (#1)",2|1
+82,"SyntaxError (#2), LogicError (#1)",2|1
+83,"SyntaxError (#2), LogicError (#1)",2|1
+84,"SyntaxError (#2), NameError (#3), TypeError (#4), LogicError (#1)",2|3|4|1
+85,"SyntaxError (#2), LogicError (#1)",2|1
+86,"SyntaxError (#2), LogicError (#1)",2|1
+87,"SyntaxError (#2), NameError (#3)",2|3
+88,"SyntaxError (#2), NameError (#3)",2|3
+89,"SyntaxError (#2), IndentationError (#5), LogicError (#1)",2|5|1
+90,"SyntaxError (#2), LogicError (#1)",2|1
+91,"SyntaxError (#2), LogicError (#1)",2|1
+92,"SyntaxError (#2), TypeError (#4), LogicError (#1)",2|4|1
+93,"SyntaxError (#2), LogicError (#1)",2|1
+94,SyntaxError (#2),2
+95,SyntaxError (#2),2
+96,"SyntaxError (#2), LogicError (#1)",2|1

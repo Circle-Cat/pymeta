@@ -1,0 +1,4866 @@
+Sample_Index,true_label,true_label_num,predicted_label_num,predicted_label_name
+0,LogicError,1,1,LogicError
+1,SyntaxError,2,2,SyntaxError
+2,TypeError,4,4,TypeError
+3,LogicError,1,1,LogicError
+4,No error,0,0,No error
+5,LogicError,1,1,LogicError
+6,No error,0,0,No error
+7,NameError,3,3,NameError
+8,LogicError,1,1,LogicError
+9,TypeError,4,4,TypeError
+10,No error,0,0,No error
+11,SyntaxError,2,2,SyntaxError
+12,No error,0,0,No error
+13,SyntaxError,2,2,SyntaxError
+14,No error,0,0,No error
+15,No error,0,0,No error
+16,LogicError,1,1,LogicError
+17,LogicError,1,1,LogicError
+18,No error,0,0,No error
+19,No error,0,1,LogicError
+20,No error,0,1,LogicError
+21,SyntaxError,2,2,SyntaxError
+22,No error,0,0,No error
+23,LogicError,1,1,LogicError
+24,LogicError,1,1,LogicError
+25,SyntaxError,2,2,SyntaxError
+26,No error,0,0,No error
+27,IndexError,8,8,IndexError
+28,No error,0,0,No error
+29,TypeError,4,4,TypeError
+30,LogicError,1,1,LogicError
+31,LogicError,1,3,NameError
+32,No error,0,0,No error
+33,No error,0,0,No error
+34,LogicError,1,1,LogicError
+35,LogicError,1,1,LogicError
+36,TypeError,4,4,TypeError
+37,LogicError,1,1,LogicError
+38,No error,0,0,No error
+39,No error,0,0,No error
+40,No error,0,0,No error
+41,No error,0,1,LogicError
+42,SyntaxError,2,2,SyntaxError
+43,TypeError,4,4,TypeError
+44,No error,0,0,No error
+45,No error,0,0,No error
+46,No error,0,0,No error
+47,No error,0,0,No error
+48,LogicError,1,1,LogicError
+49,LogicError,1,1,LogicError
+50,IndentationError,5,5,IndentationError
+51,No error,0,0,No error
+52,NameError,3,3,NameError
+53,LogicError,1,1,LogicError
+54,NameError,3,3,NameError
+55,No error,0,0,No error
+56,LogicError,1,1,LogicError
+57,No error,0,0,No error
+58,No error,0,0,No error
+59,NameError,3,3,NameError
+60,SyntaxError,2,2,SyntaxError
+61,No error,0,1,LogicError
+62,LogicError,1,1,LogicError
+63,No error,0,1,LogicError
+64,LogicError,1,1,LogicError
+65,LogicError,1,1,LogicError
+66,No error,0,0,No error
+67,SyntaxError,2,2,SyntaxError
+68,No error,0,0,No error
+69,No error,0,0,No error
+70,NameError,3,3,NameError
+71,No error,0,0,No error
+72,No error,0,0,No error
+73,No error,0,0,No error
+74,No error,0,0,No error
+75,No error,0,0,No error
+76,LogicError,1,1,LogicError
+77,No error,0,0,No error
+78,LogicError,1,1,LogicError
+79,SyntaxError,2,2,SyntaxError
+80,LogicError,1,1,LogicError
+81,No error,0,0,No error
+82,TypeError,4,4,TypeError
+83,LogicError,1,1,LogicError
+84,LogicError,1,1,LogicError
+85,LogicError,1,1,LogicError
+86,LogicError,1,1,LogicError
+87,LogicError,1,1,LogicError
+88,SyntaxError,2,2,SyntaxError
+89,No error,0,0,No error
+90,No error,0,0,No error
+91,No error,0,1,LogicError
+92,No error,0,0,No error
+93,LogicError,1,1,LogicError
+94,LogicError,1,1,LogicError
+95,No error,0,0,No error
+96,No error,0,0,No error
+97,No error,0,0,No error
+98,No error,0,1,LogicError
+99,No error,0,0,No error
+100,LogicError,1,1,LogicError
+101,LogicError,1,1,LogicError
+102,LogicError,1,1,LogicError
+103,RecursionError,10,10,RecursionError
+104,No error,0,0,No error
+105,NameError,3,3,NameError
+106,No error,0,0,No error
+107,LogicError,1,1,LogicError
+108,No error,0,0,No error
+109,No error,0,0,No error
+110,No error,0,0,No error
+111,KeyError,7,7,KeyError
+112,No error,0,0,No error
+113,LogicError,1,1,LogicError
+114,LogicError,1,1,LogicError
+115,SyntaxError,2,2,SyntaxError
+116,No error,0,0,No error
+117,NameError,3,3,NameError
+118,IndentationError,5,5,IndentationError
+119,No error,0,0,No error
+120,TypeError,4,4,TypeError
+121,SyntaxError,2,2,SyntaxError
+122,TypeError,4,4,TypeError
+123,No error,0,0,No error
+124,No error,0,0,No error
+125,No error,0,0,No error
+126,No error,0,0,No error
+127,LogicError,1,1,LogicError
+128,NameError,3,3,NameError
+129,SyntaxError,2,2,SyntaxError
+130,LogicError,1,1,LogicError
+131,TypeError,4,4,TypeError
+132,KeyError,7,7,KeyError
+133,No error,0,0,No error
+134,No error,0,0,No error
+135,No error,0,0,No error
+136,LogicError,1,1,LogicError
+137,SyntaxError,2,2,SyntaxError
+138,SyntaxError,2,2,SyntaxError
+139,No error,0,0,No error
+140,LogicError,1,1,LogicError
+141,LogicError,1,1,LogicError
+142,LogicError,1,1,LogicError
+143,No error,0,0,No error
+144,IndentationError,5,5,IndentationError
+145,No error,0,0,No error
+146,No error,0,0,No error
+147,No error,0,1,LogicError
+148,SyntaxError,2,2,SyntaxError
+149,No error,0,1,LogicError
+150,LogicError,1,1,LogicError
+151,No error,0,0,No error
+152,No error,0,0,No error
+153,No error,0,0,No error
+154,LogicError,1,1,LogicError
+155,LogicError,1,1,LogicError
+156,No error,0,0,No error
+157,SyntaxError,2,2,SyntaxError
+158,LogicError,1,1,LogicError
+159,LogicError,1,1,LogicError
+160,No error,0,0,No error
+161,No error,0,0,No error
+162,No error,0,0,No error
+163,No error,0,0,No error
+164,No error,0,0,No error
+165,LogicError,1,1,LogicError
+166,No error,0,0,No error
+167,IndentationError,5,5,IndentationError
+168,No error,0,0,No error
+169,No error,0,1,LogicError
+170,SyntaxError,2,2,SyntaxError
+171,LogicError,1,1,LogicError
+172,LogicError,1,1,LogicError
+173,No error,0,1,LogicError
+174,No error,0,0,No error
+175,SyntaxError,2,2,SyntaxError
+176,TypeError,4,4,TypeError
+177,No error,0,0,No error
+178,LogicError,1,1,LogicError
+179,No error,0,0,No error
+180,No error,0,1,LogicError
+181,ValueError,11,11,ValueError
+182,No error,0,1,LogicError
+183,No error,0,0,No error
+184,LogicError,1,1,LogicError
+185,EOFError,9,9,EOFError
+186,No error,0,0,No error
+187,SyntaxError,2,2,SyntaxError
+188,No error,0,0,No error
+189,EOFError,9,1,LogicError
+190,IndentationError,5,5,IndentationError
+191,LogicError,1,1,LogicError
+192,No error,0,0,No error
+193,No error,0,1,LogicError
+194,TypeError,4,4,TypeError
+195,SyntaxError,2,2,SyntaxError
+196,No error,0,0,No error
+197,SyntaxError,2,2,SyntaxError
+198,No error,0,0,No error
+199,No error,0,0,No error
+200,LogicError,1,1,LogicError
+201,No error,0,0,No error
+202,NameError,3,3,NameError
+203,LogicError,1,1,LogicError
+204,LogicError,1,1,LogicError
+205,No error,0,1,LogicError
+206,No error,0,0,No error
+207,No error,0,0,No error
+208,No error,0,0,No error
+209,No error,0,0,No error
+210,LogicError,1,1,LogicError
+211,LogicError,1,1,LogicError
+212,LogicError,1,1,LogicError
+213,No error,0,0,No error
+214,No error,0,0,No error
+215,SyntaxError,2,2,SyntaxError
+216,LogicError,1,1,LogicError
+217,LogicError,1,1,LogicError
+218,No error,0,0,No error
+219,No error,0,0,No error
+220,RecursionError,10,10,RecursionError
+221,LogicError,1,1,LogicError
+222,No error,0,0,No error
+223,No error,0,1,LogicError
+224,LogicError,1,1,LogicError
+225,No error,0,0,No error
+226,LogicError,1,1,LogicError
+227,TypeError,4,4,TypeError
+228,LogicError,1,6,UnboundLocalError
+229,No error,0,1,LogicError
+230,SyntaxError,2,2,SyntaxError
+231,SyntaxError,2,2,SyntaxError
+232,No error,0,1,LogicError
+233,LogicError,1,1,LogicError
+234,LogicError,1,1,LogicError
+235,IndentationError,5,2,SyntaxError
+236,No error,0,0,No error
+237,LogicError,1,1,LogicError
+238,No error,0,0,No error
+239,NameError,3,3,NameError
+240,SyntaxError,2,2,SyntaxError
+241,No error,0,0,No error
+242,No error,0,0,No error
+243,No error,0,1,LogicError
+244,No error,0,0,No error
+245,No error,0,0,No error
+246,LogicError,1,1,LogicError
+247,LogicError,1,1,LogicError
+248,UnboundLocalError,6,6,UnboundLocalError
+249,LogicError,1,1,LogicError
+250,SyntaxError,2,2,SyntaxError
+251,No error,0,0,No error
+252,LogicError,1,1,LogicError
+253,SyntaxError,2,2,SyntaxError
+254,No error,0,1,LogicError
+255,No error,0,0,No error
+256,No error,0,0,No error
+257,LogicError,1,0,No error
+258,SyntaxError,2,2,SyntaxError
+259,TypeError,4,4,TypeError
+260,LogicError,1,1,LogicError
+261,NameError,3,3,NameError
+262,No error,0,1,LogicError
+263,LogicError,1,1,LogicError
+264,No error,0,0,No error
+265,No error,0,1,LogicError
+266,No error,0,0,No error
+267,No error,0,0,No error
+268,LogicError,1,1,LogicError
+269,NameError,3,3,NameError
+270,No error,0,0,No error
+271,IndentationError,5,5,IndentationError
+272,LogicError,1,1,LogicError
+273,LogicError,1,1,LogicError
+274,No error,0,0,No error
+275,LogicError,1,1,LogicError
+276,LogicError,1,1,LogicError
+277,LogicError,1,1,LogicError
+278,No error,0,0,No error
+279,NameError,3,3,NameError
+280,LogicError,1,1,LogicError
+281,No error,0,0,No error
+282,LogicError,1,1,LogicError
+283,SyntaxError,2,2,SyntaxError
+284,No error,0,0,No error
+285,LogicError,1,1,LogicError
+286,LogicError,1,1,LogicError
+287,NameError,3,3,NameError
+288,SyntaxError,2,2,SyntaxError
+289,No error,0,0,No error
+290,No error,0,0,No error
+291,No error,0,0,No error
+292,No error,0,0,No error
+293,SyntaxError,2,2,SyntaxError
+294,No error,0,0,No error
+295,No error,0,0,No error
+296,No error,0,0,No error
+297,LogicError,1,1,LogicError
+298,No error,0,0,No error
+299,No error,0,0,No error
+300,LogicError,1,1,LogicError
+301,LogicError,1,1,LogicError
+302,No error,0,0,No error
+303,SyntaxError,2,2,SyntaxError
+304,IndentationError,5,5,IndentationError
+305,KeyError,7,7,KeyError
+306,LogicError,1,1,LogicError
+307,LogicError,1,1,LogicError
+308,No error,0,0,No error
+309,No error,0,0,No error
+310,No error,0,0,No error
+311,LogicError,1,1,LogicError
+312,No error,0,0,No error
+313,LogicError,1,1,LogicError
+314,LogicError,1,1,LogicError
+315,No error,0,0,No error
+316,No error,0,0,No error
+317,LogicError,1,1,LogicError
+318,SyntaxError,2,2,SyntaxError
+319,LogicError,1,1,LogicError
+320,LogicError,1,1,LogicError
+321,No error,0,1,LogicError
+322,NameError,3,3,NameError
+323,KeyError,7,7,KeyError
+324,No error,0,0,No error
+325,LogicError,1,1,LogicError
+326,No error,0,0,No error
+327,No error,0,0,No error
+328,LogicError,1,1,LogicError
+329,No error,0,0,No error
+330,LogicError,1,1,LogicError
+331,RecursionError,10,1,LogicError
+332,No error,0,1,LogicError
+333,No error,0,1,LogicError
+334,TabError,12,12,TabError
+335,LogicError,1,1,LogicError
+336,No error,0,0,No error
+337,No error,0,0,No error
+338,No error,0,0,No error
+339,No error,0,0,No error
+340,No error,0,0,No error
+341,No error,0,0,No error
+342,No error,0,0,No error
+343,TabError,12,12,TabError
+344,No error,0,0,No error
+345,SyntaxError,2,2,SyntaxError
+346,LogicError,1,1,LogicError
+347,LogicError,1,1,LogicError
+348,No error,0,0,No error
+349,NameError,3,3,NameError
+350,ValueError,11,11,ValueError
+351,No error,0,0,No error
+352,NameError,3,3,NameError
+353,LogicError,1,1,LogicError
+354,LogicError,1,1,LogicError
+355,No error,0,0,No error
+356,No error,0,0,No error
+357,No error,0,1,LogicError
+358,No error,0,0,No error
+359,No error,0,1,LogicError
+360,LogicError,1,1,LogicError
+361,No error,0,0,No error
+362,LogicError,1,1,LogicError
+363,No error,0,0,No error
+364,No error,0,0,No error
+365,No error,0,0,No error
+366,No error,0,0,No error
+367,No error,0,0,No error
+368,LogicError,1,1,LogicError
+369,No error,0,0,No error
+370,No error,0,0,No error
+371,No error,0,0,No error
+372,SyntaxError,2,2,SyntaxError
+373,No error,0,0,No error
+374,No error,0,1,LogicError
+375,No error,0,0,No error
+376,SyntaxError,2,2,SyntaxError
+377,LogicError,1,1,LogicError
+378,No error,0,0,No error
+379,LogicError,1,1,LogicError
+380,LogicError,1,1,LogicError
+381,LogicError,1,1,LogicError
+382,No error,0,0,No error
+383,SyntaxError,2,2,SyntaxError
+384,No error,0,0,No error
+385,No error,0,0,No error
+386,No error,0,0,No error
+387,No error,0,0,No error
+388,SyntaxError,2,2,SyntaxError
+389,SyntaxError,2,2,SyntaxError
+390,LogicError,1,0,No error
+391,No error,0,0,No error
+392,LogicError,1,1,LogicError
+393,No error,0,0,No error
+394,LogicError,1,1,LogicError
+395,No error,0,0,No error
+396,No error,0,0,No error
+397,No error,0,0,No error
+398,No error,0,0,No error
+399,No error,0,0,No error
+400,LogicError,1,1,LogicError
+401,No error,0,0,No error
+402,No error,0,0,No error
+403,NameError,3,3,NameError
+404,SyntaxError,2,2,SyntaxError
+405,No error,0,0,No error
+406,No error,0,0,No error
+407,No error,0,0,No error
+408,LogicError,1,1,LogicError
+409,LogicError,1,1,LogicError
+410,No error,0,1,LogicError
+411,NameError,3,3,NameError
+412,No error,0,0,No error
+413,No error,0,0,No error
+414,No error,0,0,No error
+415,LogicError,1,1,LogicError
+416,No error,0,1,LogicError
+417,No error,0,0,No error
+418,No error,0,0,No error
+419,No error,0,0,No error
+420,KeyError,7,7,KeyError
+421,LogicError,1,1,LogicError
+422,No error,0,0,No error
+423,No error,0,0,No error
+424,LogicError,1,1,LogicError
+425,UnboundLocalError,6,6,UnboundLocalError
+426,LogicError,1,1,LogicError
+427,No error,0,0,No error
+428,No error,0,1,LogicError
+429,SyntaxError,2,2,SyntaxError
+430,SyntaxError,2,2,SyntaxError
+431,LogicError,1,1,LogicError
+432,No error,0,0,No error
+433,LogicError,1,1,LogicError
+434,IndentationError,5,5,IndentationError
+435,TypeError,4,4,TypeError
+436,No error,0,0,No error
+437,LogicError,1,1,LogicError
+438,LogicError,1,1,LogicError
+439,SyntaxError,2,2,SyntaxError
+440,LogicError,1,1,LogicError
+441,SyntaxError,2,2,SyntaxError
+442,No error,0,0,No error
+443,No error,0,0,No error
+444,SyntaxError,2,2,SyntaxError
+445,TypeError,4,4,TypeError
+446,LogicError,1,1,LogicError
+447,LogicError,1,1,LogicError
+448,NameError,3,3,NameError
+449,NameError,3,3,NameError
+450,No error,0,0,No error
+451,LogicError,1,1,LogicError
+452,No error,0,0,No error
+453,LogicError,1,1,LogicError
+454,No error,0,0,No error
+455,No error,0,0,No error
+456,IndentationError,5,5,IndentationError
+457,No error,0,0,No error
+458,No error,0,0,No error
+459,NameError,3,3,NameError
+460,NameError,3,3,NameError
+461,No error,0,0,No error
+462,No error,0,0,No error
+463,No error,0,1,LogicError
+464,No error,0,1,LogicError
+465,No error,0,0,No error
+466,LogicError,1,1,LogicError
+467,ValueError,11,11,ValueError
+468,No error,0,0,No error
+469,NameError,3,3,NameError
+470,No error,0,0,No error
+471,LogicError,1,1,LogicError
+472,NameError,3,3,NameError
+473,No error,0,0,No error
+474,RecursionError,10,10,RecursionError
+475,No error,0,0,No error
+476,LogicError,1,1,LogicError
+477,LogicError,1,1,LogicError
+478,LogicError,1,0,No error
+479,SyntaxError,2,2,SyntaxError
+480,No error,0,0,No error
+481,No error,0,0,No error
+482,LogicError,1,1,LogicError
+483,No error,0,0,No error
+484,SyntaxError,2,2,SyntaxError
+485,LogicError,1,1,LogicError
+486,LogicError,1,1,LogicError
+487,No error,0,0,No error
+488,No error,0,0,No error
+489,LogicError,1,1,LogicError
+490,No error,0,0,No error
+491,No error,0,0,No error
+492,LogicError,1,1,LogicError
+493,No error,0,0,No error
+494,No error,0,0,No error
+495,No error,0,0,No error
+496,LogicError,1,1,LogicError
+497,No error,0,0,No error
+498,No error,0,0,No error
+499,LogicError,1,1,LogicError
+500,No error,0,0,No error
+501,No error,0,0,No error
+502,No error,0,0,No error
+503,No error,0,0,No error
+504,LogicError,1,1,LogicError
+505,SyntaxError,2,2,SyntaxError
+506,No error,0,0,No error
+507,No error,0,0,No error
+508,SyntaxError,2,2,SyntaxError
+509,No error,0,0,No error
+510,NameError,3,3,NameError
+511,LogicError,1,1,LogicError
+512,LogicError,1,1,LogicError
+513,No error,0,0,No error
+514,LogicError,1,1,LogicError
+515,TypeError,4,4,TypeError
+516,IndentationError,5,5,IndentationError
+517,LogicError,1,4,TypeError
+518,No error,0,0,No error
+519,SyntaxError,2,2,SyntaxError
+520,No error,0,0,No error
+521,NameError,3,3,NameError
+522,SyntaxError,2,2,SyntaxError
+523,LogicError,1,1,LogicError
+524,No error,0,0,No error
+525,No error,0,0,No error
+526,No error,0,0,No error
+527,No error,0,0,No error
+528,LogicError,1,0,No error
+529,No error,0,0,No error
+530,No error,0,1,LogicError
+531,LogicError,1,1,LogicError
+532,No error,0,1,LogicError
+533,No error,0,0,No error
+534,No error,0,0,No error
+535,LogicError,1,0,No error
+536,IndentationError,5,5,IndentationError
+537,No error,0,0,No error
+538,IndentationError,5,5,IndentationError
+539,LogicError,1,1,LogicError
+540,NameError,3,3,NameError
+541,No error,0,0,No error
+542,No error,0,0,No error
+543,LogicError,1,1,LogicError
+544,IndentationError,5,5,IndentationError
+545,LogicError,1,1,LogicError
+546,SyntaxError,2,2,SyntaxError
+547,No error,0,1,LogicError
+548,No error,0,0,No error
+549,No error,0,0,No error
+550,EOFError,9,1,LogicError
+551,No error,0,0,No error
+552,SyntaxError,2,2,SyntaxError
+553,NameError,3,3,NameError
+554,TypeError,4,4,TypeError
+555,NameError,3,3,NameError
+556,NameError,3,3,NameError
+557,LogicError,1,1,LogicError
+558,No error,0,0,No error
+559,ValueError,11,11,ValueError
+560,No error,0,0,No error
+561,SyntaxError,2,2,SyntaxError
+562,No error,0,0,No error
+563,No error,0,0,No error
+564,No error,0,0,No error
+565,SyntaxError,2,2,SyntaxError
+566,LogicError,1,1,LogicError
+567,LogicError,1,1,LogicError
+568,No error,0,0,No error
+569,LogicError,1,1,LogicError
+570,No error,0,1,LogicError
+571,No error,0,0,No error
+572,SyntaxError,2,2,SyntaxError
+573,No error,0,0,No error
+574,No error,0,0,No error
+575,No error,0,0,No error
+576,LogicError,1,1,LogicError
+577,TypeError,4,4,TypeError
+578,No error,0,0,No error
+579,No error,0,0,No error
+580,No error,0,0,No error
+581,No error,0,0,No error
+582,LogicError,1,1,LogicError
+583,No error,0,0,No error
+584,LogicError,1,1,LogicError
+585,LogicError,1,1,LogicError
+586,LogicError,1,1,LogicError
+587,No error,0,0,No error
+588,No error,0,0,No error
+589,LogicError,1,1,LogicError
+590,No error,0,0,No error
+591,SyntaxError,2,2,SyntaxError
+592,No error,0,0,No error
+593,SyntaxError,2,2,SyntaxError
+594,NameError,3,3,NameError
+595,LogicError,1,1,LogicError
+596,No error,0,0,No error
+597,NameError,3,3,NameError
+598,IndexError,8,1,LogicError
+599,SyntaxError,2,2,SyntaxError
+600,LogicError,1,1,LogicError
+601,No error,0,1,LogicError
+602,LogicError,1,1,LogicError
+603,LogicError,1,1,LogicError
+604,No error,0,0,No error
+605,NameError,3,3,NameError
+606,SyntaxError,2,2,SyntaxError
+607,NameError,3,3,NameError
+608,No error,0,0,No error
+609,LogicError,1,1,LogicError
+610,TypeError,4,4,TypeError
+611,No error,0,0,No error
+612,No error,0,1,LogicError
+613,No error,0,0,No error
+614,No error,0,0,No error
+615,No error,0,0,No error
+616,No error,0,0,No error
+617,No error,0,0,No error
+618,SyntaxError,2,2,SyntaxError
+619,No error,0,1,LogicError
+620,No error,0,0,No error
+621,LogicError,1,1,LogicError
+622,NameError,3,3,NameError
+623,LogicError,1,1,LogicError
+624,No error,0,1,LogicError
+625,LogicError,1,0,No error
+626,No error,0,0,No error
+627,No error,0,0,No error
+628,IndentationError,5,5,IndentationError
+629,SyntaxError,2,2,SyntaxError
+630,NameError,3,3,NameError
+631,No error,0,0,No error
+632,LogicError,1,1,LogicError
+633,No error,0,0,No error
+634,No error,0,0,No error
+635,IndentationError,5,5,IndentationError
+636,LogicError,1,1,LogicError
+637,NameError,3,3,NameError
+638,LogicError,1,1,LogicError
+639,No error,0,0,No error
+640,NameError,3,3,NameError
+641,NameError,3,3,NameError
+642,No error,0,0,No error
+643,SyntaxError,2,2,SyntaxError
+644,TypeError,4,4,TypeError
+645,No error,0,0,No error
+646,No error,0,0,No error
+647,LogicError,1,1,LogicError
+648,No error,0,0,No error
+649,LogicError,1,1,LogicError
+650,IndexError,8,8,IndexError
+651,UnboundLocalError,6,6,UnboundLocalError
+652,LogicError,1,1,LogicError
+653,No error,0,0,No error
+654,No error,0,0,No error
+655,UnboundLocalError,6,3,NameError
+656,IndentationError,5,5,IndentationError
+657,No error,0,0,No error
+658,No error,0,0,No error
+659,No error,0,0,No error
+660,RecursionError,10,10,RecursionError
+661,SyntaxError,2,2,SyntaxError
+662,No error,0,0,No error
+663,LogicError,1,0,No error
+664,SyntaxError,2,2,SyntaxError
+665,LogicError,1,1,LogicError
+666,No error,0,0,No error
+667,No error,0,0,No error
+668,No error,0,0,No error
+669,NameError,3,3,NameError
+670,No error,0,0,No error
+671,No error,0,0,No error
+672,No error,0,1,LogicError
+673,No error,0,0,No error
+674,LogicError,1,1,LogicError
+675,LogicError,1,1,LogicError
+676,LogicError,1,1,LogicError
+677,SyntaxError,2,2,SyntaxError
+678,No error,0,0,No error
+679,No error,0,0,No error
+680,No error,0,0,No error
+681,No error,0,0,No error
+682,No error,0,0,No error
+683,LogicError,1,1,LogicError
+684,No error,0,0,No error
+685,LogicError,1,1,LogicError
+686,NameError,3,3,NameError
+687,SyntaxError,2,2,SyntaxError
+688,No error,0,0,No error
+689,No error,0,0,No error
+690,IndentationError,5,5,IndentationError
+691,LogicError,1,1,LogicError
+692,TabError,12,12,TabError
+693,No error,0,0,No error
+694,No error,0,0,No error
+695,No error,0,0,No error
+696,LogicError,1,1,LogicError
+697,No error,0,0,No error
+698,NameError,3,3,NameError
+699,NameError,3,3,NameError
+700,No error,0,0,No error
+701,No error,0,0,No error
+702,No error,0,1,LogicError
+703,NameError,3,3,NameError
+704,No error,0,0,No error
+705,No error,0,0,No error
+706,No error,0,0,No error
+707,No error,0,0,No error
+708,No error,0,0,No error
+709,No error,0,0,No error
+710,No error,0,0,No error
+711,SyntaxError,2,2,SyntaxError
+712,No error,0,0,No error
+713,LogicError,1,1,LogicError
+714,LogicError,1,1,LogicError
+715,No error,0,0,No error
+716,LogicError,1,1,LogicError
+717,LogicError,1,1,LogicError
+718,LogicError,1,1,LogicError
+719,No error,0,0,No error
+720,NameError,3,3,NameError
+721,No error,0,0,No error
+722,TypeError,4,4,TypeError
+723,No error,0,0,No error
+724,No error,0,0,No error
+725,LogicError,1,1,LogicError
+726,LogicError,1,1,LogicError
+727,LogicError,1,1,LogicError
+728,EOFError,9,9,EOFError
+729,LogicError,1,1,LogicError
+730,No error,0,0,No error
+731,UnboundLocalError,6,6,UnboundLocalError
+732,NameError,3,3,NameError
+733,No error,0,0,No error
+734,No error,0,0,No error
+735,No error,0,0,No error
+736,UnboundLocalError,6,6,UnboundLocalError
+737,LogicError,1,1,LogicError
+738,LogicError,1,1,LogicError
+739,No error,0,0,No error
+740,No error,0,0,No error
+741,No error,0,0,No error
+742,SyntaxError,2,2,SyntaxError
+743,No error,0,0,No error
+744,LogicError,1,1,LogicError
+745,LogicError,1,1,LogicError
+746,TabError,12,12,TabError
+747,SyntaxError,2,2,SyntaxError
+748,No error,0,0,No error
+749,No error,0,0,No error
+750,No error,0,0,No error
+751,UnboundLocalError,6,6,UnboundLocalError
+752,NameError,3,3,NameError
+753,LogicError,1,1,LogicError
+754,No error,0,1,LogicError
+755,No error,0,0,No error
+756,LogicError,1,1,LogicError
+757,No error,0,0,No error
+758,TypeError,4,4,TypeError
+759,No error,0,0,No error
+760,No error,0,0,No error
+761,No error,0,0,No error
+762,LogicError,1,1,LogicError
+763,No error,0,0,No error
+764,No error,0,0,No error
+765,LogicError,1,1,LogicError
+766,No error,0,1,LogicError
+767,SyntaxError,2,2,SyntaxError
+768,No error,0,0,No error
+769,NameError,3,3,NameError
+770,LogicError,1,1,LogicError
+771,LogicError,1,1,LogicError
+772,No error,0,0,No error
+773,LogicError,1,1,LogicError
+774,SyntaxError,2,2,SyntaxError
+775,LogicError,1,1,LogicError
+776,LogicError,1,1,LogicError
+777,LogicError,1,1,LogicError
+778,IndentationError,5,5,IndentationError
+779,No error,0,0,No error
+780,No error,0,0,No error
+781,No error,0,0,No error
+782,SyntaxError,2,2,SyntaxError
+783,No error,0,0,No error
+784,No error,0,0,No error
+785,IndentationError,5,5,IndentationError
+786,No error,0,1,LogicError
+787,NameError,3,3,NameError
+788,IndentationError,5,5,IndentationError
+789,NameError,3,3,NameError
+790,NameError,3,3,NameError
+791,SyntaxError,2,2,SyntaxError
+792,SyntaxError,2,2,SyntaxError
+793,No error,0,0,No error
+794,LogicError,1,1,LogicError
+795,No error,0,0,No error
+796,No error,0,0,No error
+797,SyntaxError,2,2,SyntaxError
+798,LogicError,1,1,LogicError
+799,No error,0,0,No error
+800,No error,0,0,No error
+801,LogicError,1,1,LogicError
+802,No error,0,0,No error
+803,SyntaxError,2,1,LogicError
+804,SyntaxError,2,2,SyntaxError
+805,IndentationError,5,5,IndentationError
+806,No error,0,0,No error
+807,LogicError,1,0,No error
+808,LogicError,1,1,LogicError
+809,LogicError,1,1,LogicError
+810,LogicError,1,1,LogicError
+811,SyntaxError,2,2,SyntaxError
+812,No error,0,0,No error
+813,NameError,3,3,NameError
+814,No error,0,0,No error
+815,No error,0,0,No error
+816,TypeError,4,4,TypeError
+817,NameError,3,3,NameError
+818,IndexError,8,8,IndexError
+819,TypeError,4,4,TypeError
+820,No error,0,1,LogicError
+821,LogicError,1,1,LogicError
+822,UnboundLocalError,6,6,UnboundLocalError
+823,SyntaxError,2,2,SyntaxError
+824,ZeroDivisionError,13,1,LogicError
+825,LogicError,1,1,LogicError
+826,No error,0,0,No error
+827,No error,0,0,No error
+828,IndentationError,5,5,IndentationError
+829,No error,0,0,No error
+830,No error,0,0,No error
+831,NameError,3,3,NameError
+832,No error,0,1,LogicError
+833,No error,0,0,No error
+834,RecursionError,10,10,RecursionError
+835,No error,0,0,No error
+836,LogicError,1,1,LogicError
+837,LogicError,1,1,LogicError
+838,RecursionError,10,1,LogicError
+839,No error,0,0,No error
+840,NameError,3,3,NameError
+841,No error,0,0,No error
+842,LogicError,1,1,LogicError
+843,ValueError,11,11,ValueError
+844,No error,0,0,No error
+845,No error,0,0,No error
+846,No error,0,0,No error
+847,SyntaxError,2,2,SyntaxError
+848,TypeError,4,4,TypeError
+849,IndentationError,5,5,IndentationError
+850,No error,0,0,No error
+851,SyntaxError,2,2,SyntaxError
+852,No error,0,1,LogicError
+853,No error,0,0,No error
+854,LogicError,1,1,LogicError
+855,No error,0,0,No error
+856,No error,0,0,No error
+857,SyntaxError,2,2,SyntaxError
+858,LogicError,1,1,LogicError
+859,LogicError,1,1,LogicError
+860,No error,0,0,No error
+861,NameError,3,3,NameError
+862,No error,0,1,LogicError
+863,LogicError,1,1,LogicError
+864,SyntaxError,2,2,SyntaxError
+865,No error,0,0,No error
+866,NameError,3,3,NameError
+867,NameError,3,3,NameError
+868,SyntaxError,2,2,SyntaxError
+869,No error,0,0,No error
+870,No error,0,0,No error
+871,No error,0,0,No error
+872,LogicError,1,1,LogicError
+873,No error,0,0,No error
+874,No error,0,0,No error
+875,No error,0,0,No error
+876,No error,0,1,LogicError
+877,SyntaxError,2,2,SyntaxError
+878,No error,0,0,No error
+879,No error,0,0,No error
+880,No error,0,0,No error
+881,No error,0,0,No error
+882,SyntaxError,2,2,SyntaxError
+883,No error,0,1,LogicError
+884,No error,0,0,No error
+885,No error,0,1,LogicError
+886,No error,0,1,LogicError
+887,LogicError,1,1,LogicError
+888,No error,0,0,No error
+889,No error,0,0,No error
+890,No error,0,0,No error
+891,No error,0,0,No error
+892,SyntaxError,2,2,SyntaxError
+893,No error,0,0,No error
+894,No error,0,0,No error
+895,LogicError,1,1,LogicError
+896,No error,0,0,No error
+897,No error,0,0,No error
+898,LogicError,1,1,LogicError
+899,No error,0,0,No error
+900,TypeError,4,4,TypeError
+901,KeyError,7,7,KeyError
+902,No error,0,0,No error
+903,SyntaxError,2,2,SyntaxError
+904,No error,0,0,No error
+905,LogicError,1,1,LogicError
+906,IndentationError,5,5,IndentationError
+907,UnboundLocalError,6,3,NameError
+908,NameError,3,3,NameError
+909,LogicError,1,1,LogicError
+910,No error,0,0,No error
+911,No error,0,0,No error
+912,No error,0,0,No error
+913,No error,0,0,No error
+914,LogicError,1,1,LogicError
+915,No error,0,0,No error
+916,SyntaxError,2,2,SyntaxError
+917,No error,0,0,No error
+918,LogicError,1,1,LogicError
+919,No error,0,0,No error
+920,No error,0,0,No error
+921,No error,0,1,LogicError
+922,No error,0,0,No error
+923,No error,0,0,No error
+924,No error,0,0,No error
+925,No error,0,1,LogicError
+926,NameError,3,3,NameError
+927,IndentationError,5,5,IndentationError
+928,No error,0,0,No error
+929,No error,0,0,No error
+930,TypeError,4,4,TypeError
+931,SyntaxError,2,2,SyntaxError
+932,No error,0,1,LogicError
+933,LogicError,1,1,LogicError
+934,No error,0,0,No error
+935,No error,0,0,No error
+936,No error,0,0,No error
+937,No error,0,0,No error
+938,No error,0,0,No error
+939,No error,0,1,LogicError
+940,LogicError,1,6,UnboundLocalError
+941,No error,0,0,No error
+942,No error,0,0,No error
+943,LogicError,1,1,LogicError
+944,LogicError,1,1,LogicError
+945,No error,0,0,No error
+946,LogicError,1,1,LogicError
+947,LogicError,1,1,LogicError
+948,LogicError,1,1,LogicError
+949,No error,0,0,No error
+950,No error,0,0,No error
+951,No error,0,0,No error
+952,LogicError,1,1,LogicError
+953,SyntaxError,2,2,SyntaxError
+954,TypeError,4,4,TypeError
+955,No error,0,0,No error
+956,No error,0,0,No error
+957,No error,0,0,No error
+958,No error,0,0,No error
+959,No error,0,0,No error
+960,RecursionError,10,1,LogicError
+961,LogicError,1,1,LogicError
+962,No error,0,0,No error
+963,TypeError,4,4,TypeError
+964,LogicError,1,1,LogicError
+965,No error,0,0,No error
+966,No error,0,0,No error
+967,No error,0,1,LogicError
+968,TypeError,4,4,TypeError
+969,No error,0,0,No error
+970,LogicError,1,1,LogicError
+971,No error,0,0,No error
+972,TypeError,4,4,TypeError
+973,No error,0,0,No error
+974,No error,0,0,No error
+975,TypeError,4,4,TypeError
+976,NameError,3,3,NameError
+977,LogicError,1,1,LogicError
+978,TypeError,4,4,TypeError
+979,No error,0,0,No error
+980,No error,0,0,No error
+981,No error,0,0,No error
+982,NameError,3,3,NameError
+983,No error,0,0,No error
+984,SyntaxError,2,2,SyntaxError
+985,No error,0,0,No error
+986,No error,0,0,No error
+987,No error,0,0,No error
+988,SyntaxError,2,2,SyntaxError
+989,LogicError,1,1,LogicError
+990,LogicError,1,1,LogicError
+991,LogicError,1,1,LogicError
+992,No error,0,0,No error
+993,No error,0,0,No error
+994,LogicError,1,1,LogicError
+995,LogicError,1,1,LogicError
+996,No error,0,0,No error
+997,No error,0,0,No error
+998,SyntaxError,2,2,SyntaxError
+999,No error,0,0,No error
+1000,SyntaxError,2,2,SyntaxError
+1001,SyntaxError,2,2,SyntaxError
+1002,SyntaxError,2,2,SyntaxError
+1003,No error,0,0,No error
+1004,No error,0,0,No error
+1005,No error,0,0,No error
+1006,LogicError,1,1,LogicError
+1007,LogicError,1,1,LogicError
+1008,No error,0,0,No error
+1009,LogicError,1,1,LogicError
+1010,LogicError,1,1,LogicError
+1011,No error,0,0,No error
+1012,TypeError,4,4,TypeError
+1013,No error,0,0,No error
+1014,No error,0,1,LogicError
+1015,No error,0,0,No error
+1016,LogicError,1,1,LogicError
+1017,LogicError,1,1,LogicError
+1018,LogicError,1,1,LogicError
+1019,No error,0,0,No error
+1020,No error,0,0,No error
+1021,SyntaxError,2,2,SyntaxError
+1022,No error,0,0,No error
+1023,No error,0,0,No error
+1024,No error,0,1,LogicError
+1025,No error,0,0,No error
+1026,No error,0,0,No error
+1027,TypeError,4,4,TypeError
+1028,No error,0,0,No error
+1029,No error,0,1,LogicError
+1030,LogicError,1,1,LogicError
+1031,LogicError,1,1,LogicError
+1032,LogicError,1,1,LogicError
+1033,No error,0,1,LogicError
+1034,No error,0,0,No error
+1035,LogicError,1,1,LogicError
+1036,TypeError,4,4,TypeError
+1037,IndexError,8,1,LogicError
+1038,No error,0,0,No error
+1039,No error,0,0,No error
+1040,No error,0,0,No error
+1041,No error,0,0,No error
+1042,No error,0,0,No error
+1043,LogicError,1,1,LogicError
+1044,No error,0,0,No error
+1045,TypeError,4,4,TypeError
+1046,No error,0,0,No error
+1047,No error,0,0,No error
+1048,LogicError,1,1,LogicError
+1049,LogicError,1,3,NameError
+1050,LogicError,1,1,LogicError
+1051,No error,0,1,LogicError
+1052,No error,0,0,No error
+1053,LogicError,1,1,LogicError
+1054,No error,0,0,No error
+1055,SyntaxError,2,2,SyntaxError
+1056,LogicError,1,1,LogicError
+1057,No error,0,0,No error
+1058,No error,0,0,No error
+1059,SyntaxError,2,2,SyntaxError
+1060,LogicError,1,1,LogicError
+1061,SyntaxError,2,2,SyntaxError
+1062,No error,0,0,No error
+1063,SyntaxError,2,2,SyntaxError
+1064,No error,0,0,No error
+1065,LogicError,1,1,LogicError
+1066,No error,0,0,No error
+1067,No error,0,0,No error
+1068,NameError,3,3,NameError
+1069,SyntaxError,2,2,SyntaxError
+1070,No error,0,0,No error
+1071,No error,0,0,No error
+1072,No error,0,0,No error
+1073,NameError,3,3,NameError
+1074,No error,0,0,No error
+1075,No error,0,0,No error
+1076,No error,0,1,LogicError
+1077,LogicError,1,1,LogicError
+1078,No error,0,0,No error
+1079,No error,0,0,No error
+1080,LogicError,1,1,LogicError
+1081,No error,0,0,No error
+1082,EOFError,9,9,EOFError
+1083,No error,0,0,No error
+1084,LogicError,1,10,RecursionError
+1085,SyntaxError,2,2,SyntaxError
+1086,No error,0,0,No error
+1087,LogicError,1,1,LogicError
+1088,No error,0,0,No error
+1089,LogicError,1,0,No error
+1090,LogicError,1,1,LogicError
+1091,No error,0,0,No error
+1092,No error,0,0,No error
+1093,LogicError,1,1,LogicError
+1094,LogicError,1,1,LogicError
+1095,No error,0,1,LogicError
+1096,No error,0,0,No error
+1097,LogicError,1,1,LogicError
+1098,No error,0,0,No error
+1099,No error,0,0,No error
+1100,SyntaxError,2,2,SyntaxError
+1101,IndexError,8,8,IndexError
+1102,No error,0,0,No error
+1103,NameError,3,3,NameError
+1104,LogicError,1,1,LogicError
+1105,SyntaxError,2,2,SyntaxError
+1106,EOFError,9,9,EOFError
+1107,LogicError,1,1,LogicError
+1108,TypeError,4,4,TypeError
+1109,SyntaxError,2,2,SyntaxError
+1110,No error,0,0,No error
+1111,No error,0,0,No error
+1112,No error,0,1,LogicError
+1113,No error,0,0,No error
+1114,IndentationError,5,5,IndentationError
+1115,No error,0,0,No error
+1116,No error,0,0,No error
+1117,LogicError,1,1,LogicError
+1118,No error,0,0,No error
+1119,LogicError,1,0,No error
+1120,TypeError,4,4,TypeError
+1121,No error,0,0,No error
+1122,No error,0,0,No error
+1123,LogicError,1,1,LogicError
+1124,LogicError,1,1,LogicError
+1125,NameError,3,3,NameError
+1126,No error,0,0,No error
+1127,No error,0,0,No error
+1128,No error,0,0,No error
+1129,AttributeError,13,13,Other errors
+1130,No error,0,0,No error
+1131,No error,0,1,LogicError
+1132,TypeError,4,4,TypeError
+1133,LogicError,1,1,LogicError
+1134,LogicError,1,1,LogicError
+1135,LogicError,1,1,LogicError
+1136,LogicError,1,1,LogicError
+1137,NameError,3,3,NameError
+1138,No error,0,0,No error
+1139,LogicError,1,1,LogicError
+1140,LogicError,1,1,LogicError
+1141,No error,0,0,No error
+1142,No error,0,1,LogicError
+1143,IndentationError,5,5,IndentationError
+1144,LogicError,1,1,LogicError
+1145,TypeError,4,4,TypeError
+1146,KeyError,7,7,KeyError
+1147,LogicError,1,1,LogicError
+1148,No error,0,0,No error
+1149,SyntaxError,2,2,SyntaxError
+1150,SyntaxError,2,2,SyntaxError
+1151,No error,0,0,No error
+1152,No error,0,0,No error
+1153,SyntaxError,2,2,SyntaxError
+1154,No error,0,0,No error
+1155,No error,0,0,No error
+1156,LogicError,1,1,LogicError
+1157,LogicError,1,1,LogicError
+1158,No error,0,0,No error
+1159,No error,0,0,No error
+1160,LogicError,1,1,LogicError
+1161,IndentationError,5,2,SyntaxError
+1162,No error,0,0,No error
+1163,No error,0,0,No error
+1164,LogicError,1,1,LogicError
+1165,No error,0,0,No error
+1166,No error,0,1,LogicError
+1167,No error,0,0,No error
+1168,TabError,12,12,TabError
+1169,LogicError,1,1,LogicError
+1170,LogicError,1,1,LogicError
+1171,No error,0,0,No error
+1172,No error,0,0,No error
+1173,No error,0,0,No error
+1174,No error,0,0,No error
+1175,No error,0,0,No error
+1176,LogicError,1,1,LogicError
+1177,No error,0,0,No error
+1178,NameError,3,3,NameError
+1179,No error,0,0,No error
+1180,No error,0,0,No error
+1181,No error,0,0,No error
+1182,NameError,3,3,NameError
+1183,SyntaxError,2,2,SyntaxError
+1184,No error,0,0,No error
+1185,LogicError,1,1,LogicError
+1186,LogicError,1,1,LogicError
+1187,No error,0,0,No error
+1188,LogicError,1,1,LogicError
+1189,LogicError,1,1,LogicError
+1190,No error,0,0,No error
+1191,LogicError,1,1,LogicError
+1192,No error,0,0,No error
+1193,No error,0,0,No error
+1194,LogicError,1,1,LogicError
+1195,LogicError,1,1,LogicError
+1196,LogicError,1,0,No error
+1197,LogicError,1,1,LogicError
+1198,NameError,3,3,NameError
+1199,SyntaxError,2,2,SyntaxError
+1200,No error,0,0,No error
+1201,AttributeError,13,13,Other errors
+1202,NameError,3,3,NameError
+1203,SyntaxError,2,2,SyntaxError
+1204,TypeError,4,4,TypeError
+1205,No error,0,0,No error
+1206,No error,0,0,No error
+1207,SyntaxError,2,0,No error
+1208,SyntaxError,2,2,SyntaxError
+1209,LogicError,1,1,LogicError
+1210,No error,0,1,LogicError
+1211,No error,0,0,No error
+1212,No error,0,0,No error
+1213,No error,0,0,No error
+1214,LogicError,1,1,LogicError
+1215,No error,0,0,No error
+1216,No error,0,0,No error
+1217,LogicError,1,1,LogicError
+1218,SyntaxError,2,2,SyntaxError
+1219,IndentationError,5,5,IndentationError
+1220,No error,0,0,No error
+1221,TypeError,4,4,TypeError
+1222,TypeError,4,4,TypeError
+1223,LogicError,1,1,LogicError
+1224,No error,0,0,No error
+1225,No error,0,0,No error
+1226,No error,0,0,No error
+1227,No error,0,0,No error
+1228,UnboundLocalError,6,6,UnboundLocalError
+1229,TypeError,4,4,TypeError
+1230,No error,0,0,No error
+1231,No error,0,0,No error
+1232,No error,0,1,LogicError
+1233,No error,0,0,No error
+1234,SyntaxError,2,2,SyntaxError
+1235,No error,0,0,No error
+1236,SyntaxError,2,3,NameError
+1237,TypeError,4,4,TypeError
+1238,No error,0,0,No error
+1239,LogicError,1,1,LogicError
+1240,IndentationError,5,5,IndentationError
+1241,LogicError,1,1,LogicError
+1242,No error,0,0,No error
+1243,No error,0,0,No error
+1244,TypeError,4,4,TypeError
+1245,LogicError,1,1,LogicError
+1246,TypeError,4,4,TypeError
+1247,No error,0,0,No error
+1248,SyntaxError,2,2,SyntaxError
+1249,TypeError,4,4,TypeError
+1250,TypeError,4,4,TypeError
+1251,No error,0,0,No error
+1252,No error,0,0,No error
+1253,No error,0,0,No error
+1254,LogicError,1,1,LogicError
+1255,SyntaxError,2,2,SyntaxError
+1256,LogicError,1,1,LogicError
+1257,No error,0,1,LogicError
+1258,No error,0,0,No error
+1259,No error,0,0,No error
+1260,No error,0,0,No error
+1261,IndexError,8,8,IndexError
+1262,SyntaxError,2,2,SyntaxError
+1263,No error,0,0,No error
+1264,TabError,12,12,TabError
+1265,No error,0,0,No error
+1266,LogicError,1,1,LogicError
+1267,TypeError,4,4,TypeError
+1268,LogicError,1,1,LogicError
+1269,SyntaxError,2,2,SyntaxError
+1270,RecursionError,10,1,LogicError
+1271,No error,0,0,No error
+1272,No error,0,0,No error
+1273,No error,0,0,No error
+1274,No error,0,0,No error
+1275,No error,0,0,No error
+1276,IndentationError,5,5,IndentationError
+1277,No error,0,0,No error
+1278,LogicError,1,1,LogicError
+1279,LogicError,1,1,LogicError
+1280,LogicError,1,1,LogicError
+1281,NameError,3,3,NameError
+1282,LogicError,1,1,LogicError
+1283,No error,0,0,No error
+1284,LogicError,1,1,LogicError
+1285,LogicError,1,1,LogicError
+1286,No error,0,0,No error
+1287,SyntaxError,2,2,SyntaxError
+1288,No error,0,0,No error
+1289,LogicError,1,1,LogicError
+1290,No error,0,0,No error
+1291,NameError,3,3,NameError
+1292,No error,0,0,No error
+1293,TypeError,4,4,TypeError
+1294,IndentationError,5,5,IndentationError
+1295,No error,0,0,No error
+1296,No error,0,0,No error
+1297,No error,0,0,No error
+1298,No error,0,0,No error
+1299,LogicError,1,1,LogicError
+1300,LogicError,1,1,LogicError
+1301,NameError,3,3,NameError
+1302,No error,0,0,No error
+1303,No error,0,0,No error
+1304,LogicError,1,1,LogicError
+1305,ValueError,11,0,No error
+1306,No error,0,0,No error
+1307,No error,0,0,No error
+1308,RecursionError,10,10,RecursionError
+1309,No error,0,0,No error
+1310,No error,0,0,No error
+1311,SyntaxError,2,2,SyntaxError
+1312,LogicError,1,1,LogicError
+1313,No error,0,0,No error
+1314,No error,0,1,LogicError
+1315,LogicError,1,1,LogicError
+1316,ValueError,11,11,ValueError
+1317,No error,0,0,No error
+1318,LogicError,1,0,No error
+1319,NameError,3,3,NameError
+1320,No error,0,0,No error
+1321,No error,0,0,No error
+1322,LogicError,1,1,LogicError
+1323,IndentationError,5,5,IndentationError
+1324,ZeroDivisionError,13,13,Other errors
+1325,SyntaxError,2,2,SyntaxError
+1326,LogicError,1,1,LogicError
+1327,No error,0,0,No error
+1328,No error,0,1,LogicError
+1329,IndentationError,5,5,IndentationError
+1330,No error,0,0,No error
+1331,No error,0,1,LogicError
+1332,No error,0,0,No error
+1333,No error,0,0,No error
+1334,No error,0,0,No error
+1335,LogicError,1,1,LogicError
+1336,SyntaxError,2,2,SyntaxError
+1337,No error,0,0,No error
+1338,No error,0,0,No error
+1339,LogicError,1,1,LogicError
+1340,LogicError,1,1,LogicError
+1341,SyntaxError,2,2,SyntaxError
+1342,LogicError,1,1,LogicError
+1343,TypeError,4,4,TypeError
+1344,No error,0,1,LogicError
+1345,No error,0,0,No error
+1346,No error,0,0,No error
+1347,SyntaxError,2,2,SyntaxError
+1348,TypeError,4,4,TypeError
+1349,No error,0,0,No error
+1350,LogicError,1,1,LogicError
+1351,LogicError,1,1,LogicError
+1352,No error,0,1,LogicError
+1353,KeyError,7,7,KeyError
+1354,LogicError,1,1,LogicError
+1355,No error,0,0,No error
+1356,No error,0,0,No error
+1357,No error,0,0,No error
+1358,No error,0,0,No error
+1359,No error,0,1,LogicError
+1360,No error,0,0,No error
+1361,No error,0,0,No error
+1362,LogicError,1,1,LogicError
+1363,No error,0,0,No error
+1364,SyntaxError,2,2,SyntaxError
+1365,SyntaxError,2,2,SyntaxError
+1366,TypeError,4,4,TypeError
+1367,No error,0,0,No error
+1368,TypeError,4,4,TypeError
+1369,SyntaxError,2,2,SyntaxError
+1370,SyntaxError,2,2,SyntaxError
+1371,No error,0,0,No error
+1372,No error,0,0,No error
+1373,KeyError,7,7,KeyError
+1374,No error,0,0,No error
+1375,NameError,3,3,NameError
+1376,SyntaxError,2,2,SyntaxError
+1377,No error,0,0,No error
+1378,SyntaxError,2,2,SyntaxError
+1379,RecursionError,10,10,RecursionError
+1380,No error,0,0,No error
+1381,No error,0,0,No error
+1382,TypeError,4,4,TypeError
+1383,No error,0,0,No error
+1384,No error,0,1,LogicError
+1385,No error,0,0,No error
+1386,No error,0,1,LogicError
+1387,TypeError,4,4,TypeError
+1388,No error,0,1,LogicError
+1389,No error,0,0,No error
+1390,No error,0,0,No error
+1391,No error,0,0,No error
+1392,No error,0,0,No error
+1393,No error,0,0,No error
+1394,LogicError,1,1,LogicError
+1395,No error,0,0,No error
+1396,No error,0,0,No error
+1397,LogicError,1,1,LogicError
+1398,No error,0,0,No error
+1399,LogicError,1,3,NameError
+1400,LogicError,1,1,LogicError
+1401,NameError,3,3,NameError
+1402,LogicError,1,1,LogicError
+1403,No error,0,1,LogicError
+1404,No error,0,0,No error
+1405,LogicError,1,1,LogicError
+1406,No error,0,0,No error
+1407,No error,0,0,No error
+1408,TypeError,4,4,TypeError
+1409,LogicError,1,1,LogicError
+1410,LogicError,1,1,LogicError
+1411,LogicError,1,1,LogicError
+1412,LogicError,1,1,LogicError
+1413,SyntaxError,2,2,SyntaxError
+1414,LogicError,1,1,LogicError
+1415,No error,0,0,No error
+1416,No error,0,0,No error
+1417,SyntaxError,2,2,SyntaxError
+1418,EOFError,9,4,TypeError
+1419,No error,0,0,No error
+1420,No error,0,0,No error
+1421,LogicError,1,1,LogicError
+1422,NameError,3,3,NameError
+1423,No error,0,0,No error
+1424,No error,0,0,No error
+1425,No error,0,0,No error
+1426,No error,0,0,No error
+1427,IndentationError,5,5,IndentationError
+1428,No error,0,0,No error
+1429,LogicError,1,1,LogicError
+1430,No error,0,1,LogicError
+1431,No error,0,0,No error
+1432,No error,0,0,No error
+1433,IndentationError,5,5,IndentationError
+1434,No error,0,0,No error
+1435,LogicError,1,1,LogicError
+1436,LogicError,1,1,LogicError
+1437,NameError,3,3,NameError
+1438,No error,0,0,No error
+1439,IndentationError,5,5,IndentationError
+1440,TypeError,4,4,TypeError
+1441,NameError,3,3,NameError
+1442,No error,0,1,LogicError
+1443,No error,0,0,No error
+1444,NameError,3,3,NameError
+1445,LogicError,1,1,LogicError
+1446,LogicError,1,1,LogicError
+1447,No error,0,0,No error
+1448,No error,0,1,LogicError
+1449,No error,0,0,No error
+1450,LogicError,1,1,LogicError
+1451,No error,0,0,No error
+1452,SyntaxError,2,2,SyntaxError
+1453,SyntaxError,2,2,SyntaxError
+1454,No error,0,0,No error
+1455,LogicError,1,1,LogicError
+1456,No error,0,1,LogicError
+1457,NameError,3,3,NameError
+1458,No error,0,0,No error
+1459,No error,0,0,No error
+1460,No error,0,0,No error
+1461,LogicError,1,1,LogicError
+1462,RecursionError,10,1,LogicError
+1463,LogicError,1,1,LogicError
+1464,No error,0,0,No error
+1465,No error,0,0,No error
+1466,No error,0,0,No error
+1467,TypeError,4,4,TypeError
+1468,LogicError,1,1,LogicError
+1469,No error,0,0,No error
+1470,No error,0,0,No error
+1471,RuntimeError,13,13,Other errors
+1472,No error,0,0,No error
+1473,No error,0,0,No error
+1474,NameError,3,3,NameError
+1475,No error,0,0,No error
+1476,LogicError,1,1,LogicError
+1477,IndentationError,5,5,IndentationError
+1478,No error,0,0,No error
+1479,NameError,3,3,NameError
+1480,No error,0,0,No error
+1481,No error,0,0,No error
+1482,No error,0,0,No error
+1483,No error,0,1,LogicError
+1484,No error,0,1,LogicError
+1485,No error,0,0,No error
+1486,No error,0,0,No error
+1487,LogicError,1,1,LogicError
+1488,SyntaxError,2,2,SyntaxError
+1489,No error,0,0,No error
+1490,RecursionError,10,10,RecursionError
+1491,No error,0,0,No error
+1492,No error,0,0,No error
+1493,No error,0,0,No error
+1494,AttributeError,13,13,Other errors
+1495,SyntaxError,2,2,SyntaxError
+1496,UnboundLocalError,6,6,UnboundLocalError
+1497,KeyError,7,7,KeyError
+1498,NameError,3,3,NameError
+1499,No error,0,0,No error
+1500,No error,0,0,No error
+1501,No error,0,0,No error
+1502,No error,0,0,No error
+1503,SyntaxError,2,2,SyntaxError
+1504,SyntaxError,2,2,SyntaxError
+1505,SyntaxError,2,2,SyntaxError
+1506,TypeError,4,4,TypeError
+1507,No error,0,0,No error
+1508,LogicError,1,1,LogicError
+1509,No error,0,0,No error
+1510,No error,0,0,No error
+1511,No error,0,0,No error
+1512,SyntaxError,2,2,SyntaxError
+1513,LogicError,1,1,LogicError
+1514,No error,0,0,No error
+1515,LogicError,1,1,LogicError
+1516,LogicError,1,1,LogicError
+1517,No error,0,0,No error
+1518,No error,0,0,No error
+1519,LogicError,1,1,LogicError
+1520,SyntaxError,2,2,SyntaxError
+1521,No error,0,1,LogicError
+1522,LogicError,1,1,LogicError
+1523,NameError,3,3,NameError
+1524,TypeError,4,4,TypeError
+1525,No error,0,0,No error
+1526,SyntaxError,2,2,SyntaxError
+1527,LogicError,1,0,No error
+1528,NameError,3,3,NameError
+1529,No error,0,0,No error
+1530,TypeError,4,4,TypeError
+1531,LogicError,1,1,LogicError
+1532,LogicError,1,1,LogicError
+1533,LogicError,1,1,LogicError
+1534,No error,0,0,No error
+1535,No error,0,0,No error
+1536,NameError,3,3,NameError
+1537,No error,0,0,No error
+1538,TypeError,4,4,TypeError
+1539,No error,0,1,LogicError
+1540,No error,0,0,No error
+1541,TypeError,4,4,TypeError
+1542,LogicError,1,1,LogicError
+1543,No error,0,0,No error
+1544,LogicError,1,1,LogicError
+1545,No error,0,0,No error
+1546,LogicError,1,0,No error
+1547,No error,0,0,No error
+1548,No error,0,0,No error
+1549,LogicError,1,1,LogicError
+1550,LogicError,1,1,LogicError
+1551,No error,0,0,No error
+1552,NameError,3,3,NameError
+1553,No error,0,0,No error
+1554,LogicError,1,1,LogicError
+1555,No error,0,0,No error
+1556,NameError,3,3,NameError
+1557,NameError,3,3,NameError
+1558,LogicError,1,1,LogicError
+1559,No error,0,0,No error
+1560,LogicError,1,1,LogicError
+1561,UnboundLocalError,6,6,UnboundLocalError
+1562,No error,0,0,No error
+1563,NameError,3,3,NameError
+1564,No error,0,1,LogicError
+1565,TypeError,4,4,TypeError
+1566,IndentationError,5,5,IndentationError
+1567,No error,0,0,No error
+1568,IndentationError,5,5,IndentationError
+1569,No error,0,0,No error
+1570,No error,0,0,No error
+1571,TypeError,4,4,TypeError
+1572,No error,0,0,No error
+1573,IndentationError,5,5,IndentationError
+1574,LogicError,1,1,LogicError
+1575,NameError,3,3,NameError
+1576,No error,0,1,LogicError
+1577,No error,0,0,No error
+1578,SyntaxError,2,2,SyntaxError
+1579,No error,0,0,No error
+1580,LogicError,1,1,LogicError
+1581,No error,0,0,No error
+1582,No error,0,0,No error
+1583,NameError,3,3,NameError
+1584,No error,0,0,No error
+1585,No error,0,0,No error
+1586,No error,0,0,No error
+1587,LogicError,1,1,LogicError
+1588,No error,0,0,No error
+1589,SyntaxError,2,2,SyntaxError
+1590,SyntaxError,2,2,SyntaxError
+1591,No error,0,1,LogicError
+1592,ValueError,11,11,ValueError
+1593,LogicError,1,1,LogicError
+1594,No error,0,0,No error
+1595,No error,0,0,No error
+1596,No error,0,0,No error
+1597,No error,0,0,No error
+1598,No error,0,0,No error
+1599,No error,0,0,No error
+1600,No error,0,0,No error
+1601,No error,0,0,No error
+1602,TypeError,4,4,TypeError
+1603,SyntaxError,2,2,SyntaxError
+1604,No error,0,0,No error
+1605,LogicError,1,1,LogicError
+1606,TypeError,4,4,TypeError
+1607,No error,0,0,No error
+1608,LogicError,1,1,LogicError
+1609,No error,0,0,No error
+1610,No error,0,0,No error
+1611,ValueError,11,11,ValueError
+1612,LogicError,1,0,No error
+1613,No error,0,0,No error
+1614,No error,0,0,No error
+1615,LogicError,1,1,LogicError
+1616,LogicError,1,1,LogicError
+1617,No error,0,0,No error
+1618,No error,0,0,No error
+1619,No error,0,0,No error
+1620,No error,0,1,LogicError
+1621,No error,0,0,No error
+1622,LogicError,1,1,LogicError
+1623,No error,0,0,No error
+1624,No error,0,0,No error
+1625,No error,0,0,No error
+1626,SyntaxError,2,2,SyntaxError
+1627,No error,0,0,No error
+1628,No error,0,0,No error
+1629,No error,0,0,No error
+1630,No error,0,0,No error
+1631,LogicError,1,1,LogicError
+1632,LogicError,1,1,LogicError
+1633,LogicError,1,1,LogicError
+1634,No error,0,0,No error
+1635,LogicError,1,1,LogicError
+1636,No error,0,0,No error
+1637,NameError,3,3,NameError
+1638,No error,0,0,No error
+1639,LogicError,1,1,LogicError
+1640,No error,0,0,No error
+1641,No error,0,0,No error
+1642,LogicError,1,1,LogicError
+1643,No error,0,0,No error
+1644,No error,0,0,No error
+1645,No error,0,0,No error
+1646,No error,0,0,No error
+1647,LogicError,1,1,LogicError
+1648,SyntaxError,2,2,SyntaxError
+1649,No error,0,1,LogicError
+1650,No error,0,0,No error
+1651,LogicError,1,0,No error
+1652,SyntaxError,2,2,SyntaxError
+1653,No error,0,0,No error
+1654,SyntaxError,2,2,SyntaxError
+1655,SyntaxError,2,2,SyntaxError
+1656,No error,0,0,No error
+1657,NameError,3,3,NameError
+1658,LogicError,1,1,LogicError
+1659,UnboundLocalError,6,3,NameError
+1660,No error,0,0,No error
+1661,No error,0,0,No error
+1662,IndentationError,5,5,IndentationError
+1663,No error,0,0,No error
+1664,No error,0,0,No error
+1665,LogicError,1,1,LogicError
+1666,LogicError,1,1,LogicError
+1667,No error,0,0,No error
+1668,No error,0,0,No error
+1669,LogicError,1,1,LogicError
+1670,No error,0,0,No error
+1671,TypeError,4,4,TypeError
+1672,No error,0,0,No error
+1673,LogicError,1,1,LogicError
+1674,IndentationError,5,5,IndentationError
+1675,NameError,3,3,NameError
+1676,No error,0,1,LogicError
+1677,SyntaxError,2,2,SyntaxError
+1678,SyntaxError,2,2,SyntaxError
+1679,No error,0,0,No error
+1680,LogicError,1,1,LogicError
+1681,No error,0,0,No error
+1682,LogicError,1,1,LogicError
+1683,SyntaxError,2,2,SyntaxError
+1684,No error,0,0,No error
+1685,SyntaxError,2,2,SyntaxError
+1686,NameError,3,3,NameError
+1687,No error,0,0,No error
+1688,No error,0,0,No error
+1689,LogicError,1,1,LogicError
+1690,No error,0,0,No error
+1691,TypeError,4,4,TypeError
+1692,LogicError,1,1,LogicError
+1693,LogicError,1,1,LogicError
+1694,No error,0,0,No error
+1695,LogicError,1,1,LogicError
+1696,No error,0,0,No error
+1697,LogicError,1,1,LogicError
+1698,LogicError,1,1,LogicError
+1699,No error,0,0,No error
+1700,NameError,3,3,NameError
+1701,LogicError,1,1,LogicError
+1702,No error,0,0,No error
+1703,No error,0,0,No error
+1704,No error,0,0,No error
+1705,SyntaxError,2,2,SyntaxError
+1706,EOFError,9,9,EOFError
+1707,SyntaxError,2,2,SyntaxError
+1708,No error,0,0,No error
+1709,No error,0,0,No error
+1710,SyntaxError,2,2,SyntaxError
+1711,LogicError,1,1,LogicError
+1712,No error,0,0,No error
+1713,No error,0,0,No error
+1714,No error,0,0,No error
+1715,No error,0,0,No error
+1716,No error,0,0,No error
+1717,No error,0,0,No error
+1718,No error,0,0,No error
+1719,No error,0,0,No error
+1720,No error,0,0,No error
+1721,KeyError,7,7,KeyError
+1722,SyntaxError,2,2,SyntaxError
+1723,SyntaxError,2,2,SyntaxError
+1724,NameError,3,3,NameError
+1725,No error,0,0,No error
+1726,KeyError,7,7,KeyError
+1727,No error,0,0,No error
+1728,KeyError,7,7,KeyError
+1729,LogicError,1,1,LogicError
+1730,LogicError,1,1,LogicError
+1731,No error,0,0,No error
+1732,NameError,3,3,NameError
+1733,No error,0,1,LogicError
+1734,LogicError,1,1,LogicError
+1735,KeyError,7,7,KeyError
+1736,No error,0,0,No error
+1737,No error,0,0,No error
+1738,NameError,3,3,NameError
+1739,No error,0,0,No error
+1740,LogicError,1,1,LogicError
+1741,No error,0,0,No error
+1742,No error,0,1,LogicError
+1743,LogicError,1,1,LogicError
+1744,SyntaxError,2,2,SyntaxError
+1745,LogicError,1,1,LogicError
+1746,No error,0,0,No error
+1747,No error,0,0,No error
+1748,NameError,3,3,NameError
+1749,NameError,3,3,NameError
+1750,No error,0,0,No error
+1751,SyntaxError,2,2,SyntaxError
+1752,LogicError,1,1,LogicError
+1753,SyntaxError,2,2,SyntaxError
+1754,No error,0,0,No error
+1755,SyntaxError,2,2,SyntaxError
+1756,No error,0,0,No error
+1757,LogicError,1,1,LogicError
+1758,LogicError,1,0,No error
+1759,No error,0,0,No error
+1760,SyntaxError,2,2,SyntaxError
+1761,TypeError,4,4,TypeError
+1762,LogicError,1,1,LogicError
+1763,IndentationError,5,5,IndentationError
+1764,No error,0,0,No error
+1765,LogicError,1,1,LogicError
+1766,No error,0,0,No error
+1767,No error,0,0,No error
+1768,RecursionError,10,10,RecursionError
+1769,No error,0,0,No error
+1770,No error,0,0,No error
+1771,No error,0,1,LogicError
+1772,LogicError,1,1,LogicError
+1773,No error,0,0,No error
+1774,No error,0,0,No error
+1775,SyntaxError,2,2,SyntaxError
+1776,No error,0,1,LogicError
+1777,No error,0,0,No error
+1778,No error,0,0,No error
+1779,No error,0,1,LogicError
+1780,NameError,3,3,NameError
+1781,LogicError,1,1,LogicError
+1782,No error,0,1,LogicError
+1783,LogicError,1,1,LogicError
+1784,No error,0,0,No error
+1785,NameError,3,3,NameError
+1786,No error,0,0,No error
+1787,No error,0,0,No error
+1788,LogicError,1,1,LogicError
+1789,IndentationError,5,5,IndentationError
+1790,No error,0,0,No error
+1791,LogicError,1,1,LogicError
+1792,LogicError,1,1,LogicError
+1793,No error,0,0,No error
+1794,AttributeError,13,13,Other errors
+1795,No error,0,0,No error
+1796,No error,0,0,No error
+1797,RecursionError,10,1,LogicError
+1798,LogicError,1,1,LogicError
+1799,No error,0,0,No error
+1800,No error,0,0,No error
+1801,No error,0,0,No error
+1802,TypeError,4,4,TypeError
+1803,KeyError,7,7,KeyError
+1804,No error,0,0,No error
+1805,SyntaxError,2,2,SyntaxError
+1806,No error,0,0,No error
+1807,No error,0,0,No error
+1808,LogicError,1,1,LogicError
+1809,NameError,3,3,NameError
+1810,No error,0,0,No error
+1811,LogicError,1,1,LogicError
+1812,No error,0,0,No error
+1813,NameError,3,3,NameError
+1814,LogicError,1,1,LogicError
+1815,LogicError,1,1,LogicError
+1816,LogicError,1,1,LogicError
+1817,IndentationError,5,5,IndentationError
+1818,TypeError,4,4,TypeError
+1819,No error,0,0,No error
+1820,No error,0,0,No error
+1821,LogicError,1,1,LogicError
+1822,LogicError,1,1,LogicError
+1823,LogicError,1,1,LogicError
+1824,No error,0,0,No error
+1825,No error,0,0,No error
+1826,NameError,3,3,NameError
+1827,No error,0,0,No error
+1828,No error,0,0,No error
+1829,TypeError,4,3,NameError
+1830,SyntaxError,2,2,SyntaxError
+1831,No error,0,0,No error
+1832,No error,0,0,No error
+1833,UnboundLocalError,6,6,UnboundLocalError
+1834,No error,0,0,No error
+1835,No error,0,0,No error
+1836,No error,0,0,No error
+1837,LogicError,1,1,LogicError
+1838,LogicError,1,1,LogicError
+1839,LogicError,1,1,LogicError
+1840,LogicError,1,1,LogicError
+1841,No error,0,0,No error
+1842,SyntaxError,2,2,SyntaxError
+1843,SyntaxError,2,2,SyntaxError
+1844,No error,0,0,No error
+1845,No error,0,0,No error
+1846,No error,0,0,No error
+1847,NameError,3,3,NameError
+1848,SyntaxError,2,2,SyntaxError
+1849,SyntaxError,2,2,SyntaxError
+1850,NameError,3,3,NameError
+1851,SyntaxError,2,2,SyntaxError
+1852,LogicError,1,1,LogicError
+1853,No error,0,0,No error
+1854,No error,0,0,No error
+1855,No error,0,0,No error
+1856,No error,0,0,No error
+1857,SyntaxError,2,2,SyntaxError
+1858,No error,0,0,No error
+1859,IndentationError,5,5,IndentationError
+1860,LogicError,1,1,LogicError
+1861,No error,0,0,No error
+1862,No error,0,0,No error
+1863,No error,0,0,No error
+1864,No error,0,0,No error
+1865,No error,0,0,No error
+1866,LogicError,1,1,LogicError
+1867,No error,0,0,No error
+1868,NameError,3,3,NameError
+1869,No error,0,1,LogicError
+1870,No error,0,0,No error
+1871,No error,0,0,No error
+1872,No error,0,0,No error
+1873,SyntaxError,2,2,SyntaxError
+1874,KeyError,7,7,KeyError
+1875,No error,0,0,No error
+1876,No error,0,0,No error
+1877,No error,0,0,No error
+1878,No error,0,0,No error
+1879,NameError,3,3,NameError
+1880,LogicError,1,1,LogicError
+1881,No error,0,0,No error
+1882,NameError,3,3,NameError
+1883,No error,0,0,No error
+1884,No error,0,0,No error
+1885,SyntaxError,2,2,SyntaxError
+1886,No error,0,0,No error
+1887,LogicError,1,1,LogicError
+1888,TypeError,4,4,TypeError
+1889,LogicError,1,1,LogicError
+1890,No error,0,0,No error
+1891,KeyError,7,7,KeyError
+1892,LogicError,1,1,LogicError
+1893,No error,0,0,No error
+1894,LogicError,1,1,LogicError
+1895,LogicError,1,1,LogicError
+1896,NameError,3,3,NameError
+1897,RecursionError,10,10,RecursionError
+1898,TypeError,4,4,TypeError
+1899,No error,0,1,LogicError
+1900,LogicError,1,1,LogicError
+1901,LogicError,1,1,LogicError
+1902,No error,0,1,LogicError
+1903,LogicError,1,1,LogicError
+1904,No error,0,0,No error
+1905,TypeError,4,4,TypeError
+1906,SyntaxError,2,2,SyntaxError
+1907,SyntaxError,2,2,SyntaxError
+1908,No error,0,1,LogicError
+1909,LogicError,1,1,LogicError
+1910,No error,0,0,No error
+1911,No error,0,1,LogicError
+1912,No error,0,0,No error
+1913,No error,0,0,No error
+1914,UnboundLocalError,6,6,UnboundLocalError
+1915,LogicError,1,1,LogicError
+1916,LogicError,1,1,LogicError
+1917,No error,0,0,No error
+1918,NameError,3,3,NameError
+1919,No error,0,0,No error
+1920,LogicError,1,1,LogicError
+1921,TypeError,4,4,TypeError
+1922,TypeError,4,4,TypeError
+1923,No error,0,0,No error
+1924,LogicError,1,1,LogicError
+1925,ValueError,11,11,ValueError
+1926,No error,0,0,No error
+1927,SyntaxError,2,2,SyntaxError
+1928,No error,0,0,No error
+1929,No error,0,0,No error
+1930,TypeError,4,4,TypeError
+1931,No error,0,0,No error
+1932,SyntaxError,2,2,SyntaxError
+1933,No error,0,0,No error
+1934,No error,0,0,No error
+1935,No error,0,0,No error
+1936,No error,0,0,No error
+1937,No error,0,0,No error
+1938,No error,0,0,No error
+1939,No error,0,1,LogicError
+1940,No error,0,1,LogicError
+1941,LogicError,1,1,LogicError
+1942,No error,0,0,No error
+1943,TypeError,4,4,TypeError
+1944,No error,0,0,No error
+1945,NameError,3,3,NameError
+1946,No error,0,0,No error
+1947,No error,0,0,No error
+1948,LogicError,1,1,LogicError
+1949,SyntaxError,2,2,SyntaxError
+1950,No error,0,0,No error
+1951,SyntaxError,2,2,SyntaxError
+1952,No error,0,1,LogicError
+1953,IndentationError,5,5,IndentationError
+1954,TypeError,4,4,TypeError
+1955,No error,0,0,No error
+1956,No error,0,3,NameError
+1957,No error,0,0,No error
+1958,LogicError,1,1,LogicError
+1959,LogicError,1,1,LogicError
+1960,No error,0,0,No error
+1961,No error,0,0,No error
+1962,UnboundLocalError,6,3,NameError
+1963,No error,0,1,LogicError
+1964,No error,0,0,No error
+1965,No error,0,1,LogicError
+1966,AttributeError,13,13,Other errors
+1967,LogicError,1,1,LogicError
+1968,No error,0,0,No error
+1969,LogicError,1,1,LogicError
+1970,LogicError,1,1,LogicError
+1971,No error,0,0,No error
+1972,No error,0,0,No error
+1973,No error,0,0,No error
+1974,LogicError,1,1,LogicError
+1975,No error,0,0,No error
+1976,No error,0,0,No error
+1977,LogicError,1,1,LogicError
+1978,No error,0,0,No error
+1979,No error,0,0,No error
+1980,IndexError,8,1,LogicError
+1981,LogicError,1,1,LogicError
+1982,No error,0,0,No error
+1983,LogicError,1,1,LogicError
+1984,No error,0,0,No error
+1985,SyntaxError,2,2,SyntaxError
+1986,EOFError,9,4,TypeError
+1987,SyntaxError,2,2,SyntaxError
+1988,No error,0,0,No error
+1989,No error,0,0,No error
+1990,LogicError,1,1,LogicError
+1991,No error,0,0,No error
+1992,IndentationError,5,5,IndentationError
+1993,No error,0,1,LogicError
+1994,No error,0,0,No error
+1995,No error,0,1,LogicError
+1996,TypeError,4,4,TypeError
+1997,LogicError,1,1,LogicError
+1998,No error,0,0,No error
+1999,No error,0,0,No error
+2000,LogicError,1,1,LogicError
+2001,LogicError,1,1,LogicError
+2002,No error,0,0,No error
+2003,NameError,3,3,NameError
+2004,No error,0,0,No error
+2005,SyntaxError,2,2,SyntaxError
+2006,No error,0,0,No error
+2007,No error,0,0,No error
+2008,No error,0,0,No error
+2009,No error,0,0,No error
+2010,LogicError,1,1,LogicError
+2011,No error,0,0,No error
+2012,SyntaxError,2,2,SyntaxError
+2013,LogicError,1,0,No error
+2014,No error,0,0,No error
+2015,No error,0,1,LogicError
+2016,No error,0,0,No error
+2017,LogicError,1,1,LogicError
+2018,NameError,3,3,NameError
+2019,LogicError,1,1,LogicError
+2020,LogicError,1,1,LogicError
+2021,IndentationError,5,5,IndentationError
+2022,No error,0,0,No error
+2023,LogicError,1,0,No error
+2024,No error,0,0,No error
+2025,LogicError,1,1,LogicError
+2026,TabError,12,12,TabError
+2027,LogicError,1,1,LogicError
+2028,No error,0,0,No error
+2029,No error,0,0,No error
+2030,TabError,12,6,UnboundLocalError
+2031,SyntaxError,2,2,SyntaxError
+2032,No error,0,0,No error
+2033,LogicError,1,1,LogicError
+2034,LogicError,1,1,LogicError
+2035,SyntaxError,2,2,SyntaxError
+2036,No error,0,0,No error
+2037,LogicError,1,1,LogicError
+2038,No error,0,0,No error
+2039,No error,0,0,No error
+2040,SyntaxError,2,1,LogicError
+2041,SyntaxError,2,2,SyntaxError
+2042,NameError,3,3,NameError
+2043,No error,0,0,No error
+2044,RecursionError,10,10,RecursionError
+2045,No error,0,0,No error
+2046,LogicError,1,1,LogicError
+2047,NameError,3,3,NameError
+2048,No error,0,0,No error
+2049,SyntaxError,2,2,SyntaxError
+2050,LogicError,1,6,UnboundLocalError
+2051,LogicError,1,1,LogicError
+2052,No error,0,0,No error
+2053,SyntaxError,2,2,SyntaxError
+2054,SyntaxError,2,2,SyntaxError
+2055,No error,0,0,No error
+2056,LogicError,1,0,No error
+2057,No error,0,1,LogicError
+2058,SyntaxError,2,2,SyntaxError
+2059,LogicError,1,1,LogicError
+2060,NameError,3,3,NameError
+2061,SyntaxError,2,2,SyntaxError
+2062,LogicError,1,1,LogicError
+2063,LogicError,1,1,LogicError
+2064,LogicError,1,1,LogicError
+2065,LogicError,1,1,LogicError
+2066,EOFError,9,1,LogicError
+2067,LogicError,1,6,UnboundLocalError
+2068,SyntaxError,2,2,SyntaxError
+2069,No error,0,1,LogicError
+2070,No error,0,0,No error
+2071,IndentationError,5,2,SyntaxError
+2072,No error,0,1,LogicError
+2073,No error,0,0,No error
+2074,No error,0,0,No error
+2075,No error,0,0,No error
+2076,No error,0,0,No error
+2077,LogicError,1,1,LogicError
+2078,No error,0,1,LogicError
+2079,No error,0,0,No error
+2080,No error,0,0,No error
+2081,No error,0,0,No error
+2082,LogicError,1,1,LogicError
+2083,No error,0,1,LogicError
+2084,No error,0,0,No error
+2085,SyntaxError,2,2,SyntaxError
+2086,No error,0,0,No error
+2087,AttributeError,13,13,Other errors
+2088,No error,0,0,No error
+2089,LogicError,1,0,No error
+2090,LogicError,1,1,LogicError
+2091,No error,0,1,LogicError
+2092,No error,0,0,No error
+2093,No error,0,1,LogicError
+2094,LogicError,1,0,No error
+2095,SyntaxError,2,2,SyntaxError
+2096,LogicError,1,1,LogicError
+2097,No error,0,0,No error
+2098,LogicError,1,1,LogicError
+2099,LogicError,1,1,LogicError
+2100,LogicError,1,1,LogicError
+2101,TypeError,4,4,TypeError
+2102,No error,0,0,No error
+2103,LogicError,1,1,LogicError
+2104,LogicError,1,1,LogicError
+2105,No error,0,0,No error
+2106,LogicError,1,1,LogicError
+2107,LogicError,1,1,LogicError
+2108,No error,0,0,No error
+2109,LogicError,1,0,No error
+2110,SyntaxError,2,2,SyntaxError
+2111,NameError,3,3,NameError
+2112,SyntaxError,2,2,SyntaxError
+2113,No error,0,0,No error
+2114,UnboundLocalError,6,0,No error
+2115,No error,0,0,No error
+2116,No error,0,1,LogicError
+2117,LogicError,1,1,LogicError
+2118,UnboundLocalError,6,6,UnboundLocalError
+2119,LogicError,1,1,LogicError
+2120,No error,0,0,No error
+2121,No error,0,0,No error
+2122,No error,0,0,No error
+2123,LogicError,1,1,LogicError
+2124,LogicError,1,1,LogicError
+2125,LogicError,1,1,LogicError
+2126,LogicError,1,1,LogicError
+2127,KeyError,7,7,KeyError
+2128,TypeError,4,4,TypeError
+2129,No error,0,0,No error
+2130,LogicError,1,1,LogicError
+2131,No error,0,0,No error
+2132,LogicError,1,1,LogicError
+2133,TypeError,4,4,TypeError
+2134,LogicError,1,1,LogicError
+2135,No error,0,0,No error
+2136,No error,0,0,No error
+2137,No error,0,1,LogicError
+2138,LogicError,1,1,LogicError
+2139,SyntaxError,2,2,SyntaxError
+2140,IndentationError,5,5,IndentationError
+2141,NameError,3,3,NameError
+2142,LogicError,1,1,LogicError
+2143,No error,0,0,No error
+2144,No error,0,0,No error
+2145,LogicError,1,1,LogicError
+2146,LogicError,1,1,LogicError
+2147,No error,0,0,No error
+2148,No error,0,0,No error
+2149,LogicError,1,1,LogicError
+2150,No error,0,0,No error
+2151,NameError,3,3,NameError
+2152,IndentationError,5,5,IndentationError
+2153,No error,0,0,No error
+2154,LogicError,1,1,LogicError
+2155,No error,0,0,No error
+2156,No error,0,0,No error
+2157,No error,0,0,No error
+2158,LogicError,1,1,LogicError
+2159,LogicError,1,1,LogicError
+2160,RecursionError,10,1,LogicError
+2161,TypeError,4,4,TypeError
+2162,No error,0,1,LogicError
+2163,IndentationError,5,5,IndentationError
+2164,SyntaxError,2,2,SyntaxError
+2165,No error,0,0,No error
+2166,LogicError,1,1,LogicError
+2167,LogicError,1,1,LogicError
+2168,SyntaxError,2,2,SyntaxError
+2169,No error,0,0,No error
+2170,No error,0,0,No error
+2171,LogicError,1,1,LogicError
+2172,No error,0,0,No error
+2173,LogicError,1,1,LogicError
+2174,No error,0,0,No error
+2175,No error,0,0,No error
+2176,LogicError,1,1,LogicError
+2177,No error,0,0,No error
+2178,LogicError,1,1,LogicError
+2179,TypeError,4,4,TypeError
+2180,No error,0,0,No error
+2181,NameError,3,3,NameError
+2182,RecursionError,10,10,RecursionError
+2183,SyntaxError,2,2,SyntaxError
+2184,No error,0,0,No error
+2185,TabError,12,12,TabError
+2186,SyntaxError,2,2,SyntaxError
+2187,LogicError,1,1,LogicError
+2188,No error,0,0,No error
+2189,TypeError,4,4,TypeError
+2190,LogicError,1,1,LogicError
+2191,TypeError,4,4,TypeError
+2192,No error,0,0,No error
+2193,No error,0,0,No error
+2194,No error,0,1,LogicError
+2195,LogicError,1,0,No error
+2196,LogicError,1,1,LogicError
+2197,No error,0,0,No error
+2198,LogicError,1,1,LogicError
+2199,No error,0,0,No error
+2200,LogicError,1,1,LogicError
+2201,No error,0,0,No error
+2202,No error,0,0,No error
+2203,No error,0,0,No error
+2204,SyntaxError,2,2,SyntaxError
+2205,No error,0,0,No error
+2206,No error,0,0,No error
+2207,TypeError,4,4,TypeError
+2208,No error,0,0,No error
+2209,No error,0,0,No error
+2210,LogicError,1,1,LogicError
+2211,No error,0,0,No error
+2212,No error,0,0,No error
+2213,NameError,3,3,NameError
+2214,No error,0,0,No error
+2215,No error,0,0,No error
+2216,No error,0,0,No error
+2217,LogicError,1,1,LogicError
+2218,No error,0,0,No error
+2219,No error,0,0,No error
+2220,No error,0,0,No error
+2221,No error,0,1,LogicError
+2222,UnboundLocalError,6,6,UnboundLocalError
+2223,LogicError,1,0,No error
+2224,SyntaxError,2,2,SyntaxError
+2225,No error,0,0,No error
+2226,No error,0,0,No error
+2227,LogicError,1,1,LogicError
+2228,LogicError,1,1,LogicError
+2229,LogicError,1,1,LogicError
+2230,No error,0,0,No error
+2231,No error,0,0,No error
+2232,LogicError,1,1,LogicError
+2233,SyntaxError,2,2,SyntaxError
+2234,SyntaxError,2,2,SyntaxError
+2235,No error,0,0,No error
+2236,NameError,3,3,NameError
+2237,SyntaxError,2,2,SyntaxError
+2238,No error,0,1,LogicError
+2239,No error,0,0,No error
+2240,No error,0,0,No error
+2241,No error,0,0,No error
+2242,No error,0,0,No error
+2243,No error,0,0,No error
+2244,LogicError,1,1,LogicError
+2245,LogicError,1,1,LogicError
+2246,No error,0,0,No error
+2247,SyntaxError,2,2,SyntaxError
+2248,SyntaxError,2,2,SyntaxError
+2249,LogicError,1,1,LogicError
+2250,No error,0,1,LogicError
+2251,LogicError,1,1,LogicError
+2252,No error,0,0,No error
+2253,No error,0,0,No error
+2254,LogicError,1,1,LogicError
+2255,SyntaxError,2,2,SyntaxError
+2256,No error,0,0,No error
+2257,EOFError,9,9,EOFError
+2258,No error,0,1,LogicError
+2259,RecursionError,10,10,RecursionError
+2260,No error,0,0,No error
+2261,No error,0,0,No error
+2262,LogicError,1,1,LogicError
+2263,No error,0,0,No error
+2264,TypeError,4,4,TypeError
+2265,SyntaxError,2,2,SyntaxError
+2266,LogicError,1,1,LogicError
+2267,No error,0,0,No error
+2268,No error,0,1,LogicError
+2269,LogicError,1,1,LogicError
+2270,TypeError,4,4,TypeError
+2271,No error,0,1,LogicError
+2272,LogicError,1,1,LogicError
+2273,NameError,3,3,NameError
+2274,No error,0,0,No error
+2275,LogicError,1,1,LogicError
+2276,SyntaxError,2,2,SyntaxError
+2277,IndexError,8,8,IndexError
+2278,LogicError,1,1,LogicError
+2279,UnboundLocalError,6,6,UnboundLocalError
+2280,No error,0,0,No error
+2281,No error,0,0,No error
+2282,IndentationError,5,12,TabError
+2283,SyntaxError,2,2,SyntaxError
+2284,SyntaxError,2,2,SyntaxError
+2285,No error,0,0,No error
+2286,No error,0,0,No error
+2287,No error,0,0,No error
+2288,SyntaxError,2,2,SyntaxError
+2289,No error,0,0,No error
+2290,No error,0,0,No error
+2291,No error,0,0,No error
+2292,LogicError,1,1,LogicError
+2293,No error,0,0,No error
+2294,No error,0,0,No error
+2295,RecursionError,10,10,RecursionError
+2296,No error,0,0,No error
+2297,No error,0,0,No error
+2298,No error,0,0,No error
+2299,No error,0,0,No error
+2300,SyntaxError,2,2,SyntaxError
+2301,SyntaxError,2,2,SyntaxError
+2302,No error,0,0,No error
+2303,NameError,3,3,NameError
+2304,SyntaxError,2,2,SyntaxError
+2305,LogicError,1,1,LogicError
+2306,LogicError,1,1,LogicError
+2307,LogicError,1,1,LogicError
+2308,LogicError,1,1,LogicError
+2309,LogicError,1,1,LogicError
+2310,No error,0,0,No error
+2311,LogicError,1,1,LogicError
+2312,No error,0,0,No error
+2313,SyntaxError,2,2,SyntaxError
+2314,No error,0,0,No error
+2315,LogicError,1,1,LogicError
+2316,No error,0,0,No error
+2317,SyntaxError,2,2,SyntaxError
+2318,No error,0,0,No error
+2319,LogicError,1,1,LogicError
+2320,No error,0,0,No error
+2321,No error,0,0,No error
+2322,TabError,12,5,IndentationError
+2323,No error,0,0,No error
+2324,No error,0,0,No error
+2325,TypeError,4,4,TypeError
+2326,LogicError,1,1,LogicError
+2327,SyntaxError,2,2,SyntaxError
+2328,No error,0,0,No error
+2329,LogicError,1,1,LogicError
+2330,No error,0,0,No error
+2331,No error,0,0,No error
+2332,TypeError,4,4,TypeError
+2333,No error,0,0,No error
+2334,No error,0,0,No error
+2335,No error,0,0,No error
+2336,No error,0,0,No error
+2337,No error,0,0,No error
+2338,LogicError,1,1,LogicError
+2339,SyntaxError,2,2,SyntaxError
+2340,SyntaxError,2,2,SyntaxError
+2341,No error,0,0,No error
+2342,No error,0,0,No error
+2343,SyntaxError,2,2,SyntaxError
+2344,No error,0,0,No error
+2345,No error,0,5,IndentationError
+2346,No error,0,0,No error
+2347,LogicError,1,1,LogicError
+2348,NameError,3,3,NameError
+2349,UnboundLocalError,6,6,UnboundLocalError
+2350,No error,0,1,LogicError
+2351,LogicError,1,1,LogicError
+2352,No error,0,0,No error
+2353,No error,0,0,No error
+2354,No error,0,0,No error
+2355,LogicError,1,1,LogicError
+2356,NameError,3,3,NameError
+2357,No error,0,0,No error
+2358,No error,0,0,No error
+2359,No error,0,0,No error
+2360,TypeError,4,4,TypeError
+2361,TypeError,4,4,TypeError
+2362,No error,0,0,No error
+2363,No error,0,0,No error
+2364,LogicError,1,1,LogicError
+2365,No error,0,0,No error
+2366,No error,0,0,No error
+2367,NameError,3,3,NameError
+2368,No error,0,0,No error
+2369,LogicError,1,1,LogicError
+2370,No error,0,0,No error
+2371,No error,0,1,LogicError
+2372,LogicError,1,1,LogicError
+2373,LogicError,1,1,LogicError
+2374,No error,0,0,No error
+2375,No error,0,0,No error
+2376,NameError,3,3,NameError
+2377,LogicError,1,1,LogicError
+2378,LogicError,1,1,LogicError
+2379,No error,0,0,No error
+2380,No error,0,0,No error
+2381,SyntaxError,2,2,SyntaxError
+2382,No error,0,0,No error
+2383,No error,0,0,No error
+2384,LogicError,1,1,LogicError
+2385,No error,0,1,LogicError
+2386,No error,0,0,No error
+2387,LogicError,1,1,LogicError
+2388,LogicError,1,1,LogicError
+2389,No error,0,0,No error
+2390,KeyError,7,7,KeyError
+2391,No error,0,0,No error
+2392,LogicError,1,1,LogicError
+2393,NameError,3,3,NameError
+2394,LogicError,1,1,LogicError
+2395,No error,0,0,No error
+2396,No error,0,0,No error
+2397,LogicError,1,1,LogicError
+2398,No error,0,0,No error
+2399,IndentationError,5,5,IndentationError
+2400,LogicError,1,1,LogicError
+2401,No error,0,0,No error
+2402,LogicError,1,1,LogicError
+2403,LogicError,1,1,LogicError
+2404,No error,0,0,No error
+2405,No error,0,0,No error
+2406,No error,0,1,LogicError
+2407,TypeError,4,4,TypeError
+2408,SyntaxError,2,2,SyntaxError
+2409,NameError,3,3,NameError
+2410,No error,0,0,No error
+2411,No error,0,0,No error
+2412,SyntaxError,2,2,SyntaxError
+2413,No error,0,0,No error
+2414,NameError,3,3,NameError
+2415,No error,0,0,No error
+2416,No error,0,0,No error
+2417,SyntaxError,2,2,SyntaxError
+2418,LogicError,1,1,LogicError
+2419,RuntimeError,13,13,Other errors
+2420,SyntaxError,2,2,SyntaxError
+2421,NameError,3,3,NameError
+2422,No error,0,0,No error
+2423,No error,0,0,No error
+2424,No error,0,0,No error
+2425,No error,0,0,No error
+2426,No error,0,0,No error
+2427,No error,0,1,LogicError
+2428,SyntaxError,2,2,SyntaxError
+2429,No error,0,0,No error
+2430,No error,0,0,No error
+2431,No error,0,0,No error
+2432,No error,0,1,LogicError
+2433,No error,0,0,No error
+2434,No error,0,0,No error
+2435,LogicError,1,1,LogicError
+2436,No error,0,0,No error
+2437,No error,0,0,No error
+2438,SyntaxError,2,2,SyntaxError
+2439,LogicError,1,1,LogicError
+2440,No error,0,0,No error
+2441,No error,0,0,No error
+2442,IndentationError,5,5,IndentationError
+2443,LogicError,1,1,LogicError
+2444,SyntaxError,2,2,SyntaxError
+2445,EOFError,9,1,LogicError
+2446,No error,0,0,No error
+2447,SyntaxError,2,2,SyntaxError
+2448,SyntaxError,2,2,SyntaxError
+2449,No error,0,1,LogicError
+2450,NameError,3,3,NameError
+2451,No error,0,0,No error
+2452,SyntaxError,2,2,SyntaxError
+2453,NameError,3,3,NameError
+2454,UnboundLocalError,6,6,UnboundLocalError
+2455,LogicError,1,1,LogicError
+2456,No error,0,0,No error
+2457,LogicError,1,1,LogicError
+2458,LogicError,1,0,No error
+2459,LogicError,1,1,LogicError
+2460,No error,0,0,No error
+2461,LogicError,1,1,LogicError
+2462,NameError,3,3,NameError
+2463,No error,0,0,No error
+2464,UnboundLocalError,6,6,UnboundLocalError
+2465,IndexError,8,8,IndexError
+2466,No error,0,0,No error
+2467,No error,0,0,No error
+2468,No error,0,0,No error
+2469,SyntaxError,2,2,SyntaxError
+2470,LogicError,1,1,LogicError
+2471,LogicError,1,1,LogicError
+2472,LogicError,1,1,LogicError
+2473,TypeError,4,4,TypeError
+2474,LogicError,1,1,LogicError
+2475,LogicError,1,1,LogicError
+2476,LogicError,1,1,LogicError
+2477,TypeError,4,4,TypeError
+2478,NameError,3,3,NameError
+2479,No error,0,0,No error
+2480,No error,0,0,No error
+2481,LogicError,1,1,LogicError
+2482,No error,0,0,No error
+2483,No error,0,0,No error
+2484,LogicError,1,1,LogicError
+2485,No error,0,0,No error
+2486,No error,0,0,No error
+2487,No error,0,0,No error
+2488,No error,0,0,No error
+2489,No error,0,1,LogicError
+2490,No error,0,1,LogicError
+2491,LogicError,1,1,LogicError
+2492,NameError,3,3,NameError
+2493,No error,0,0,No error
+2494,No error,0,0,No error
+2495,LogicError,1,1,LogicError
+2496,SyntaxError,2,2,SyntaxError
+2497,SyntaxError,2,2,SyntaxError
+2498,LogicError,1,1,LogicError
+2499,UnboundLocalError,6,6,UnboundLocalError
+2500,IndentationError,5,5,IndentationError
+2501,LogicError,1,1,LogicError
+2502,SyntaxError,2,2,SyntaxError
+2503,SyntaxError,2,2,SyntaxError
+2504,No error,0,0,No error
+2505,No error,0,0,No error
+2506,No error,0,0,No error
+2507,SyntaxError,2,2,SyntaxError
+2508,LogicError,1,1,LogicError
+2509,No error,0,0,No error
+2510,No error,0,0,No error
+2511,IndentationError,5,5,IndentationError
+2512,NameError,3,3,NameError
+2513,LogicError,1,1,LogicError
+2514,No error,0,0,No error
+2515,No error,0,0,No error
+2516,No error,0,0,No error
+2517,No error,0,0,No error
+2518,No error,0,0,No error
+2519,No error,0,0,No error
+2520,LogicError,1,1,LogicError
+2521,LogicError,1,1,LogicError
+2522,IndentationError,5,5,IndentationError
+2523,No error,0,0,No error
+2524,TypeError,4,4,TypeError
+2525,LogicError,1,1,LogicError
+2526,No error,0,0,No error
+2527,No error,0,0,No error
+2528,No error,0,1,LogicError
+2529,No error,0,0,No error
+2530,LogicError,1,1,LogicError
+2531,No error,0,0,No error
+2532,TypeError,4,4,TypeError
+2533,No error,0,0,No error
+2534,No error,0,0,No error
+2535,No error,0,0,No error
+2536,No error,0,0,No error
+2537,LogicError,1,1,LogicError
+2538,No error,0,0,No error
+2539,No error,0,0,No error
+2540,SyntaxError,2,2,SyntaxError
+2541,No error,0,0,No error
+2542,No error,0,0,No error
+2543,No error,0,0,No error
+2544,LogicError,1,1,LogicError
+2545,LogicError,1,1,LogicError
+2546,LogicError,1,1,LogicError
+2547,No error,0,0,No error
+2548,No error,0,0,No error
+2549,No error,0,0,No error
+2550,RecursionError,10,10,RecursionError
+2551,IndentationError,5,5,IndentationError
+2552,No error,0,0,No error
+2553,No error,0,0,No error
+2554,SyntaxError,2,2,SyntaxError
+2555,No error,0,0,No error
+2556,LogicError,1,1,LogicError
+2557,No error,0,0,No error
+2558,LogicError,1,1,LogicError
+2559,KeyError,7,7,KeyError
+2560,No error,0,0,No error
+2561,SyntaxError,2,2,SyntaxError
+2562,TypeError,4,4,TypeError
+2563,No error,0,0,No error
+2564,No error,0,1,LogicError
+2565,TypeError,4,4,TypeError
+2566,IndentationError,5,5,IndentationError
+2567,IndentationError,5,5,IndentationError
+2568,No error,0,0,No error
+2569,No error,0,0,No error
+2570,LogicError,1,1,LogicError
+2571,SyntaxError,2,2,SyntaxError
+2572,No error,0,0,No error
+2573,LogicError,1,1,LogicError
+2574,No error,0,0,No error
+2575,No error,0,0,No error
+2576,No error,0,1,LogicError
+2577,No error,0,0,No error
+2578,LogicError,1,1,LogicError
+2579,TypeError,4,4,TypeError
+2580,LogicError,1,1,LogicError
+2581,NameError,3,3,NameError
+2582,SyntaxError,2,2,SyntaxError
+2583,No error,0,0,No error
+2584,TypeError,4,4,TypeError
+2585,LogicError,1,1,LogicError
+2586,No error,0,0,No error
+2587,No error,0,0,No error
+2588,No error,0,0,No error
+2589,No error,0,0,No error
+2590,NameError,3,3,NameError
+2591,No error,0,0,No error
+2592,SyntaxError,2,2,SyntaxError
+2593,TypeError,4,4,TypeError
+2594,No error,0,0,No error
+2595,NameError,3,3,NameError
+2596,No error,0,0,No error
+2597,IndentationError,5,5,IndentationError
+2598,No error,0,0,No error
+2599,LogicError,1,1,LogicError
+2600,LogicError,1,1,LogicError
+2601,No error,0,0,No error
+2602,KeyError,7,7,KeyError
+2603,SyntaxError,2,2,SyntaxError
+2604,LogicError,1,1,LogicError
+2605,No error,0,0,No error
+2606,SyntaxError,2,2,SyntaxError
+2607,No error,0,0,No error
+2608,No error,0,0,No error
+2609,No error,0,0,No error
+2610,TypeError,4,4,TypeError
+2611,UnboundLocalError,6,1,LogicError
+2612,No error,0,1,LogicError
+2613,No error,0,0,No error
+2614,SyntaxError,2,2,SyntaxError
+2615,LogicError,1,1,LogicError
+2616,SyntaxError,2,2,SyntaxError
+2617,TypeError,4,4,TypeError
+2618,SyntaxError,2,2,SyntaxError
+2619,IndentationError,5,5,IndentationError
+2620,No error,0,0,No error
+2621,No error,0,0,No error
+2622,No error,0,1,LogicError
+2623,RecursionError,10,10,RecursionError
+2624,No error,0,0,No error
+2625,LogicError,1,1,LogicError
+2626,LogicError,1,1,LogicError
+2627,SyntaxError,2,2,SyntaxError
+2628,TypeError,4,4,TypeError
+2629,NameError,3,3,NameError
+2630,SyntaxError,2,2,SyntaxError
+2631,No error,0,0,No error
+2632,SyntaxError,2,2,SyntaxError
+2633,LogicError,1,1,LogicError
+2634,No error,0,0,No error
+2635,LogicError,1,1,LogicError
+2636,TypeError,4,4,TypeError
+2637,SyntaxError,2,2,SyntaxError
+2638,No error,0,0,No error
+2639,LogicError,1,1,LogicError
+2640,No error,0,0,No error
+2641,TypeError,4,4,TypeError
+2642,No error,0,0,No error
+2643,LogicError,1,1,LogicError
+2644,No error,0,0,No error
+2645,NameError,3,3,NameError
+2646,LogicError,1,1,LogicError
+2647,IndentationError,5,5,IndentationError
+2648,LogicError,1,1,LogicError
+2649,No error,0,0,No error
+2650,EOFError,9,1,LogicError
+2651,TypeError,4,4,TypeError
+2652,SyntaxError,2,2,SyntaxError
+2653,SyntaxError,2,2,SyntaxError
+2654,LogicError,1,1,LogicError
+2655,SyntaxError,2,2,SyntaxError
+2656,LogicError,1,1,LogicError
+2657,No error,0,1,LogicError
+2658,No error,0,0,No error
+2659,NameError,3,3,NameError
+2660,LogicError,1,1,LogicError
+2661,UnboundLocalError,6,6,UnboundLocalError
+2662,SyntaxError,2,2,SyntaxError
+2663,SyntaxError,2,2,SyntaxError
+2664,No error,0,0,No error
+2665,SyntaxError,2,2,SyntaxError
+2666,No error,0,1,LogicError
+2667,TabError,12,12,TabError
+2668,No error,0,1,LogicError
+2669,NameError,3,3,NameError
+2670,No error,0,0,No error
+2671,No error,0,0,No error
+2672,LogicError,1,1,LogicError
+2673,No error,0,0,No error
+2674,LogicError,1,1,LogicError
+2675,No error,0,0,No error
+2676,IndentationError,5,5,IndentationError
+2677,LogicError,1,1,LogicError
+2678,No error,0,0,No error
+2679,LogicError,1,1,LogicError
+2680,NameError,3,3,NameError
+2681,No error,0,0,No error
+2682,LogicError,1,0,No error
+2683,No error,0,0,No error
+2684,IndentationError,5,5,IndentationError
+2685,SyntaxError,2,2,SyntaxError
+2686,TabError,12,12,TabError
+2687,LogicError,1,1,LogicError
+2688,No error,0,0,No error
+2689,UnboundLocalError,6,6,UnboundLocalError
+2690,SyntaxError,2,2,SyntaxError
+2691,No error,0,0,No error
+2692,No error,0,0,No error
+2693,SyntaxError,2,2,SyntaxError
+2694,NameError,3,3,NameError
+2695,No error,0,0,No error
+2696,LogicError,1,1,LogicError
+2697,No error,0,0,No error
+2698,LogicError,1,1,LogicError
+2699,NameError,3,3,NameError
+2700,SyntaxError,2,2,SyntaxError
+2701,LogicError,1,1,LogicError
+2702,No error,0,0,No error
+2703,LogicError,1,1,LogicError
+2704,LogicError,1,4,TypeError
+2705,No error,0,0,No error
+2706,No error,0,0,No error
+2707,No error,0,0,No error
+2708,No error,0,0,No error
+2709,SyntaxError,2,1,LogicError
+2710,LogicError,1,1,LogicError
+2711,No error,0,0,No error
+2712,No error,0,0,No error
+2713,No error,0,0,No error
+2714,No error,0,0,No error
+2715,SyntaxError,2,2,SyntaxError
+2716,No error,0,0,No error
+2717,No error,0,0,No error
+2718,No error,0,0,No error
+2719,No error,0,0,No error
+2720,NameError,3,3,NameError
+2721,LogicError,1,1,LogicError
+2722,No error,0,1,LogicError
+2723,LogicError,1,1,LogicError
+2724,TypeError,4,4,TypeError
+2725,LogicError,1,1,LogicError
+2726,TypeError,4,4,TypeError
+2727,No error,0,0,No error
+2728,SyntaxError,2,2,SyntaxError
+2729,TypeError,4,4,TypeError
+2730,No error,0,0,No error
+2731,No error,0,0,No error
+2732,No error,0,0,No error
+2733,No error,0,0,No error
+2734,No error,0,0,No error
+2735,No error,0,0,No error
+2736,SyntaxError,2,2,SyntaxError
+2737,No error,0,0,No error
+2738,No error,0,0,No error
+2739,LogicError,1,1,LogicError
+2740,No error,0,0,No error
+2741,LogicError,1,1,LogicError
+2742,IndentationError,5,5,IndentationError
+2743,SyntaxError,2,2,SyntaxError
+2744,SyntaxError,2,2,SyntaxError
+2745,No error,0,0,No error
+2746,LogicError,1,1,LogicError
+2747,IndentationError,5,5,IndentationError
+2748,No error,0,0,No error
+2749,No error,0,0,No error
+2750,No error,0,0,No error
+2751,No error,0,0,No error
+2752,No error,0,0,No error
+2753,LogicError,1,1,LogicError
+2754,No error,0,0,No error
+2755,LogicError,1,1,LogicError
+2756,LogicError,1,0,No error
+2757,No error,0,0,No error
+2758,SyntaxError,2,2,SyntaxError
+2759,SyntaxError,2,2,SyntaxError
+2760,LogicError,1,1,LogicError
+2761,No error,0,0,No error
+2762,NameError,3,3,NameError
+2763,LogicError,1,1,LogicError
+2764,No error,0,0,No error
+2765,No error,0,0,No error
+2766,TypeError,4,4,TypeError
+2767,No error,0,0,No error
+2768,No error,0,0,No error
+2769,No error,0,1,LogicError
+2770,No error,0,0,No error
+2771,No error,0,0,No error
+2772,LogicError,1,1,LogicError
+2773,No error,0,0,No error
+2774,No error,0,0,No error
+2775,LogicError,1,1,LogicError
+2776,No error,0,0,No error
+2777,No error,0,0,No error
+2778,No error,0,0,No error
+2779,LogicError,1,1,LogicError
+2780,IndentationError,5,12,TabError
+2781,No error,0,0,No error
+2782,KeyError,7,7,KeyError
+2783,LogicError,1,1,LogicError
+2784,No error,0,0,No error
+2785,No error,0,0,No error
+2786,No error,0,0,No error
+2787,SyntaxError,2,2,SyntaxError
+2788,SyntaxError,2,2,SyntaxError
+2789,AttributeError,13,13,Other errors
+2790,SyntaxError,2,2,SyntaxError
+2791,No error,0,0,No error
+2792,SyntaxError,2,2,SyntaxError
+2793,LogicError,1,1,LogicError
+2794,No error,0,1,LogicError
+2795,TypeError,4,4,TypeError
+2796,No error,0,0,No error
+2797,No error,0,0,No error
+2798,LogicError,1,1,LogicError
+2799,LogicError,1,1,LogicError
+2800,NameError,3,3,NameError
+2801,TypeError,4,4,TypeError
+2802,LogicError,1,1,LogicError
+2803,LogicError,1,1,LogicError
+2804,RecursionError,10,10,RecursionError
+2805,TypeError,4,4,TypeError
+2806,No error,0,1,LogicError
+2807,SyntaxError,2,2,SyntaxError
+2808,No error,0,0,No error
+2809,KeyError,7,7,KeyError
+2810,No error,0,0,No error
+2811,No error,0,0,No error
+2812,No error,0,0,No error
+2813,No error,0,1,LogicError
+2814,No error,0,0,No error
+2815,LogicError,1,1,LogicError
+2816,LogicError,1,1,LogicError
+2817,No error,0,0,No error
+2818,LogicError,1,1,LogicError
+2819,SyntaxError,2,2,SyntaxError
+2820,LogicError,1,1,LogicError
+2821,LogicError,1,1,LogicError
+2822,No error,0,1,LogicError
+2823,No error,0,0,No error
+2824,TypeError,4,4,TypeError
+2825,LogicError,1,1,LogicError
+2826,SyntaxError,2,2,SyntaxError
+2827,No error,0,0,No error
+2828,No error,0,0,No error
+2829,No error,0,0,No error
+2830,No error,0,0,No error
+2831,TypeError,4,4,TypeError
+2832,LogicError,1,1,LogicError
+2833,TypeError,4,4,TypeError
+2834,LogicError,1,1,LogicError
+2835,LogicError,1,1,LogicError
+2836,ValueError,11,11,ValueError
+2837,No error,0,1,LogicError
+2838,LogicError,1,1,LogicError
+2839,TypeError,4,4,TypeError
+2840,No error,0,0,No error
+2841,No error,0,0,No error
+2842,LogicError,1,1,LogicError
+2843,No error,0,0,No error
+2844,TypeError,4,4,TypeError
+2845,LogicError,1,1,LogicError
+2846,NameError,3,3,NameError
+2847,SyntaxError,2,2,SyntaxError
+2848,No error,0,0,No error
+2849,UnboundLocalError,6,6,UnboundLocalError
+2850,No error,0,0,No error
+2851,No error,0,0,No error
+2852,No error,0,0,No error
+2853,NameError,3,3,NameError
+2854,LogicError,1,1,LogicError
+2855,No error,0,0,No error
+2856,SyntaxError,2,2,SyntaxError
+2857,LogicError,1,1,LogicError
+2858,RecursionError,10,10,RecursionError
+2859,No error,0,0,No error
+2860,LogicError,1,1,LogicError
+2861,TypeError,4,3,NameError
+2862,SyntaxError,2,2,SyntaxError
+2863,TypeError,4,4,TypeError
+2864,No error,0,0,No error
+2865,No error,0,0,No error
+2866,No error,0,1,LogicError
+2867,SyntaxError,2,2,SyntaxError
+2868,LogicError,1,1,LogicError
+2869,No error,0,0,No error
+2870,No error,0,0,No error
+2871,NameError,3,3,NameError
+2872,LogicError,1,1,LogicError
+2873,No error,0,0,No error
+2874,LogicError,1,1,LogicError
+2875,SyntaxError,2,2,SyntaxError
+2876,SyntaxError,2,2,SyntaxError
+2877,SyntaxError,2,2,SyntaxError
+2878,TypeError,4,4,TypeError
+2879,No error,0,1,LogicError
+2880,SyntaxError,2,2,SyntaxError
+2881,SyntaxError,2,2,SyntaxError
+2882,No error,0,0,No error
+2883,LogicError,1,1,LogicError
+2884,LogicError,1,1,LogicError
+2885,No error,0,0,No error
+2886,No error,0,1,LogicError
+2887,No error,0,0,No error
+2888,No error,0,0,No error
+2889,SyntaxError,2,2,SyntaxError
+2890,SyntaxError,2,2,SyntaxError
+2891,No error,0,1,LogicError
+2892,No error,0,0,No error
+2893,NameError,3,3,NameError
+2894,IndentationError,5,5,IndentationError
+2895,No error,0,0,No error
+2896,NameError,3,3,NameError
+2897,No error,0,0,No error
+2898,RecursionError,10,1,LogicError
+2899,No error,0,0,No error
+2900,LogicError,1,1,LogicError
+2901,LogicError,1,1,LogicError
+2902,LogicError,1,3,NameError
+2903,No error,0,0,No error
+2904,No error,0,0,No error
+2905,No error,0,0,No error
+2906,No error,0,0,No error
+2907,LogicError,1,1,LogicError
+2908,SyntaxError,2,2,SyntaxError
+2909,No error,0,0,No error
+2910,No error,0,0,No error
+2911,LogicError,1,1,LogicError
+2912,No error,0,1,LogicError
+2913,LogicError,1,1,LogicError
+2914,KeyError,7,7,KeyError
+2915,No error,0,1,LogicError
+2916,No error,0,0,No error
+2917,No error,0,0,No error
+2918,No error,0,1,LogicError
+2919,No error,0,0,No error
+2920,No error,0,0,No error
+2921,LogicError,1,1,LogicError
+2922,LogicError,1,1,LogicError
+2923,LogicError,1,1,LogicError
+2924,LogicError,1,1,LogicError
+2925,No error,0,0,No error
+2926,SyntaxError,2,2,SyntaxError
+2927,No error,0,0,No error
+2928,No error,0,0,No error
+2929,LogicError,1,1,LogicError
+2930,No error,0,0,No error
+2931,LogicError,1,0,No error
+2932,LogicError,1,1,LogicError
+2933,LogicError,1,1,LogicError
+2934,No error,0,0,No error
+2935,No error,0,0,No error
+2936,LogicError,1,1,LogicError
+2937,LogicError,1,1,LogicError
+2938,No error,0,0,No error
+2939,LogicError,1,1,LogicError
+2940,No error,0,0,No error
+2941,IndentationError,5,5,IndentationError
+2942,No error,0,0,No error
+2943,No error,0,0,No error
+2944,TypeError,4,4,TypeError
+2945,SyntaxError,2,2,SyntaxError
+2946,No error,0,0,No error
+2947,No error,0,0,No error
+2948,LogicError,1,1,LogicError
+2949,IndentationError,5,5,IndentationError
+2950,LogicError,1,1,LogicError
+2951,No error,0,0,No error
+2952,No error,0,1,LogicError
+2953,No error,0,0,No error
+2954,No error,0,0,No error
+2955,No error,0,0,No error
+2956,No error,0,0,No error
+2957,LogicError,1,1,LogicError
+2958,No error,0,0,No error
+2959,SyntaxError,2,2,SyntaxError
+2960,No error,0,0,No error
+2961,LogicError,1,1,LogicError
+2962,LogicError,1,1,LogicError
+2963,SyntaxError,2,2,SyntaxError
+2964,No error,0,0,No error
+2965,LogicError,1,1,LogicError
+2966,LogicError,1,1,LogicError
+2967,NameError,3,3,NameError
+2968,No error,0,0,No error
+2969,LogicError,1,1,LogicError
+2970,No error,0,0,No error
+2971,No error,0,0,No error
+2972,No error,0,0,No error
+2973,LogicError,1,1,LogicError
+2974,No error,0,0,No error
+2975,TypeError,4,4,TypeError
+2976,No error,0,1,LogicError
+2977,No error,0,0,No error
+2978,SyntaxError,2,2,SyntaxError
+2979,LogicError,1,1,LogicError
+2980,LogicError,1,1,LogicError
+2981,No error,0,0,No error
+2982,SyntaxError,2,2,SyntaxError
+2983,SyntaxError,2,2,SyntaxError
+2984,No error,0,0,No error
+2985,TypeError,4,4,TypeError
+2986,IndentationError,5,5,IndentationError
+2987,No error,0,1,LogicError
+2988,No error,0,0,No error
+2989,No error,0,0,No error
+2990,SyntaxError,2,2,SyntaxError
+2991,LogicError,1,1,LogicError
+2992,No error,0,0,No error
+2993,NameError,3,3,NameError
+2994,SyntaxError,2,2,SyntaxError
+2995,No error,0,0,No error
+2996,SyntaxError,2,2,SyntaxError
+2997,No error,0,0,No error
+2998,LogicError,1,1,LogicError
+2999,LogicError,1,3,NameError
+3000,LogicError,1,1,LogicError
+3001,No error,0,0,No error
+3002,No error,0,0,No error
+3003,RecursionError,10,10,RecursionError
+3004,No error,0,0,No error
+3005,No error,0,1,LogicError
+3006,LogicError,1,1,LogicError
+3007,No error,0,0,No error
+3008,No error,0,0,No error
+3009,No error,0,1,LogicError
+3010,No error,0,1,LogicError
+3011,No error,0,0,No error
+3012,LogicError,1,1,LogicError
+3013,No error,0,0,No error
+3014,SyntaxError,2,2,SyntaxError
+3015,IndentationError,5,5,IndentationError
+3016,No error,0,0,No error
+3017,LogicError,1,1,LogicError
+3018,ZeroDivisionError,13,1,LogicError
+3019,LogicError,1,1,LogicError
+3020,No error,0,0,No error
+3021,No error,0,0,No error
+3022,No error,0,0,No error
+3023,SyntaxError,2,2,SyntaxError
+3024,No error,0,1,LogicError
+3025,No error,0,0,No error
+3026,No error,0,0,No error
+3027,IndexError,8,8,IndexError
+3028,RecursionError,10,10,RecursionError
+3029,No error,0,0,No error
+3030,AttributeError,13,13,Other errors
+3031,No error,0,0,No error
+3032,No error,0,0,No error
+3033,No error,0,0,No error
+3034,No error,0,0,No error
+3035,No error,0,0,No error
+3036,SyntaxError,2,2,SyntaxError
+3037,LogicError,1,1,LogicError
+3038,IndentationError,5,5,IndentationError
+3039,No error,0,0,No error
+3040,SyntaxError,2,2,SyntaxError
+3041,LogicError,1,1,LogicError
+3042,SyntaxError,2,2,SyntaxError
+3043,No error,0,0,No error
+3044,No error,0,0,No error
+3045,No error,0,0,No error
+3046,No error,0,0,No error
+3047,LogicError,1,1,LogicError
+3048,TypeError,4,4,TypeError
+3049,No error,0,0,No error
+3050,No error,0,0,No error
+3051,SyntaxError,2,2,SyntaxError
+3052,LogicError,1,1,LogicError
+3053,SyntaxError,2,2,SyntaxError
+3054,No error,0,0,No error
+3055,No error,0,0,No error
+3056,LogicError,1,1,LogicError
+3057,No error,0,0,No error
+3058,NameError,3,3,NameError
+3059,EOFError,9,1,LogicError
+3060,SyntaxError,2,2,SyntaxError
+3061,SyntaxError,2,2,SyntaxError
+3062,No error,0,0,No error
+3063,No error,0,0,No error
+3064,LogicError,1,0,No error
+3065,No error,0,0,No error
+3066,SyntaxError,2,2,SyntaxError
+3067,SyntaxError,2,2,SyntaxError
+3068,LogicError,1,1,LogicError
+3069,No error,0,0,No error
+3070,LogicError,1,1,LogicError
+3071,No error,0,0,No error
+3072,LogicError,1,1,LogicError
+3073,LogicError,1,1,LogicError
+3074,No error,0,0,No error
+3075,No error,0,0,No error
+3076,LogicError,1,1,LogicError
+3077,IndentationError,5,5,IndentationError
+3078,No error,0,1,LogicError
+3079,No error,0,0,No error
+3080,SyntaxError,2,2,SyntaxError
+3081,No error,0,1,LogicError
+3082,SyntaxError,2,2,SyntaxError
+3083,NameError,3,3,NameError
+3084,No error,0,0,No error
+3085,No error,0,0,No error
+3086,LogicError,1,1,LogicError
+3087,No error,0,0,No error
+3088,LogicError,1,1,LogicError
+3089,No error,0,1,LogicError
+3090,SyntaxError,2,2,SyntaxError
+3091,LogicError,1,1,LogicError
+3092,NameError,3,3,NameError
+3093,No error,0,0,No error
+3094,No error,0,1,LogicError
+3095,UnboundLocalError,6,6,UnboundLocalError
+3096,LogicError,1,1,LogicError
+3097,No error,0,0,No error
+3098,No error,0,0,No error
+3099,SyntaxError,2,2,SyntaxError
+3100,SyntaxError,2,2,SyntaxError
+3101,LogicError,1,1,LogicError
+3102,No error,0,0,No error
+3103,No error,0,1,LogicError
+3104,No error,0,0,No error
+3105,LogicError,1,1,LogicError
+3106,LogicError,1,1,LogicError
+3107,No error,0,0,No error
+3108,SyntaxError,2,2,SyntaxError
+3109,No error,0,0,No error
+3110,No error,0,0,No error
+3111,IndentationError,5,5,IndentationError
+3112,No error,0,0,No error
+3113,No error,0,0,No error
+3114,No error,0,0,No error
+3115,LogicError,1,1,LogicError
+3116,LogicError,1,1,LogicError
+3117,ValueError,11,11,ValueError
+3118,No error,0,0,No error
+3119,NameError,3,3,NameError
+3120,NameError,3,3,NameError
+3121,NameError,3,3,NameError
+3122,LogicError,1,1,LogicError
+3123,No error,0,0,No error
+3124,LogicError,1,1,LogicError
+3125,NameError,3,3,NameError
+3126,KeyError,7,7,KeyError
+3127,No error,0,0,No error
+3128,No error,0,0,No error
+3129,No error,0,0,No error
+3130,No error,0,0,No error
+3131,No error,0,1,LogicError
+3132,LogicError,1,1,LogicError
+3133,LogicError,1,1,LogicError
+3134,TypeError,4,4,TypeError
+3135,No error,0,0,No error
+3136,TypeError,4,4,TypeError
+3137,No error,0,0,No error
+3138,NameError,3,3,NameError
+3139,No error,0,0,No error
+3140,No error,0,0,No error
+3141,LogicError,1,1,LogicError
+3142,IndentationError,5,5,IndentationError
+3143,TypeError,4,4,TypeError
+3144,KeyError,7,1,LogicError
+3145,No error,0,0,No error
+3146,No error,0,0,No error
+3147,LogicError,1,1,LogicError
+3148,LogicError,1,1,LogicError
+3149,No error,0,0,No error
+3150,NameError,3,3,NameError
+3151,LogicError,1,1,LogicError
+3152,No error,0,0,No error
+3153,NameError,3,3,NameError
+3154,No error,0,0,No error
+3155,No error,0,0,No error
+3156,No error,0,0,No error
+3157,No error,0,0,No error
+3158,KeyError,7,7,KeyError
+3159,TypeError,4,4,TypeError
+3160,No error,0,0,No error
+3161,No error,0,0,No error
+3162,LogicError,1,1,LogicError
+3163,No error,0,0,No error
+3164,No error,0,1,LogicError
+3165,SyntaxError,2,2,SyntaxError
+3166,IndexError,8,8,IndexError
+3167,No error,0,0,No error
+3168,LogicError,1,1,LogicError
+3169,NameError,3,3,NameError
+3170,No error,0,0,No error
+3171,No error,0,0,No error
+3172,RecursionError,10,10,RecursionError
+3173,NameError,3,3,NameError
+3174,TypeError,4,4,TypeError
+3175,No error,0,1,LogicError
+3176,NameError,3,3,NameError
+3177,No error,0,1,LogicError
+3178,IndexError,8,1,LogicError
+3179,No error,0,0,No error
+3180,No error,0,0,No error
+3181,No error,0,0,No error
+3182,SyntaxError,2,2,SyntaxError
+3183,No error,0,0,No error
+3184,LogicError,1,1,LogicError
+3185,LogicError,1,1,LogicError
+3186,LogicError,1,1,LogicError
+3187,LogicError,1,0,No error
+3188,LogicError,1,1,LogicError
+3189,SyntaxError,2,2,SyntaxError
+3190,No error,0,0,No error
+3191,LogicError,1,1,LogicError
+3192,SyntaxError,2,2,SyntaxError
+3193,No error,0,0,No error
+3194,No error,0,0,No error
+3195,LogicError,1,1,LogicError
+3196,No error,0,0,No error
+3197,LogicError,1,1,LogicError
+3198,LogicError,1,1,LogicError
+3199,No error,0,0,No error
+3200,LogicError,1,1,LogicError
+3201,No error,0,0,No error
+3202,No error,0,1,LogicError
+3203,No error,0,0,No error
+3204,No error,0,0,No error
+3205,SyntaxError,2,2,SyntaxError
+3206,LogicError,1,1,LogicError
+3207,No error,0,0,No error
+3208,No error,0,0,No error
+3209,No error,0,0,No error
+3210,LogicError,1,1,LogicError
+3211,No error,0,0,No error
+3212,SyntaxError,2,2,SyntaxError
+3213,No error,0,0,No error
+3214,LogicError,1,1,LogicError
+3215,SyntaxError,2,2,SyntaxError
+3216,No error,0,0,No error
+3217,No error,0,1,LogicError
+3218,LogicError,1,1,LogicError
+3219,KeyError,7,7,KeyError
+3220,LogicError,1,1,LogicError
+3221,SyntaxError,2,2,SyntaxError
+3222,NameError,3,3,NameError
+3223,No error,0,1,LogicError
+3224,LogicError,1,1,LogicError
+3225,TypeError,4,4,TypeError
+3226,NameError,3,3,NameError
+3227,TypeError,4,4,TypeError
+3228,No error,0,0,No error
+3229,No error,0,0,No error
+3230,No error,0,0,No error
+3231,No error,0,0,No error
+3232,No error,0,0,No error
+3233,NameError,3,3,NameError
+3234,No error,0,0,No error
+3235,NameError,3,3,NameError
+3236,LogicError,1,1,LogicError
+3237,SyntaxError,2,2,SyntaxError
+3238,No error,0,0,No error
+3239,No error,0,0,No error
+3240,IndentationError,5,5,IndentationError
+3241,LogicError,1,1,LogicError
+3242,No error,0,0,No error
+3243,LogicError,1,1,LogicError
+3244,No error,0,0,No error
+3245,NameError,3,3,NameError
+3246,No error,0,0,No error
+3247,IndentationError,5,5,IndentationError
+3248,LogicError,1,0,No error
+3249,No error,0,0,No error
+3250,No error,0,0,No error
+3251,No error,0,0,No error
+3252,SyntaxError,2,2,SyntaxError
+3253,NameError,3,3,NameError
+3254,No error,0,0,No error
+3255,No error,0,1,LogicError
+3256,No error,0,0,No error
+3257,LogicError,1,1,LogicError
+3258,LogicError,1,1,LogicError
+3259,LogicError,1,1,LogicError
+3260,No error,0,1,LogicError
+3261,NameError,3,3,NameError
+3262,UnboundLocalError,6,6,UnboundLocalError
+3263,No error,0,0,No error
+3264,No error,0,1,LogicError
+3265,No error,0,1,LogicError
+3266,LogicError,1,1,LogicError
+3267,No error,0,1,LogicError
+3268,No error,0,0,No error
+3269,NameError,3,3,NameError
+3270,No error,0,0,No error
+3271,No error,0,0,No error
+3272,LogicError,1,1,LogicError
+3273,LogicError,1,1,LogicError
+3274,No error,0,0,No error
+3275,NameError,3,3,NameError
+3276,LogicError,1,1,LogicError
+3277,SyntaxError,2,2,SyntaxError
+3278,NameError,3,3,NameError
+3279,SyntaxError,2,2,SyntaxError
+3280,NameError,3,3,NameError
+3281,UnboundLocalError,6,6,UnboundLocalError
+3282,LogicError,1,1,LogicError
+3283,SyntaxError,2,2,SyntaxError
+3284,TypeError,4,4,TypeError
+3285,LogicError,1,1,LogicError
+3286,SyntaxError,2,2,SyntaxError
+3287,LogicError,1,1,LogicError
+3288,SyntaxError,2,2,SyntaxError
+3289,No error,0,0,No error
+3290,No error,0,0,No error
+3291,SyntaxError,2,2,SyntaxError
+3292,No error,0,0,No error
+3293,SyntaxError,2,2,SyntaxError
+3294,No error,0,1,LogicError
+3295,IndentationError,5,5,IndentationError
+3296,No error,0,0,No error
+3297,No error,0,0,No error
+3298,No error,0,0,No error
+3299,IndentationError,5,5,IndentationError
+3300,LogicError,1,1,LogicError
+3301,LogicError,1,1,LogicError
+3302,No error,0,0,No error
+3303,KeyError,7,7,KeyError
+3304,SyntaxError,2,2,SyntaxError
+3305,SyntaxError,2,2,SyntaxError
+3306,No error,0,0,No error
+3307,No error,0,0,No error
+3308,No error,0,0,No error
+3309,No error,0,0,No error
+3310,TypeError,4,4,TypeError
+3311,No error,0,0,No error
+3312,LogicError,1,1,LogicError
+3313,LogicError,1,1,LogicError
+3314,No error,0,0,No error
+3315,LogicError,1,1,LogicError
+3316,No error,0,0,No error
+3317,No error,0,0,No error
+3318,No error,0,0,No error
+3319,No error,0,0,No error
+3320,LogicError,1,1,LogicError
+3321,No error,0,0,No error
+3322,IndentationError,5,5,IndentationError
+3323,SyntaxError,2,2,SyntaxError
+3324,No error,0,1,LogicError
+3325,LogicError,1,1,LogicError
+3326,LogicError,1,1,LogicError
+3327,SyntaxError,2,2,SyntaxError
+3328,LogicError,1,1,LogicError
+3329,UnboundLocalError,6,6,UnboundLocalError
+3330,No error,0,0,No error
+3331,No error,0,0,No error
+3332,LogicError,1,1,LogicError
+3333,No error,0,0,No error
+3334,No error,0,1,LogicError
+3335,No error,0,0,No error
+3336,LogicError,1,3,NameError
+3337,No error,0,0,No error
+3338,No error,0,0,No error
+3339,No error,0,0,No error
+3340,No error,0,0,No error
+3341,No error,0,0,No error
+3342,TypeError,4,11,ValueError
+3343,KeyError,7,7,KeyError
+3344,No error,0,0,No error
+3345,No error,0,1,LogicError
+3346,SyntaxError,2,2,SyntaxError
+3347,SyntaxError,2,2,SyntaxError
+3348,LogicError,1,1,LogicError
+3349,LogicError,1,1,LogicError
+3350,IndexError,8,1,LogicError
+3351,NameError,3,3,NameError
+3352,No error,0,0,No error
+3353,No error,0,0,No error
+3354,LogicError,1,1,LogicError
+3355,No error,0,0,No error
+3356,No error,0,0,No error
+3357,No error,0,0,No error
+3358,No error,0,0,No error
+3359,No error,0,0,No error
+3360,LogicError,1,1,LogicError
+3361,LogicError,1,1,LogicError
+3362,No error,0,1,LogicError
+3363,No error,0,0,No error
+3364,LogicError,1,1,LogicError
+3365,LogicError,1,1,LogicError
+3366,No error,0,1,LogicError
+3367,No error,0,0,No error
+3368,TypeError,4,4,TypeError
+3369,LogicError,1,0,No error
+3370,No error,0,0,No error
+3371,SyntaxError,2,2,SyntaxError
+3372,LogicError,1,1,LogicError
+3373,LogicError,1,1,LogicError
+3374,No error,0,0,No error
+3375,TypeError,4,4,TypeError
+3376,No error,0,0,No error
+3377,No error,0,0,No error
+3378,No error,0,0,No error
+3379,LogicError,1,1,LogicError
+3380,SyntaxError,2,2,SyntaxError
+3381,No error,0,0,No error
+3382,No error,0,0,No error
+3383,No error,0,0,No error
+3384,No error,0,0,No error
+3385,No error,0,0,No error
+3386,No error,0,1,LogicError
+3387,No error,0,0,No error
+3388,No error,0,1,LogicError
+3389,LogicError,1,1,LogicError
+3390,NameError,3,3,NameError
+3391,No error,0,1,LogicError
+3392,LogicError,1,1,LogicError
+3393,SyntaxError,2,2,SyntaxError
+3394,No error,0,0,No error
+3395,NameError,3,3,NameError
+3396,SyntaxError,2,2,SyntaxError
+3397,No error,0,0,No error
+3398,No error,0,0,No error
+3399,No error,0,0,No error
+3400,No error,0,0,No error
+3401,No error,0,0,No error
+3402,No error,0,0,No error
+3403,No error,0,0,No error
+3404,NameError,3,3,NameError
+3405,No error,0,0,No error
+3406,No error,0,0,No error
+3407,No error,0,0,No error
+3408,SyntaxError,2,2,SyntaxError
+3409,LogicError,1,1,LogicError
+3410,SyntaxError,2,2,SyntaxError
+3411,SyntaxError,2,2,SyntaxError
+3412,No error,0,0,No error
+3413,IndentationError,5,5,IndentationError
+3414,IndentationError,5,5,IndentationError
+3415,SyntaxError,2,2,SyntaxError
+3416,LogicError,1,1,LogicError
+3417,TypeError,4,4,TypeError
+3418,SyntaxError,2,2,SyntaxError
+3419,NameError,3,3,NameError
+3420,LogicError,1,1,LogicError
+3421,No error,0,0,No error
+3422,No error,0,0,No error
+3423,LogicError,1,1,LogicError
+3424,No error,0,0,No error
+3425,No error,0,0,No error
+3426,LogicError,1,1,LogicError
+3427,No error,0,0,No error
+3428,No error,0,0,No error
+3429,LogicError,1,1,LogicError
+3430,LogicError,1,1,LogicError
+3431,No error,0,0,No error
+3432,SyntaxError,2,2,SyntaxError
+3433,No error,0,0,No error
+3434,TypeError,4,4,TypeError
+3435,RecursionError,10,1,LogicError
+3436,No error,0,1,LogicError
+3437,No error,0,0,No error
+3438,No error,0,0,No error
+3439,RecursionError,10,10,RecursionError
+3440,No error,0,0,No error
+3441,LogicError,1,1,LogicError
+3442,SyntaxError,2,2,SyntaxError
+3443,No error,0,0,No error
+3444,No error,0,0,No error
+3445,LogicError,1,1,LogicError
+3446,SyntaxError,2,2,SyntaxError
+3447,No error,0,0,No error
+3448,IndentationError,5,2,SyntaxError
+3449,No error,0,0,No error
+3450,IndentationError,5,5,IndentationError
+3451,UnboundLocalError,6,4,TypeError
+3452,No error,0,0,No error
+3453,IndexError,8,8,IndexError
+3454,LogicError,1,1,LogicError
+3455,No error,0,0,No error
+3456,No error,0,1,LogicError
+3457,IndexError,8,8,IndexError
+3458,SyntaxError,2,2,SyntaxError
+3459,No error,0,1,LogicError
+3460,No error,0,0,No error
+3461,LogicError,1,1,LogicError
+3462,IndentationError,5,5,IndentationError
+3463,No error,0,0,No error
+3464,SyntaxError,2,2,SyntaxError
+3465,NameError,3,3,NameError
+3466,No error,0,0,No error
+3467,No error,0,0,No error
+3468,LogicError,1,1,LogicError
+3469,No error,0,1,LogicError
+3470,No error,0,1,LogicError
+3471,LogicError,1,1,LogicError
+3472,SyntaxError,2,2,SyntaxError
+3473,No error,0,0,No error
+3474,No error,0,0,No error
+3475,No error,0,0,No error
+3476,No error,0,0,No error
+3477,LogicError,1,1,LogicError
+3478,No error,0,0,No error
+3479,LogicError,1,1,LogicError
+3480,No error,0,1,LogicError
+3481,No error,0,0,No error
+3482,No error,0,1,LogicError
+3483,No error,0,0,No error
+3484,TypeError,4,4,TypeError
+3485,No error,0,1,LogicError
+3486,LogicError,1,1,LogicError
+3487,No error,0,1,LogicError
+3488,No error,0,0,No error
+3489,SyntaxError,2,2,SyntaxError
+3490,No error,0,0,No error
+3491,No error,0,0,No error
+3492,No error,0,0,No error
+3493,TypeError,4,4,TypeError
+3494,LogicError,1,1,LogicError
+3495,No error,0,0,No error
+3496,NameError,3,3,NameError
+3497,RecursionError,10,10,RecursionError
+3498,LogicError,1,1,LogicError
+3499,No error,0,0,No error
+3500,No error,0,0,No error
+3501,No error,0,0,No error
+3502,SyntaxError,2,2,SyntaxError
+3503,LogicError,1,1,LogicError
+3504,No error,0,0,No error
+3505,No error,0,0,No error
+3506,LogicError,1,1,LogicError
+3507,LogicError,1,1,LogicError
+3508,SyntaxError,2,5,IndentationError
+3509,TypeError,4,4,TypeError
+3510,No error,0,0,No error
+3511,No error,0,0,No error
+3512,No error,0,0,No error
+3513,SyntaxError,2,2,SyntaxError
+3514,No error,0,0,No error
+3515,No error,0,0,No error
+3516,No error,0,0,No error
+3517,No error,0,0,No error
+3518,NameError,3,3,NameError
+3519,LogicError,1,1,LogicError
+3520,LogicError,1,1,LogicError
+3521,LogicError,1,1,LogicError
+3522,KeyError,7,7,KeyError
+3523,No error,0,1,LogicError
+3524,IndentationError,5,5,IndentationError
+3525,LogicError,1,1,LogicError
+3526,No error,0,0,No error
+3527,No error,0,0,No error
+3528,LogicError,1,1,LogicError
+3529,No error,0,0,No error
+3530,LogicError,1,1,LogicError
+3531,NameError,3,3,NameError
+3532,No error,0,0,No error
+3533,No error,0,0,No error
+3534,No error,0,0,No error
+3535,No error,0,0,No error
+3536,LogicError,1,1,LogicError
+3537,SyntaxError,2,2,SyntaxError
+3538,LogicError,1,1,LogicError
+3539,No error,0,1,LogicError
+3540,NameError,3,3,NameError
+3541,TypeError,4,4,TypeError
+3542,No error,0,0,No error
+3543,NameError,3,3,NameError
+3544,No error,0,0,No error
+3545,NameError,3,3,NameError
+3546,No error,0,0,No error
+3547,No error,0,1,LogicError
+3548,SyntaxError,2,2,SyntaxError
+3549,TypeError,4,4,TypeError
+3550,LogicError,1,1,LogicError
+3551,No error,0,1,LogicError
+3552,No error,0,0,No error
+3553,LogicError,1,1,LogicError
+3554,No error,0,0,No error
+3555,SyntaxError,2,2,SyntaxError
+3556,No error,0,0,No error
+3557,LogicError,1,1,LogicError
+3558,KeyError,7,7,KeyError
+3559,No error,0,1,LogicError
+3560,LogicError,1,1,LogicError
+3561,UnboundLocalError,6,6,UnboundLocalError
+3562,SyntaxError,2,2,SyntaxError
+3563,No error,0,0,No error
+3564,No error,0,0,No error
+3565,No error,0,0,No error
+3566,No error,0,0,No error
+3567,No error,0,0,No error
+3568,TypeError,4,4,TypeError
+3569,No error,0,0,No error
+3570,No error,0,0,No error
+3571,TypeError,4,4,TypeError
+3572,LogicError,1,1,LogicError
+3573,SyntaxError,2,2,SyntaxError
+3574,No error,0,0,No error
+3575,No error,0,0,No error
+3576,IndentationError,5,5,IndentationError
+3577,No error,0,0,No error
+3578,SyntaxError,2,2,SyntaxError
+3579,IndexError,8,1,LogicError
+3580,No error,0,0,No error
+3581,No error,0,0,No error
+3582,LogicError,1,1,LogicError
+3583,No error,0,0,No error
+3584,No error,0,0,No error
+3585,LogicError,1,1,LogicError
+3586,NameError,3,3,NameError
+3587,No error,0,0,No error
+3588,No error,0,0,No error
+3589,TypeError,4,4,TypeError
+3590,LogicError,1,1,LogicError
+3591,No error,0,1,LogicError
+3592,NameError,3,3,NameError
+3593,LogicError,1,12,TabError
+3594,No error,0,0,No error
+3595,SyntaxError,2,2,SyntaxError
+3596,No error,0,0,No error
+3597,TypeError,4,4,TypeError
+3598,NameError,3,3,NameError
+3599,No error,0,0,No error
+3600,LogicError,1,1,LogicError
+3601,No error,0,0,No error
+3602,No error,0,0,No error
+3603,SyntaxError,2,2,SyntaxError
+3604,SyntaxError,2,2,SyntaxError
+3605,No error,0,0,No error
+3606,No error,0,0,No error
+3607,No error,0,0,No error
+3608,No error,0,0,No error
+3609,LogicError,1,1,LogicError
+3610,No error,0,0,No error
+3611,SyntaxError,2,2,SyntaxError
+3612,TypeError,4,4,TypeError
+3613,SyntaxError,2,2,SyntaxError
+3614,SyntaxError,2,2,SyntaxError
+3615,NameError,3,3,NameError
+3616,SyntaxError,2,2,SyntaxError
+3617,SyntaxError,2,5,IndentationError
+3618,NameError,3,3,NameError
+3619,TabError,12,12,TabError
+3620,LogicError,1,1,LogicError
+3621,No error,0,0,No error
+3622,No error,0,0,No error
+3623,No error,0,0,No error
+3624,NameError,3,3,NameError
+3625,No error,0,0,No error
+3626,No error,0,0,No error
+3627,TypeError,4,4,TypeError
+3628,No error,0,0,No error
+3629,No error,0,0,No error
+3630,No error,0,0,No error
+3631,TypeError,4,4,TypeError
+3632,No error,0,1,LogicError
+3633,LogicError,1,1,LogicError
+3634,LogicError,1,1,LogicError
+3635,SyntaxError,2,2,SyntaxError
+3636,LogicError,1,1,LogicError
+3637,SyntaxError,2,2,SyntaxError
+3638,No error,0,0,No error
+3639,No error,0,0,No error
+3640,No error,0,0,No error
+3641,UnboundLocalError,6,1,LogicError
+3642,No error,0,1,LogicError
+3643,No error,0,0,No error
+3644,SyntaxError,2,2,SyntaxError
+3645,LogicError,1,1,LogicError
+3646,No error,0,0,No error
+3647,IndexError,8,1,LogicError
+3648,No error,0,0,No error
+3649,No error,0,0,No error
+3650,No error,0,0,No error
+3651,No error,0,0,No error
+3652,SyntaxError,2,2,SyntaxError
+3653,LogicError,1,1,LogicError
+3654,No error,0,1,LogicError
+3655,No error,0,0,No error
+3656,LogicError,1,0,No error
+3657,LogicError,1,0,No error
+3658,No error,0,0,No error
+3659,LogicError,1,1,LogicError
+3660,No error,0,0,No error
+3661,SyntaxError,2,2,SyntaxError
+3662,SyntaxError,2,2,SyntaxError
+3663,LogicError,1,1,LogicError
+3664,LogicError,1,1,LogicError
+3665,No error,0,0,No error
+3666,SyntaxError,2,2,SyntaxError
+3667,SyntaxError,2,1,LogicError
+3668,No error,0,0,No error
+3669,SyntaxError,2,2,SyntaxError
+3670,No error,0,0,No error
+3671,No error,0,0,No error
+3672,SyntaxError,2,2,SyntaxError
+3673,LogicError,1,1,LogicError
+3674,No error,0,0,No error
+3675,No error,0,0,No error
+3676,LogicError,1,1,LogicError
+3677,IndentationError,5,2,SyntaxError
+3678,LogicError,1,0,No error
+3679,No error,0,0,No error
+3680,LogicError,1,1,LogicError
+3681,SyntaxError,2,2,SyntaxError
+3682,SyntaxError,2,2,SyntaxError
+3683,TypeError,4,11,ValueError
+3684,No error,0,0,No error
+3685,No error,0,1,LogicError
+3686,NameError,3,3,NameError
+3687,No error,0,0,No error
+3688,No error,0,1,LogicError
+3689,SyntaxError,2,2,SyntaxError
+3690,LogicError,1,0,No error
+3691,SyntaxError,2,2,SyntaxError
+3692,LogicError,1,0,No error
+3693,No error,0,0,No error
+3694,LogicError,1,1,LogicError
+3695,No error,0,1,LogicError
+3696,No error,0,0,No error
+3697,No error,0,0,No error
+3698,TypeError,4,4,TypeError
+3699,LogicError,1,1,LogicError
+3700,No error,0,0,No error
+3701,No error,0,1,LogicError
+3702,No error,0,0,No error
+3703,KeyError,7,7,KeyError
+3704,LogicError,1,1,LogicError
+3705,NameError,3,3,NameError
+3706,No error,0,0,No error
+3707,SyntaxError,2,2,SyntaxError
+3708,No error,0,0,No error
+3709,No error,0,0,No error
+3710,NameError,3,3,NameError
+3711,No error,0,0,No error
+3712,No error,0,1,LogicError
+3713,No error,0,0,No error
+3714,No error,0,0,No error
+3715,No error,0,0,No error
+3716,No error,0,0,No error
+3717,No error,0,0,No error
+3718,LogicError,1,1,LogicError
+3719,No error,0,0,No error
+3720,LogicError,1,1,LogicError
+3721,KeyError,7,7,KeyError
+3722,No error,0,0,No error
+3723,LogicError,1,1,LogicError
+3724,SyntaxError,2,2,SyntaxError
+3725,No error,0,0,No error
+3726,LogicError,1,1,LogicError
+3727,No error,0,0,No error
+3728,SyntaxError,2,2,SyntaxError
+3729,No error,0,0,No error
+3730,NameError,3,3,NameError
+3731,No error,0,0,No error
+3732,LogicError,1,1,LogicError
+3733,LogicError,1,1,LogicError
+3734,No error,0,0,No error
+3735,LogicError,1,1,LogicError
+3736,No error,0,0,No error
+3737,LogicError,1,1,LogicError
+3738,No error,0,0,No error
+3739,NameError,3,3,NameError
+3740,TypeError,4,4,TypeError
+3741,LogicError,1,1,LogicError
+3742,SyntaxError,2,2,SyntaxError
+3743,No error,0,0,No error
+3744,LogicError,1,1,LogicError
+3745,No error,0,0,No error
+3746,No error,0,0,No error
+3747,No error,0,0,No error
+3748,No error,0,1,LogicError
+3749,RecursionError,10,10,RecursionError
+3750,No error,0,0,No error
+3751,LogicError,1,1,LogicError
+3752,LogicError,1,1,LogicError
+3753,NameError,3,3,NameError
+3754,TypeError,4,4,TypeError
+3755,No error,0,0,No error
+3756,No error,0,0,No error
+3757,IndentationError,5,5,IndentationError
+3758,No error,0,0,No error
+3759,LogicError,1,1,LogicError
+3760,SyntaxError,2,2,SyntaxError
+3761,LogicError,1,1,LogicError
+3762,No error,0,0,No error
+3763,No error,0,0,No error
+3764,No error,0,0,No error
+3765,LogicError,1,1,LogicError
+3766,TypeError,4,4,TypeError
+3767,No error,0,0,No error
+3768,LogicError,1,1,LogicError
+3769,SyntaxError,2,2,SyntaxError
+3770,SyntaxError,2,2,SyntaxError
+3771,LogicError,1,1,LogicError
+3772,IndentationError,5,5,IndentationError
+3773,LogicError,1,1,LogicError
+3774,NameError,3,3,NameError
+3775,No error,0,0,No error
+3776,No error,0,0,No error
+3777,No error,0,0,No error
+3778,LogicError,1,1,LogicError
+3779,TabError,12,12,TabError
+3780,No error,0,0,No error
+3781,No error,0,0,No error
+3782,SyntaxError,2,2,SyntaxError
+3783,No error,0,0,No error
+3784,SyntaxError,2,2,SyntaxError
+3785,No error,0,0,No error
+3786,No error,0,0,No error
+3787,LogicError,1,1,LogicError
+3788,LogicError,1,1,LogicError
+3789,No error,0,0,No error
+3790,No error,0,1,LogicError
+3791,LogicError,1,1,LogicError
+3792,LogicError,1,1,LogicError
+3793,LogicError,1,1,LogicError
+3794,No error,0,0,No error
+3795,No error,0,0,No error
+3796,No error,0,0,No error
+3797,No error,0,0,No error
+3798,NameError,3,3,NameError
+3799,LogicError,1,1,LogicError
+3800,No error,0,0,No error
+3801,LogicError,1,1,LogicError
+3802,LogicError,1,1,LogicError
+3803,No error,0,0,No error
+3804,No error,0,0,No error
+3805,No error,0,0,No error
+3806,NameError,3,3,NameError
+3807,EOFError,9,1,LogicError
+3808,IndentationError,5,5,IndentationError
+3809,No error,0,0,No error
+3810,No error,0,1,LogicError
+3811,LogicError,1,1,LogicError
+3812,SyntaxError,2,2,SyntaxError
+3813,LogicError,1,1,LogicError
+3814,No error,0,0,No error
+3815,LogicError,1,6,UnboundLocalError
+3816,No error,0,0,No error
+3817,UnboundLocalError,6,6,UnboundLocalError
+3818,No error,0,0,No error
+3819,LogicError,1,1,LogicError
+3820,SyntaxError,2,2,SyntaxError
+3821,RecursionError,10,10,RecursionError
+3822,LogicError,1,1,LogicError
+3823,IndentationError,5,5,IndentationError
+3824,LogicError,1,1,LogicError
+3825,LogicError,1,10,RecursionError
+3826,LogicError,1,1,LogicError
+3827,SyntaxError,2,2,SyntaxError
+3828,No error,0,0,No error
+3829,No error,0,0,No error
+3830,LogicError,1,1,LogicError
+3831,No error,0,0,No error
+3832,NameError,3,3,NameError
+3833,No error,0,0,No error
+3834,SyntaxError,2,2,SyntaxError
+3835,SyntaxError,2,2,SyntaxError
+3836,No error,0,0,No error
+3837,RecursionError,10,10,RecursionError
+3838,No error,0,0,No error
+3839,SyntaxError,2,2,SyntaxError
+3840,LogicError,1,1,LogicError
+3841,SyntaxError,2,2,SyntaxError
+3842,LogicError,1,1,LogicError
+3843,ValueError,11,11,ValueError
+3844,LogicError,1,1,LogicError
+3845,No error,0,0,No error
+3846,TypeError,4,4,TypeError
+3847,LogicError,1,1,LogicError
+3848,No error,0,0,No error
+3849,TypeError,4,4,TypeError
+3850,No error,0,0,No error
+3851,No error,0,1,LogicError
+3852,KeyError,7,7,KeyError
+3853,SyntaxError,2,2,SyntaxError
+3854,SyntaxError,2,2,SyntaxError
+3855,SyntaxError,2,2,SyntaxError
+3856,No error,0,0,No error
+3857,No error,0,0,No error
+3858,No error,0,0,No error
+3859,No error,0,0,No error
+3860,LogicError,1,1,LogicError
+3861,No error,0,0,No error
+3862,No error,0,1,LogicError
+3863,No error,0,0,No error
+3864,IndexError,8,8,IndexError
+3865,LogicError,1,1,LogicError
+3866,LogicError,1,1,LogicError
+3867,TypeError,4,4,TypeError
+3868,SyntaxError,2,2,SyntaxError
+3869,No error,0,0,No error
+3870,No error,0,0,No error
+3871,NameError,3,3,NameError
+3872,No error,0,0,No error
+3873,No error,0,0,No error
+3874,No error,0,0,No error
+3875,LogicError,1,1,LogicError
+3876,LogicError,1,1,LogicError
+3877,SyntaxError,2,2,SyntaxError
+3878,SyntaxError,2,2,SyntaxError
+3879,NameError,3,3,NameError
+3880,LogicError,1,1,LogicError
+3881,No error,0,0,No error
+3882,No error,0,0,No error
+3883,SyntaxError,2,2,SyntaxError
+3884,SyntaxError,2,2,SyntaxError
+3885,SyntaxError,2,2,SyntaxError
+3886,No error,0,0,No error
+3887,SyntaxError,2,2,SyntaxError
+3888,No error,0,0,No error
+3889,LogicError,1,1,LogicError
+3890,No error,0,0,No error
+3891,LogicError,1,1,LogicError
+3892,No error,0,0,No error
+3893,LogicError,1,1,LogicError
+3894,No error,0,0,No error
+3895,No error,0,0,No error
+3896,LogicError,1,1,LogicError
+3897,No error,0,0,No error
+3898,NameError,3,3,NameError
+3899,No error,0,0,No error
+3900,LogicError,1,1,LogicError
+3901,LogicError,1,1,LogicError
+3902,UnboundLocalError,6,6,UnboundLocalError
+3903,No error,0,1,LogicError
+3904,SyntaxError,2,2,SyntaxError
+3905,No error,0,0,No error
+3906,SyntaxError,2,2,SyntaxError
+3907,No error,0,0,No error
+3908,No error,0,1,LogicError
+3909,SyntaxError,2,2,SyntaxError
+3910,No error,0,0,No error
+3911,NameError,3,3,NameError
+3912,LogicError,1,1,LogicError
+3913,NameError,3,3,NameError
+3914,IndentationError,5,5,IndentationError
+3915,IndentationError,5,5,IndentationError
+3916,No error,0,0,No error
+3917,No error,0,0,No error
+3918,No error,0,0,No error
+3919,LogicError,1,1,LogicError
+3920,No error,0,0,No error
+3921,No error,0,0,No error
+3922,No error,0,0,No error
+3923,NameError,3,3,NameError
+3924,SyntaxError,2,2,SyntaxError
+3925,No error,0,0,No error
+3926,No error,0,0,No error
+3927,SyntaxError,2,2,SyntaxError
+3928,LogicError,1,1,LogicError
+3929,No error,0,0,No error
+3930,No error,0,0,No error
+3931,No error,0,0,No error
+3932,No error,0,0,No error
+3933,No error,0,0,No error
+3934,LogicError,1,1,LogicError
+3935,LogicError,1,1,LogicError
+3936,IndentationError,5,5,IndentationError
+3937,LogicError,1,1,LogicError
+3938,No error,0,0,No error
+3939,SyntaxError,2,2,SyntaxError
+3940,LogicError,1,0,No error
+3941,NameError,3,3,NameError
+3942,SyntaxError,2,2,SyntaxError
+3943,No error,0,0,No error
+3944,LogicError,1,1,LogicError
+3945,LogicError,1,0,No error
+3946,SyntaxError,2,2,SyntaxError
+3947,SyntaxError,2,2,SyntaxError
+3948,No error,0,0,No error
+3949,No error,0,0,No error
+3950,No error,0,0,No error
+3951,EOFError,9,1,LogicError
+3952,SyntaxError,2,2,SyntaxError
+3953,TypeError,4,4,TypeError
+3954,No error,0,0,No error
+3955,No error,0,0,No error
+3956,SyntaxError,2,2,SyntaxError
+3957,LogicError,1,1,LogicError
+3958,No error,0,0,No error
+3959,IndexError,8,8,IndexError
+3960,LogicError,1,1,LogicError
+3961,No error,0,0,No error
+3962,NameError,3,3,NameError
+3963,SyntaxError,2,2,SyntaxError
+3964,LogicError,1,1,LogicError
+3965,No error,0,0,No error
+3966,LogicError,1,1,LogicError
+3967,No error,0,0,No error
+3968,SyntaxError,2,2,SyntaxError
+3969,No error,0,0,No error
+3970,No error,0,0,No error
+3971,No error,0,0,No error
+3972,SyntaxError,2,2,SyntaxError
+3973,RecursionError,10,10,RecursionError
+3974,LogicError,1,1,LogicError
+3975,LogicError,1,0,No error
+3976,No error,0,0,No error
+3977,LogicError,1,1,LogicError
+3978,NameError,3,3,NameError
+3979,No error,0,0,No error
+3980,No error,0,0,No error
+3981,No error,0,0,No error
+3982,SyntaxError,2,2,SyntaxError
+3983,LogicError,1,1,LogicError
+3984,NameError,3,3,NameError
+3985,LogicError,1,1,LogicError
+3986,No error,0,0,No error
+3987,No error,0,0,No error
+3988,TypeError,4,4,TypeError
+3989,No error,0,0,No error
+3990,NameError,3,3,NameError
+3991,SyntaxError,2,2,SyntaxError
+3992,LogicError,1,1,LogicError
+3993,SyntaxError,2,2,SyntaxError
+3994,LogicError,1,1,LogicError
+3995,No error,0,0,No error
+3996,No error,0,1,LogicError
+3997,IndentationError,5,5,IndentationError
+3998,No error,0,0,No error
+3999,No error,0,0,No error
+4000,No error,0,0,No error
+4001,NameError,3,3,NameError
+4002,SyntaxError,2,2,SyntaxError
+4003,No error,0,1,LogicError
+4004,SyntaxError,2,2,SyntaxError
+4005,LogicError,1,1,LogicError
+4006,No error,0,0,No error
+4007,IndentationError,5,5,IndentationError
+4008,No error,0,0,No error
+4009,No error,0,0,No error
+4010,TypeError,4,4,TypeError
+4011,No error,0,1,LogicError
+4012,No error,0,0,No error
+4013,SyntaxError,2,2,SyntaxError
+4014,No error,0,0,No error
+4015,No error,0,0,No error
+4016,No error,0,0,No error
+4017,NameError,3,3,NameError
+4018,No error,0,0,No error
+4019,No error,0,0,No error
+4020,TypeError,4,4,TypeError
+4021,No error,0,0,No error
+4022,No error,0,0,No error
+4023,No error,0,1,LogicError
+4024,LogicError,1,1,LogicError
+4025,No error,0,0,No error
+4026,LogicError,1,1,LogicError
+4027,LogicError,1,1,LogicError
+4028,No error,0,0,No error
+4029,No error,0,0,No error
+4030,IndentationError,5,5,IndentationError
+4031,LogicError,1,1,LogicError
+4032,TypeError,4,4,TypeError
+4033,No error,0,0,No error
+4034,No error,0,0,No error
+4035,LogicError,1,1,LogicError
+4036,No error,0,1,LogicError
+4037,LogicError,1,1,LogicError
+4038,No error,0,0,No error
+4039,LogicError,1,1,LogicError
+4040,No error,0,0,No error
+4041,SyntaxError,2,2,SyntaxError
+4042,LogicError,1,1,LogicError
+4043,UnboundLocalError,6,6,UnboundLocalError
+4044,No error,0,0,No error
+4045,TypeError,4,4,TypeError
+4046,SyntaxError,2,2,SyntaxError
+4047,No error,0,0,No error
+4048,No error,0,0,No error
+4049,No error,0,0,No error
+4050,No error,0,0,No error
+4051,No error,0,0,No error
+4052,No error,0,0,No error
+4053,IndentationError,5,5,IndentationError
+4054,IndentationError,5,5,IndentationError
+4055,No error,0,0,No error
+4056,No error,0,0,No error
+4057,No error,0,0,No error
+4058,LogicError,1,1,LogicError
+4059,TabError,12,12,TabError
+4060,LogicError,1,1,LogicError
+4061,NameError,3,3,NameError
+4062,SyntaxError,2,2,SyntaxError
+4063,No error,0,0,No error
+4064,LogicError,1,1,LogicError
+4065,No error,0,0,No error
+4066,LogicError,1,1,LogicError
+4067,No error,0,0,No error
+4068,No error,0,1,LogicError
+4069,No error,0,0,No error
+4070,No error,0,0,No error
+4071,No error,0,0,No error
+4072,No error,0,0,No error
+4073,LogicError,1,1,LogicError
+4074,No error,0,0,No error
+4075,LogicError,1,1,LogicError
+4076,NameError,3,3,NameError
+4077,LogicError,1,1,LogicError
+4078,SyntaxError,2,2,SyntaxError
+4079,SyntaxError,2,2,SyntaxError
+4080,No error,0,0,No error
+4081,LogicError,1,8,IndexError
+4082,IndentationError,5,5,IndentationError
+4083,No error,0,0,No error
+4084,LogicError,1,1,LogicError
+4085,No error,0,0,No error
+4086,LogicError,1,1,LogicError
+4087,KeyError,7,7,KeyError
+4088,SyntaxError,2,2,SyntaxError
+4089,SyntaxError,2,2,SyntaxError
+4090,No error,0,1,LogicError
+4091,No error,0,0,No error
+4092,No error,0,0,No error
+4093,SyntaxError,2,2,SyntaxError
+4094,No error,0,0,No error
+4095,No error,0,0,No error
+4096,No error,0,0,No error
+4097,No error,0,0,No error
+4098,LogicError,1,1,LogicError
+4099,No error,0,0,No error
+4100,UnboundLocalError,6,6,UnboundLocalError
+4101,LogicError,1,1,LogicError
+4102,No error,0,0,No error
+4103,No error,0,0,No error
+4104,No error,0,0,No error
+4105,No error,0,0,No error
+4106,SyntaxError,2,2,SyntaxError
+4107,No error,0,0,No error
+4108,No error,0,0,No error
+4109,No error,0,0,No error
+4110,NameError,3,3,NameError
+4111,SyntaxError,2,2,SyntaxError
+4112,IndexError,8,8,IndexError
+4113,LogicError,1,1,LogicError
+4114,No error,0,0,No error
+4115,No error,0,1,LogicError
+4116,SyntaxError,2,2,SyntaxError
+4117,NameError,3,3,NameError
+4118,TypeError,4,4,TypeError
+4119,SyntaxError,2,2,SyntaxError
+4120,LogicError,1,1,LogicError
+4121,No error,0,0,No error
+4122,LogicError,1,1,LogicError
+4123,IndexError,8,1,LogicError
+4124,IndentationError,5,5,IndentationError
+4125,No error,0,0,No error
+4126,TypeError,4,4,TypeError
+4127,LogicError,1,1,LogicError
+4128,No error,0,0,No error
+4129,LogicError,1,1,LogicError
+4130,No error,0,0,No error
+4131,No error,0,0,No error
+4132,LogicError,1,1,LogicError
+4133,No error,0,0,No error
+4134,SyntaxError,2,2,SyntaxError
+4135,No error,0,0,No error
+4136,LogicError,1,1,LogicError
+4137,IndentationError,5,5,IndentationError
+4138,LogicError,1,1,LogicError
+4139,LogicError,1,1,LogicError
+4140,TypeError,4,4,TypeError
+4141,LogicError,1,1,LogicError
+4142,SyntaxError,2,2,SyntaxError
+4143,No error,0,0,No error
+4144,No error,0,0,No error
+4145,SyntaxError,2,2,SyntaxError
+4146,No error,0,0,No error
+4147,TypeError,4,4,TypeError
+4148,SyntaxError,2,2,SyntaxError
+4149,No error,0,0,No error
+4150,No error,0,0,No error
+4151,SyntaxError,2,2,SyntaxError
+4152,NameError,3,3,NameError
+4153,No error,0,0,No error
+4154,SyntaxError,2,2,SyntaxError
+4155,No error,0,0,No error
+4156,No error,0,0,No error
+4157,LogicError,1,1,LogicError
+4158,No error,0,0,No error
+4159,LogicError,1,1,LogicError
+4160,No error,0,0,No error
+4161,No error,0,0,No error
+4162,LogicError,1,1,LogicError
+4163,TypeError,4,4,TypeError
+4164,SyntaxError,2,2,SyntaxError
+4165,No error,0,1,LogicError
+4166,No error,0,0,No error
+4167,No error,0,0,No error
+4168,No error,0,0,No error
+4169,LogicError,1,1,LogicError
+4170,SyntaxError,2,2,SyntaxError
+4171,NameError,3,3,NameError
+4172,No error,0,1,LogicError
+4173,No error,0,0,No error
+4174,NameError,3,3,NameError
+4175,No error,0,0,No error
+4176,No error,0,0,No error
+4177,No error,0,0,No error
+4178,LogicError,1,1,LogicError
+4179,No error,0,0,No error
+4180,No error,0,1,LogicError
+4181,LogicError,1,1,LogicError
+4182,No error,0,0,No error
+4183,LogicError,1,1,LogicError
+4184,LogicError,1,0,No error
+4185,IndexError,8,8,IndexError
+4186,No error,0,0,No error
+4187,LogicError,1,1,LogicError
+4188,EOFError,9,1,LogicError
+4189,SyntaxError,2,2,SyntaxError
+4190,LogicError,1,1,LogicError
+4191,No error,0,0,No error
+4192,SyntaxError,2,2,SyntaxError
+4193,NameError,3,3,NameError
+4194,RecursionError,10,10,RecursionError
+4195,No error,0,0,No error
+4196,No error,0,0,No error
+4197,LogicError,1,1,LogicError
+4198,No error,0,0,No error
+4199,No error,0,0,No error
+4200,LogicError,1,1,LogicError
+4201,NameError,3,3,NameError
+4202,No error,0,0,No error
+4203,No error,0,1,LogicError
+4204,LogicError,1,1,LogicError
+4205,No error,0,0,No error
+4206,LogicError,1,1,LogicError
+4207,NameError,3,3,NameError
+4208,No error,0,0,No error
+4209,No error,0,0,No error
+4210,No error,0,0,No error
+4211,No error,0,0,No error
+4212,LogicError,1,1,LogicError
+4213,IndexError,8,8,IndexError
+4214,No error,0,0,No error
+4215,No error,0,0,No error
+4216,TypeError,4,4,TypeError
+4217,TypeError,4,4,TypeError
+4218,No error,0,0,No error
+4219,No error,0,0,No error
+4220,No error,0,1,LogicError
+4221,LogicError,1,1,LogicError
+4222,No error,0,0,No error
+4223,NameError,3,3,NameError
+4224,LogicError,1,0,No error
+4225,LogicError,1,1,LogicError
+4226,No error,0,0,No error
+4227,No error,0,0,No error
+4228,LogicError,1,1,LogicError
+4229,LogicError,1,1,LogicError
+4230,SyntaxError,2,2,SyntaxError
+4231,No error,0,0,No error
+4232,No error,0,0,No error
+4233,No error,0,0,No error
+4234,No error,0,0,No error
+4235,No error,0,0,No error
+4236,No error,0,0,No error
+4237,LogicError,1,1,LogicError
+4238,SyntaxError,2,2,SyntaxError
+4239,No error,0,0,No error
+4240,No error,0,0,No error
+4241,LogicError,1,1,LogicError
+4242,TypeError,4,4,TypeError
+4243,No error,0,0,No error
+4244,No error,0,0,No error
+4245,No error,0,0,No error
+4246,SyntaxError,2,2,SyntaxError
+4247,SyntaxError,2,3,NameError
+4248,NameError,3,3,NameError
+4249,No error,0,0,No error
+4250,EOFError,9,4,TypeError
+4251,TypeError,4,4,TypeError
+4252,LogicError,1,3,NameError
+4253,No error,0,0,No error
+4254,No error,0,0,No error
+4255,No error,0,0,No error
+4256,No error,0,0,No error
+4257,KeyError,7,7,KeyError
+4258,LogicError,1,1,LogicError
+4259,No error,0,0,No error
+4260,LogicError,1,1,LogicError
+4261,LogicError,1,1,LogicError
+4262,SyntaxError,2,3,NameError
+4263,LogicError,1,1,LogicError
+4264,LogicError,1,1,LogicError
+4265,IndexError,8,8,IndexError
+4266,SyntaxError,2,2,SyntaxError
+4267,No error,0,0,No error
+4268,SyntaxError,2,2,SyntaxError
+4269,No error,0,0,No error
+4270,LogicError,1,1,LogicError
+4271,No error,0,0,No error
+4272,SyntaxError,2,2,SyntaxError
+4273,SyntaxError,2,2,SyntaxError
+4274,NameError,3,3,NameError
+4275,TypeError,4,4,TypeError
+4276,No error,0,1,LogicError
+4277,IndexError,8,8,IndexError
+4278,EOFError,9,9,EOFError
+4279,No error,0,0,No error
+4280,No error,0,0,No error
+4281,SyntaxError,2,2,SyntaxError
+4282,No error,0,0,No error
+4283,No error,0,0,No error
+4284,SyntaxError,2,2,SyntaxError
+4285,SyntaxError,2,2,SyntaxError
+4286,SyntaxError,2,2,SyntaxError
+4287,LogicError,1,1,LogicError
+4288,SyntaxError,2,2,SyntaxError
+4289,No error,0,0,No error
+4290,LogicError,1,1,LogicError
+4291,TabError,12,12,TabError
+4292,UnboundLocalError,6,6,UnboundLocalError
+4293,No error,0,0,No error
+4294,TypeError,4,4,TypeError
+4295,TypeError,4,4,TypeError
+4296,No error,0,0,No error
+4297,LogicError,1,1,LogicError
+4298,No error,0,0,No error
+4299,LogicError,1,1,LogicError
+4300,LogicError,1,1,LogicError
+4301,SyntaxError,2,2,SyntaxError
+4302,SyntaxError,2,2,SyntaxError
+4303,LogicError,1,1,LogicError
+4304,SyntaxError,2,2,SyntaxError
+4305,LogicError,1,1,LogicError
+4306,SyntaxError,2,2,SyntaxError
+4307,No error,0,0,No error
+4308,No error,0,0,No error
+4309,No error,0,0,No error
+4310,No error,0,0,No error
+4311,No error,0,0,No error
+4312,IndexError,8,1,LogicError
+4313,IndentationError,5,5,IndentationError
+4314,No error,0,1,LogicError
+4315,LogicError,1,1,LogicError
+4316,LogicError,1,1,LogicError
+4317,No error,0,0,No error
+4318,LogicError,1,1,LogicError
+4319,No error,0,0,No error
+4320,SyntaxError,2,2,SyntaxError
+4321,LogicError,1,1,LogicError
+4322,No error,0,0,No error
+4323,NameError,3,3,NameError
+4324,No error,0,1,LogicError
+4325,TypeError,4,4,TypeError
+4326,LogicError,1,0,No error
+4327,LogicError,1,1,LogicError
+4328,IndexError,8,8,IndexError
+4329,No error,0,0,No error
+4330,IndexError,8,8,IndexError
+4331,No error,0,0,No error
+4332,LogicError,1,1,LogicError
+4333,TypeError,4,4,TypeError
+4334,TypeError,4,4,TypeError
+4335,TypeError,4,4,TypeError
+4336,SyntaxError,2,2,SyntaxError
+4337,LogicError,1,1,LogicError
+4338,No error,0,0,No error
+4339,No error,0,0,No error
+4340,No error,0,1,LogicError
+4341,LogicError,1,1,LogicError
+4342,SyntaxError,2,2,SyntaxError
+4343,LogicError,1,1,LogicError
+4344,No error,0,0,No error
+4345,SyntaxError,2,2,SyntaxError
+4346,LogicError,1,1,LogicError
+4347,No error,0,0,No error
+4348,No error,0,0,No error
+4349,No error,0,0,No error
+4350,No error,0,0,No error
+4351,LogicError,1,1,LogicError
+4352,No error,0,0,No error
+4353,LogicError,1,1,LogicError
+4354,No error,0,0,No error
+4355,No error,0,0,No error
+4356,SyntaxError,2,2,SyntaxError
+4357,NameError,3,3,NameError
+4358,IndentationError,5,12,TabError
+4359,LogicError,1,1,LogicError
+4360,No error,0,0,No error
+4361,No error,0,0,No error
+4362,No error,0,0,No error
+4363,NameError,3,3,NameError
+4364,LogicError,1,1,LogicError
+4365,No error,0,0,No error
+4366,No error,0,0,No error
+4367,No error,0,0,No error
+4368,UnboundLocalError,6,6,UnboundLocalError
+4369,LogicError,1,1,LogicError
+4370,RecursionError,10,1,LogicError
+4371,LogicError,1,1,LogicError
+4372,No error,0,0,No error
+4373,LogicError,1,1,LogicError
+4374,LogicError,1,0,No error
+4375,NameError,3,3,NameError
+4376,No error,0,0,No error
+4377,SyntaxError,2,2,SyntaxError
+4378,No error,0,0,No error
+4379,SyntaxError,2,2,SyntaxError
+4380,No error,0,0,No error
+4381,UnboundLocalError,6,6,UnboundLocalError
+4382,NameError,3,3,NameError
+4383,SyntaxError,2,2,SyntaxError
+4384,SyntaxError,2,2,SyntaxError
+4385,No error,0,0,No error
+4386,No error,0,0,No error
+4387,SyntaxError,2,2,SyntaxError
+4388,NameError,3,3,NameError
+4389,No error,0,0,No error
+4390,No error,0,1,LogicError
+4391,NameError,3,3,NameError
+4392,No error,0,0,No error
+4393,No error,0,0,No error
+4394,No error,0,0,No error
+4395,No error,0,0,No error
+4396,LogicError,1,1,LogicError
+4397,No error,0,0,No error
+4398,No error,0,0,No error
+4399,LogicError,1,1,LogicError
+4400,LogicError,1,1,LogicError
+4401,No error,0,0,No error
+4402,No error,0,0,No error
+4403,No error,0,0,No error
+4404,TypeError,4,4,TypeError
+4405,UnboundLocalError,6,6,UnboundLocalError
+4406,No error,0,0,No error
+4407,No error,0,0,No error
+4408,No error,0,1,LogicError
+4409,No error,0,0,No error
+4410,No error,0,0,No error
+4411,LogicError,1,1,LogicError
+4412,LogicError,1,1,LogicError
+4413,No error,0,0,No error
+4414,No error,0,0,No error
+4415,LogicError,1,0,No error
+4416,No error,0,0,No error
+4417,SyntaxError,2,2,SyntaxError
+4418,SyntaxError,2,2,SyntaxError
+4419,No error,0,0,No error
+4420,LogicError,1,1,LogicError
+4421,LogicError,1,1,LogicError
+4422,LogicError,1,1,LogicError
+4423,No error,0,0,No error
+4424,SyntaxError,2,2,SyntaxError
+4425,No error,0,0,No error
+4426,NameError,3,3,NameError
+4427,SyntaxError,2,2,SyntaxError
+4428,NameError,3,3,NameError
+4429,SyntaxError,2,2,SyntaxError
+4430,TabError,12,12,TabError
+4431,No error,0,0,No error
+4432,No error,0,0,No error
+4433,No error,0,0,No error
+4434,LogicError,1,1,LogicError
+4435,No error,0,0,No error
+4436,LogicError,1,1,LogicError
+4437,SyntaxError,2,2,SyntaxError
+4438,No error,0,0,No error
+4439,No error,0,0,No error
+4440,No error,0,0,No error
+4441,No error,0,0,No error
+4442,No error,0,0,No error
+4443,No error,0,0,No error
+4444,No error,0,0,No error
+4445,SyntaxError,2,2,SyntaxError
+4446,No error,0,0,No error
+4447,SyntaxError,2,2,SyntaxError
+4448,SyntaxError,2,2,SyntaxError
+4449,No error,0,0,No error
+4450,LogicError,1,1,LogicError
+4451,No error,0,0,No error
+4452,No error,0,1,LogicError
+4453,No error,0,0,No error
+4454,LogicError,1,1,LogicError
+4455,No error,0,0,No error
+4456,No error,0,0,No error
+4457,LogicError,1,1,LogicError
+4458,IndexError,8,8,IndexError
+4459,No error,0,1,LogicError
+4460,No error,0,0,No error
+4461,No error,0,0,No error
+4462,NameError,3,3,NameError
+4463,No error,0,0,No error
+4464,No error,0,0,No error
+4465,NameError,3,3,NameError
+4466,SyntaxError,2,2,SyntaxError
+4467,No error,0,0,No error
+4468,SyntaxError,2,2,SyntaxError
+4469,LogicError,1,1,LogicError
+4470,No error,0,0,No error
+4471,AttributeError,13,13,Other errors
+4472,SyntaxError,2,2,SyntaxError
+4473,TypeError,4,4,TypeError
+4474,No error,0,1,LogicError
+4475,LogicError,1,1,LogicError
+4476,LogicError,1,1,LogicError
+4477,No error,0,0,No error
+4478,IndentationError,5,5,IndentationError
+4479,No error,0,0,No error
+4480,UnboundLocalError,6,6,UnboundLocalError
+4481,LogicError,1,1,LogicError
+4482,No error,0,0,No error
+4483,No error,0,1,LogicError
+4484,NameError,3,3,NameError
+4485,No error,0,1,LogicError
+4486,No error,0,0,No error
+4487,SyntaxError,2,2,SyntaxError
+4488,IndexError,8,8,IndexError
+4489,IndentationError,5,5,IndentationError
+4490,NameError,3,3,NameError
+4491,No error,0,0,No error
+4492,LogicError,1,1,LogicError
+4493,No error,0,0,No error
+4494,SyntaxError,2,2,SyntaxError
+4495,No error,0,0,No error
+4496,No error,0,0,No error
+4497,No error,0,0,No error
+4498,TabError,12,12,TabError
+4499,IndentationError,5,5,IndentationError
+4500,SyntaxError,2,2,SyntaxError
+4501,No error,0,0,No error
+4502,No error,0,0,No error
+4503,LogicError,1,1,LogicError
+4504,NameError,3,3,NameError
+4505,TypeError,4,4,TypeError
+4506,No error,0,0,No error
+4507,LogicError,1,1,LogicError
+4508,No error,0,0,No error
+4509,TypeError,4,4,TypeError
+4510,LogicError,1,1,LogicError
+4511,IndentationError,5,5,IndentationError
+4512,No error,0,0,No error
+4513,LogicError,1,1,LogicError
+4514,SyntaxError,2,2,SyntaxError
+4515,No error,0,0,No error
+4516,SyntaxError,2,2,SyntaxError
+4517,No error,0,1,LogicError
+4518,LogicError,1,1,LogicError
+4519,ModuleNotFoundError,13,1,LogicError
+4520,LogicError,1,1,LogicError
+4521,LogicError,1,1,LogicError
+4522,NameError,3,3,NameError
+4523,LogicError,1,1,LogicError
+4524,No error,0,0,No error
+4525,LogicError,1,1,LogicError
+4526,No error,0,1,LogicError
+4527,No error,0,0,No error
+4528,LogicError,1,1,LogicError
+4529,TypeError,4,4,TypeError
+4530,No error,0,0,No error
+4531,No error,0,0,No error
+4532,AttributeError,13,13,Other errors
+4533,No error,0,0,No error
+4534,SyntaxError,2,2,SyntaxError
+4535,No error,0,0,No error
+4536,IndentationError,5,5,IndentationError
+4537,SyntaxError,2,2,SyntaxError
+4538,SyntaxError,2,2,SyntaxError
+4539,No error,0,0,No error
+4540,LogicError,1,1,LogicError
+4541,No error,0,0,No error
+4542,No error,0,0,No error
+4543,LogicError,1,1,LogicError
+4544,No error,0,1,LogicError
+4545,No error,0,0,No error
+4546,NameError,3,3,NameError
+4547,EOFError,9,4,TypeError
+4548,LogicError,1,1,LogicError
+4549,No error,0,0,No error
+4550,No error,0,0,No error
+4551,SyntaxError,2,2,SyntaxError
+4552,LogicError,1,1,LogicError
+4553,SyntaxError,2,2,SyntaxError
+4554,KeyError,7,7,KeyError
+4555,SyntaxError,2,2,SyntaxError
+4556,SyntaxError,2,2,SyntaxError
+4557,No error,0,1,LogicError
+4558,SyntaxError,2,2,SyntaxError
+4559,TabError,12,2,SyntaxError
+4560,SyntaxError,2,2,SyntaxError
+4561,LogicError,1,1,LogicError
+4562,No error,0,0,No error
+4563,No error,0,0,No error
+4564,No error,0,0,No error
+4565,TypeError,4,4,TypeError
+4566,No error,0,0,No error
+4567,No error,0,0,No error
+4568,No error,0,0,No error
+4569,No error,0,0,No error
+4570,No error,0,0,No error
+4571,No error,0,0,No error
+4572,No error,0,0,No error
+4573,LogicError,1,1,LogicError
+4574,No error,0,0,No error
+4575,LogicError,1,1,LogicError
+4576,LogicError,1,1,LogicError
+4577,No error,0,0,No error
+4578,LogicError,1,1,LogicError
+4579,UnboundLocalError,6,6,UnboundLocalError
+4580,SyntaxError,2,5,IndentationError
+4581,LogicError,1,1,LogicError
+4582,IndentationError,5,5,IndentationError
+4583,LogicError,1,1,LogicError
+4584,KeyError,7,7,KeyError
+4585,SyntaxError,2,2,SyntaxError
+4586,TypeError,4,4,TypeError
+4587,LogicError,1,1,LogicError
+4588,No error,0,0,No error
+4589,IndentationError,5,3,NameError
+4590,No error,0,6,UnboundLocalError
+4591,TypeError,4,4,TypeError
+4592,No error,0,0,No error
+4593,RecursionError,10,10,RecursionError
+4594,TypeError,4,4,TypeError
+4595,LogicError,1,1,LogicError
+4596,LogicError,1,1,LogicError
+4597,LogicError,1,1,LogicError
+4598,No error,0,1,LogicError
+4599,No error,0,0,No error
+4600,No error,0,0,No error
+4601,SyntaxError,2,2,SyntaxError
+4602,NameError,3,3,NameError
+4603,SyntaxError,2,2,SyntaxError
+4604,No error,0,0,No error
+4605,No error,0,0,No error
+4606,No error,0,0,No error
+4607,No error,0,1,LogicError
+4608,TypeError,4,4,TypeError
+4609,LogicError,1,1,LogicError
+4610,TypeError,4,4,TypeError
+4611,SyntaxError,2,2,SyntaxError
+4612,RecursionError,10,10,RecursionError
+4613,LogicError,1,1,LogicError
+4614,SyntaxError,2,2,SyntaxError
+4615,No error,0,0,No error
+4616,LogicError,1,1,LogicError
+4617,SyntaxError,2,2,SyntaxError
+4618,LogicError,1,1,LogicError
+4619,No error,0,1,LogicError
+4620,No error,0,0,No error
+4621,No error,0,0,No error
+4622,TypeError,4,4,TypeError
+4623,UnboundLocalError,6,6,UnboundLocalError
+4624,EOFError,9,9,EOFError
+4625,LogicError,1,1,LogicError
+4626,SyntaxError,2,2,SyntaxError
+4627,No error,0,0,No error
+4628,IndentationError,5,5,IndentationError
+4629,No error,0,0,No error
+4630,No error,0,0,No error
+4631,No error,0,0,No error
+4632,No error,0,0,No error
+4633,SyntaxError,2,2,SyntaxError
+4634,IndentationError,5,5,IndentationError
+4635,No error,0,0,No error
+4636,No error,0,0,No error
+4637,LogicError,1,1,LogicError
+4638,LogicError,1,1,LogicError
+4639,No error,0,1,LogicError
+4640,LogicError,1,1,LogicError
+4641,SyntaxError,2,2,SyntaxError
+4642,LogicError,1,1,LogicError
+4643,No error,0,0,No error
+4644,No error,0,0,No error
+4645,No error,0,0,No error
+4646,SyntaxError,2,2,SyntaxError
+4647,No error,0,0,No error
+4648,No error,0,1,LogicError
+4649,No error,0,0,No error
+4650,AttributeError,13,13,Other errors
+4651,LogicError,1,1,LogicError
+4652,IndentationError,5,5,IndentationError
+4653,No error,0,0,No error
+4654,LogicError,1,1,LogicError
+4655,IndentationError,5,5,IndentationError
+4656,LogicError,1,1,LogicError
+4657,No error,0,0,No error
+4658,SyntaxError,2,2,SyntaxError
+4659,ValueError,11,11,ValueError
+4660,LogicError,1,1,LogicError
+4661,LogicError,1,0,No error
+4662,TypeError,4,4,TypeError
+4663,NameError,3,3,NameError
+4664,No error,0,0,No error
+4665,No error,0,0,No error
+4666,No error,0,0,No error
+4667,TypeError,4,13,Other errors
+4668,No error,0,0,No error
+4669,LogicError,1,1,LogicError
+4670,No error,0,1,LogicError
+4671,LogicError,1,1,LogicError
+4672,LogicError,1,1,LogicError
+4673,NameError,3,3,NameError
+4674,LogicError,1,1,LogicError
+4675,No error,0,0,No error
+4676,NameError,3,3,NameError
+4677,No error,0,1,LogicError
+4678,No error,0,0,No error
+4679,TypeError,4,4,TypeError
+4680,LogicError,1,1,LogicError
+4681,No error,0,0,No error
+4682,No error,0,0,No error
+4683,No error,0,0,No error
+4684,IndentationError,5,3,NameError
+4685,SyntaxError,2,2,SyntaxError
+4686,EOFError,9,1,LogicError
+4687,No error,0,0,No error
+4688,No error,0,1,LogicError
+4689,LogicError,1,1,LogicError
+4690,LogicError,1,1,LogicError
+4691,RecursionError,10,10,RecursionError
+4692,NameError,3,3,NameError
+4693,No error,0,0,No error
+4694,No error,0,0,No error
+4695,UnboundLocalError,6,6,UnboundLocalError
+4696,No error,0,0,No error
+4697,No error,0,0,No error
+4698,No error,0,0,No error
+4699,LogicError,1,1,LogicError
+4700,No error,0,0,No error
+4701,SyntaxError,2,2,SyntaxError
+4702,NameError,3,3,NameError
+4703,LogicError,1,1,LogicError
+4704,LogicError,1,1,LogicError
+4705,LogicError,1,1,LogicError
+4706,No error,0,0,No error
+4707,No error,0,0,No error
+4708,LogicError,1,1,LogicError
+4709,LogicError,1,1,LogicError
+4710,No error,0,1,LogicError
+4711,No error,0,0,No error
+4712,IndentationError,5,5,IndentationError
+4713,No error,0,0,No error
+4714,No error,0,0,No error
+4715,IndexError,8,8,IndexError
+4716,No error,0,1,LogicError
+4717,LogicError,1,0,No error
+4718,No error,0,0,No error
+4719,NameError,3,3,NameError
+4720,LogicError,1,1,LogicError
+4721,No error,0,0,No error
+4722,No error,0,0,No error
+4723,No error,0,0,No error
+4724,NameError,3,3,NameError
+4725,No error,0,0,No error
+4726,IndexError,8,8,IndexError
+4727,LogicError,1,1,LogicError
+4728,LogicError,1,1,LogicError
+4729,LogicError,1,1,LogicError
+4730,No error,0,0,No error
+4731,LogicError,1,0,No error
+4732,NameError,3,3,NameError
+4733,SyntaxError,2,2,SyntaxError
+4734,LogicError,1,1,LogicError
+4735,LogicError,1,1,LogicError
+4736,No error,0,0,No error
+4737,TypeError,4,4,TypeError
+4738,EOFError,9,9,EOFError
+4739,No error,0,0,No error
+4740,No error,0,0,No error
+4741,SyntaxError,2,2,SyntaxError
+4742,LogicError,1,1,LogicError
+4743,LogicError,1,1,LogicError
+4744,SyntaxError,2,2,SyntaxError
+4745,LogicError,1,1,LogicError
+4746,No error,0,0,No error
+4747,No error,0,1,LogicError
+4748,TypeError,4,4,TypeError
+4749,LogicError,1,1,LogicError
+4750,No error,0,0,No error
+4751,No error,0,0,No error
+4752,SyntaxError,2,2,SyntaxError
+4753,SyntaxError,2,2,SyntaxError
+4754,NameError,3,3,NameError
+4755,SyntaxError,2,2,SyntaxError
+4756,LogicError,1,1,LogicError
+4757,No error,0,0,No error
+4758,SyntaxError,2,2,SyntaxError
+4759,No error,0,0,No error
+4760,No error,0,0,No error
+4761,No error,0,0,No error
+4762,No error,0,0,No error
+4763,LogicError,1,1,LogicError
+4764,No error,0,0,No error
+4765,SyntaxError,2,2,SyntaxError
+4766,SyntaxError,2,2,SyntaxError
+4767,No error,0,0,No error
+4768,AttributeError,13,13,Other errors
+4769,No error,0,0,No error
+4770,SyntaxError,2,2,SyntaxError
+4771,No error,0,0,No error
+4772,No error,0,0,No error
+4773,No error,0,0,No error
+4774,No error,0,0,No error
+4775,No error,0,1,LogicError
+4776,No error,0,1,LogicError
+4777,UnboundLocalError,6,6,UnboundLocalError
+4778,NameError,3,3,NameError
+4779,LogicError,1,1,LogicError
+4780,LogicError,1,1,LogicError
+4781,TypeError,4,4,TypeError
+4782,LogicError,1,1,LogicError
+4783,No error,0,0,No error
+4784,LogicError,1,1,LogicError
+4785,SyntaxError,2,2,SyntaxError
+4786,UnboundLocalError,6,6,UnboundLocalError
+4787,LogicError,1,0,No error
+4788,No error,0,0,No error
+4789,No error,0,0,No error
+4790,SyntaxError,2,2,SyntaxError
+4791,LogicError,1,1,LogicError
+4792,No error,0,0,No error
+4793,No error,0,0,No error
+4794,SyntaxError,2,2,SyntaxError
+4795,EOFError,9,11,ValueError
+4796,No error,0,0,No error
+4797,LogicError,1,1,LogicError
+4798,No error,0,1,LogicError
+4799,No error,0,0,No error
+4800,LogicError,1,1,LogicError
+4801,No error,0,0,No error
+4802,No error,0,0,No error
+4803,No error,0,1,LogicError
+4804,LogicError,1,1,LogicError
+4805,LogicError,1,1,LogicError
+4806,No error,0,0,No error
+4807,LogicError,1,1,LogicError
+4808,No error,0,1,LogicError
+4809,RecursionError,10,10,RecursionError
+4810,No error,0,0,No error
+4811,LogicError,1,1,LogicError
+4812,SyntaxError,2,2,SyntaxError
+4813,LogicError,1,1,LogicError
+4814,No error,0,0,No error
+4815,No error,0,0,No error
+4816,No error,0,0,No error
+4817,No error,0,0,No error
+4818,LogicError,1,1,LogicError
+4819,LogicError,1,1,LogicError
+4820,TypeError,4,4,TypeError
+4821,SyntaxError,2,2,SyntaxError
+4822,NameError,3,3,NameError
+4823,No error,0,0,No error
+4824,LogicError,1,1,LogicError
+4825,No error,0,0,No error
+4826,No error,0,0,No error
+4827,LogicError,1,1,LogicError
+4828,IndentationError,5,5,IndentationError
+4829,IndentationError,5,5,IndentationError
+4830,SyntaxError,2,2,SyntaxError
+4831,TypeError,4,4,TypeError
+4832,No error,0,0,No error
+4833,No error,0,0,No error
+4834,LogicError,1,1,LogicError
+4835,LogicError,1,1,LogicError
+4836,LogicError,1,1,LogicError
+4837,LogicError,1,1,LogicError
+4838,No error,0,1,LogicError
+4839,No error,0,0,No error
+4840,SyntaxError,2,2,SyntaxError
+4841,No error,0,0,No error
+4842,SyntaxError,2,2,SyntaxError
+4843,No error,0,0,No error
+4844,No error,0,0,No error
+4845,No error,0,0,No error
+4846,No error,0,0,No error
+4847,No error,0,0,No error
+4848,No error,0,0,No error
+4849,No error,0,1,LogicError
+4850,No error,0,0,No error
+4851,LogicError,1,0,No error
+4852,No error,0,0,No error
+4853,LogicError,1,1,LogicError
+4854,NameError,3,3,NameError
+4855,No error,0,0,No error
+4856,No error,0,0,No error
+4857,LogicError,1,1,LogicError
+4858,No error,0,0,No error
+4859,LogicError,1,1,LogicError
+4860,No error,0,0,No error
+4861,No error,0,0,No error
+4862,No error,0,0,No error
+4863,No error,0,0,No error
+4864,No error,0,0,No error
