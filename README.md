@@ -33,6 +33,7 @@ documentation, annotation guidelines, prompt templates, and evaluation scripts.
 ```
 pymeta/
 ├── README.md                     # this file
+├── CLAUDE.md                     # working notes: gotchas, measured costs, conventions
 ├── LICENSE                       # CC BY-NC 4.0
 ├── TAXONOMY.md                   # full three-level taxonomy + label IDs
 ├── data/
