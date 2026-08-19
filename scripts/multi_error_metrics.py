@@ -77,6 +77,10 @@ STD_LABELS = {
     "Other errors": "13",
 }
 STD_LABELS_LOWER = {k.lower(): v for k, v in STD_LABELS.items()}
+# Space-insensitive variant: the prompt asks the model for "Syntax Error (#2)",
+# so a reply that omits the id still has to resolve to an id here. Without this,
+# a correct name-only answer is silently counted as a miss.
+STD_LABELS_LOOSE = {k.lower().replace(" ", ""): v for k, v in STD_LABELS.items()}
 
 
 # ---------- 解析工具 ----------
@@ -85,7 +89,15 @@ def normalize_to_id(token: str) -> str:
     t = str(token).strip()
     if not t: return ""
     if t.isdigit(): return t
-    return STD_LABELS_LOWER.get(t.lower(), t)
+    if t.lower() in STD_LABELS_LOWER: return STD_LABELS_LOWER[t.lower()]
+    loose = t.lower().replace(" ", "")
+    if loose in STD_LABELS_LOOSE: return STD_LABELS_LOOSE[loose]
+    # Class 13 is the catch-all ("Other errors": AttributeError, RuntimeError,
+    # ZeroDivisionError, ModuleNotFoundError, ... "etc."). Any other
+    # exception-shaped name therefore belongs to 13 rather than to nothing --
+    # otherwise a correct "AttributeError" prediction is scored as a miss.
+    if loose.endswith(("error", "errors", "warning", "exception")): return "13"
+    return t
 
 def parse_label_list(label_str: str) -> Tuple[str, List[str], List[str]]:
     raw = (label_str or "").strip()
@@ -211,6 +223,23 @@ def main():
 
         out = df.copy()
         out["Predicted Label"] = out["Sample_Index"].map(s2pred).fillna("")
+
+        # A Sample_Index that matches nothing in the log yields an empty prediction
+        # and is scored as a miss, so a bad join looks exactly like a bad model.
+        # The usual cause is an index table whose indices are positions in the full
+        # split while the log came from a run over an extracted subset (or the
+        # reverse) -- see make_multi_error_subset.py.
+        joined = int((out["Predicted Label"] != "").sum())
+        if joined == 0:
+            print(f"[WARN] {model}: none of the {len(out)} index rows matched a "
+                  f"'Sample <n>' block in the log (log has "
+                  f"{len(s2pred)} samples, indices "
+                  f"{min(s2pred, default='-')}..{max(s2pred, default='-')}; index table "
+                  f"{out['Sample_Index'].min()}..{out['Sample_Index'].max()}). "
+                  f"All metrics below will be 0 for join reasons, not model reasons.")
+        elif joined < len(out):
+            print(f"[WARN] {model}: only {joined}/{len(out)} index rows matched a log "
+                  f"sample; the rest are scored as misses.")
 
         pred_ids_list, pred_top1_ids, pred_names_list = [], [], []
         for s in out["Predicted Label"]:
