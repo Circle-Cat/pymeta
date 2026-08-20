@@ -17,6 +17,7 @@ billing/
 *billing*.pdf
 
 # === Raw run outputs (regenerate from scripts) ===
+results/
 *_test_results_*.json
 *_classification_log_*.txt
 
@@ -24,9 +25,15 @@ billing/
 # The huggingface/ folder is a staging area for the HF upload; its README (dataset
 # card) is fine to keep, but the large CSVs must never be committed to GitHub.
 huggingface/*.csv
+# Local copies of the splits pulled from Hugging Face for experiment runs:
+data/*.csv
 *.csv.gz
 # Keep the 97-sample annotation subset (it is small and belongs in the repo):
 !annotation/multi_error_subset_97.csv
+
+# === Python environment (bootstrap.sh creates it) ===
+.venv/
+venv/
 
 # === OS / editor cruft ===
 __MACOSX/

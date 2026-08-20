@@ -33,6 +33,7 @@ documentation, annotation guidelines, prompt templates, and evaluation scripts.
 ```
 pymeta/
 ├── README.md                     # this file
+├── CLAUDE.md                     # working notes: gotchas, measured costs, conventions
 ├── LICENSE                       # CC BY-NC 4.0
 ├── TAXONOMY.md                   # full three-level taxonomy + label IDs
 ├── data/
@@ -46,10 +47,16 @@ pymeta/
 ├── prompts/
 │   ├── single_error_prompt.txt   # single-error classification prompt
 │   └── multi_error_prompt.txt    # multi-error (Chain-of-Thought) prompt
+├── requirements.txt              # pinned deps, shared by every experiment machine
+├── results_summary/              # committable per-run summaries (one dir per task/model)
 └── scripts/
+    ├── bootstrap.sh              # set up venv + deps + data splits + subset
+    ├── llm_clients.py            # one chat client for OpenAI/Anthropic/Gemini/DeepSeek
     ├── single_error_prompting.py # single-error prompting driver
     ├── multi_error_prompting.py  # multi-error prompting driver
-    └── multi_error_metrics.py    # F1 / exact-match metrics
+    ├── multi_error_metrics.py    # multi-label coverage / any-hit metrics
+    ├── make_multi_error_subset.py# build the 97-sample subset + aligned index table
+    └── export_run_summary.py     # distil a run into small committable files
 ```
 
 ## Dataset
@@ -76,14 +83,62 @@ errors per submission).
 
 ## Usage
 
-The evaluation scripts read an API key from an environment variable (never hard-coded):
+### Setup
+
+The dataset splits are not in git. `bootstrap.sh` creates the virtualenv, installs the
+pinned dependencies, downloads the test split from Hugging Face, and builds the
+multi-error subset:
 
 ```bash
-export OPENAI_API_KEY=...     # or GEMINI_API_KEY / DEEPSEEK_API_KEY as appropriate
+bash scripts/bootstrap.sh
+```
 
-python scripts/single_error_prompting.py --data ./data/test.csv --output ./results
-python scripts/multi_error_prompting.py  --data ./annotation/multi_error_subset_97.csv --output ./results
-python scripts/multi_error_metrics.py    --predictions ./results/preds.csv
+### Running an experiment
+
+One driver serves every provider; pick the model with `--model` (the provider is inferred
+from the model id, or set it explicitly with `--provider`). The API key comes from an
+environment variable and is never hard-coded:
+
+```bash
+export DEEPSEEK_API_KEY=...   # or ANTHROPIC_API_KEY / OPENAI_API_KEY / GEMINI_API_KEY
+
+# Single-error classification over the test split (Tasks A/B/C all derive from this)
+.venv/bin/python scripts/single_error_prompting.py \
+    --data ./data/test.csv --output ./results/single_full \
+    --model deepseek-v4-pro --temperature 0 \
+    --max-output-tokens 32768 --concurrency 8
+
+# Multi-error classification over the 97-sample diagnostic subset
+.venv/bin/python scripts/multi_error_prompting.py \
+    --data ./data/multi_error_subset_97.csv --output ./results/multi_97 \
+    --model deepseek-v4-pro --temperature 0 \
+    --max-output-tokens 32768 --concurrency 8
+
+# Multi-label metrics (coverage / any-hit) for a multi-error run
+.venv/bin/python scripts/multi_error_metrics.py \
+    --excel ./data/multi_error_subset_97_index.csv \
+    --logs ./results/multi_97/outcome-*/*_classification_log_*.txt \
+    --outdir ./results/multi_97/metrics
+```
+
+Start with `--limit 16` on any new model: reasoning models spend output tokens on internal
+reasoning before the answer, so a cap that is too low returns an empty reply, and the run
+log reports the parse rate before you commit to a full pass. Runs are resumable — re-running
+the same command continues from the last completed sample, and each model writes to its own
+`outcome-<provider>_<model>-<timestamp>/` folder, so several models can share one `--output`.
+
+Current Claude models reject sampling parameters: pass `--effort low|medium|high` instead of
+`--temperature` for `--provider anthropic`.
+
+### Sharing results between machines
+
+Raw run outputs stay out of git (the per-sample CSV re-serialises the dataset — ~13 MB per
+full run). Export the committable summary instead, keyed by task and model so runs from
+different machines never collide:
+
+```bash
+.venv/bin/python scripts/export_run_summary.py --run ./results/single_full
+# -> results_summary/single_error/<provider>_<model>/{metrics.json,predictions.csv}
 ```
 
 The exact prompts sent to the models are in [`prompts/`](prompts/).
