@@ -161,16 +161,13 @@ license.
 
 If you use PyMETA, please cite:
 
-```bibtex
-@misc{li2026pymeta,
-  title        = {PyMETA: A Benchmark Dataset for Hierarchical Student Code Error
-                  Classification with Python-Interpreter-Based Labels},
-  author       = {Li, Chuyue and Tang, Ziqi and Wang, Jingyi and Wu, Yu and
-                  Hashimoto, Kazuma and Gao, Lingyu},
-  year         = {2026},
-  howpublished = {\url{https://github.com/Circle-Cat/pymeta}},
-  note         = {CircleCat}
+@inproceedings{
+    tang2026pymeta,
+    title={Py{META}: Evaluating Student Code Diagnosis on and Beyond the First Execution Error},
+    author={Ziqi Tang and Chuyue Li and Jingyi Wang and Yu Wu and Kazuma Hashimoto and Lingyu Gao},
+    booktitle={NeurIPS 2026 Trust-AI-Eval Workshop},
+    year={2026},
+    url={https://openreview.net/forum?id=Fz4nqncIlh}
 }
-```
 
 <!-- TODO: replace with the final arXiv / ACL citation (venue, arXiv id, DOI) once available. -->
