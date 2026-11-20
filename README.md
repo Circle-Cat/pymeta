@@ -16,6 +16,8 @@ documentation, annotation guidelines, prompt templates, and evaluation scripts.
 > ds = load_dataset("CircleCat/pymeta")
 > ```
 
+> 🌐 **Project page:** https://circle-cat.github.io/pymeta/
+
 ## Highlights
 
 - **48,646** real Python student code submissions from **579** users across **155**
@@ -37,6 +39,7 @@ pymeta/
 ├── CLAUDE.md                     # working notes: gotchas, measured costs, conventions
 ├── LICENSE                       # CC BY-NC 4.0
 ├── TAXONOMY.md                   # full three-level taxonomy + label IDs
+├── docs/                         # project page (GitHub Pages, served from main /docs)
 ├── data/
 │   └── README.md                 # schema + link to the Hugging Face dataset
 ├── huggingface/
