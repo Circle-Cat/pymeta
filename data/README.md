@@ -11,40 +11,50 @@ Face Datasets, and this GitHub repo holds only the documentation, prompts, and s
 
 ```python
 from datasets import load_dataset
-ds = load_dataset("CircleCat/pymeta")
+ds = load_dataset("CircleCat/pymeta")                      # v2.0: question-ID split
+ds_v1 = load_dataset("CircleCat/pymeta", revision="v1.0")  # v1.0: random split
 ds["train"], ds["validation"], ds["test"]
 ```
+
+`scripts/bootstrap.sh` downloads the **v1.0** CSVs into this folder, because the prompting
+scripts and the 97-sample subset index refer to row positions in the v1.0 test split.
 
 Or grab the raw CSVs directly from the "Files and versions" tab of the Hugging Face repo.
 
 ## Schema
 
-Each sample has 9 features plus a single-error label:
+The core columns are listed below. The
+[dataset card](https://huggingface.co/datasets/CircleCat/pymeta) documents all of them,
+including the judge status, traceback and error-type columns and, from v2.0, the starter
+code (`answer_preload`).
 
 | Column | Description |
 |--------|-------------|
 | `userId` | Anonymized numeric identifier of the student |
-| `name` | Problem/lesson name (problem type) |
-| `questionId` | Unique identifier of the problem |
+| `name` | Lesson / quiz name in the course |
+| `questionId` | Question identifier (153 values; some problems appear under several IDs) |
 | `question` | Problem description |
 | `exceptedAnswer` | A correct reference code solution |
-| `attemptId` | Attempt number |
+| `attemptId` | Question-attempt identifier; one attempt can contain several submissions |
 | `studentAnswer` | The student's submitted code |
-| `testOutcome` | Online Judge error message / execution output |
-| `attemptstepid` | Step identifier for the attempt |
-| `error_category` | Single-error label (see [`../TAXONOMY.md`](../TAXONOMY.md)) |
+| `testOutcome` | Raw Online Judge (CodeRunner) outcome |
+| `attemptstepid` | Submission identifier, unique per row |
+| `all_errortype2` | Source of the Task B/C labels (see [`../TAXONOMY.md`](../TAXONOMY.md)) |
+| `error_category` | Task A label: `error` / `no_error` |
 
 All identifiers are irreversibly anonymized; the dataset contains no PII.
 
 ## Splits
 
-| Split | Examples |
-|-------|---------:|
-| train | 39,402 |
-| validation (`dev`) | 4,379 |
-| test | 4,865 |
-| **total** | **48,646** |
+Both versions contain the same 48,646 rows; only the split assignment differs.
 
-> Note: the source split files are named `fixed_splitted_data_{train,dev,test}_data_20250504_083254.csv`.
-> On Hugging Face they are exposed as `train.csv`, `dev.csv`, `test.csv` (the `dev` split is
-> surfaced as `validation` by `load_dataset`).
+| Split | v2.0 (question-ID split) | Question IDs | v1.0 (random split) |
+|-------|---------:|---------:|---------:|
+| train | 38,918 | 133 | 39,402 |
+| validation (`dev`) | 4,863 | 11 | 4,379 |
+| test | 4,865 | 9 | 4,865 |
+| **total** | **48,646** | **153** | **48,646** |
+
+> Note: the files are named `train.csv`, `dev.csv`, `test.csv` on Hugging Face (the `dev`
+> split is surfaced as `validation` by `load_dataset`). The two test splits have the same
+> size but are different sets of rows.

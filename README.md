@@ -6,7 +6,8 @@ Python's official exception hierarchy and Online Judge execution output.
 
 This repository accompanies the paper *"PyMETA: Evaluating Student Code Diagnosis on and
 Beyond the First Execution Error"* (NeurIPS 2026 Trust-AI-Eval Workshop,
-https://openreview.net/forum?id=Fz4nqncIlh). It hosts the
+[OpenReview](https://openreview.net/forum?id=Fz4nqncIlh),
+[arXiv:2606.30610](https://arxiv.org/abs/2606.30610)). It hosts the
 documentation, annotation guidelines, prompt templates, and evaluation scripts.
 
 > 📦 **The dataset itself is hosted on Hugging Face:**
@@ -20,13 +21,13 @@ documentation, annotation guidelines, prompt templates, and evaluation scripts.
 
 ## Highlights
 
-- **48,646** real Python student code submissions from **579** users across **155**
+- **48,646** real Python student code submissions from **579** users across **153**
   distinct problems (**22** problem types), collected from the Circle Cat online learning
   platform.
 - **Single-error labels** for every submission, derived from Online Judge execution
   signals.
 - An **expert-annotated multi-error diagnostic subset** of **97 samples** (13 error
-  types, avg. 1.91 errors/sample) for studying co-occurring errors.
+  types, avg. 1.93 errors/sample) for studying co-occurring errors.
 - A **three-level hierarchical taxonomy** (binary → three-class → 14 fine-grained types).
 - Reproducible **prompt templates** and **evaluation scripts** for single-error and
   multi-error classification.
@@ -65,12 +66,26 @@ pymeta/
 
 ## Dataset
 
-Each sample has 9 features (`userId`, `name`, `questionId`, `question`, `exceptedAnswer`,
-`attemptId`, `studentAnswer`, `testOutcome`, `attemptstepid`) plus a single-error label
-`error_category`. The dataset (48,646 submissions: 39,402 train / 4,379 validation / 4,865
-test) is hosted on **[Hugging Face](https://huggingface.co/datasets/CircleCat/pymeta)**.
-See [`data/README.md`](data/README.md) for the full schema and [`TAXONOMY.md`](TAXONOMY.md)
-for label definitions.
+The dataset (48,646 submissions, 153 question IDs) is hosted on
+**[Hugging Face](https://huggingface.co/datasets/CircleCat/pymeta)** in two versions that
+contain the same rows and differ only in how they are split:
+
+| Version | How to load | Split | train / validation / test |
+|---------|-------------|-------|---------------------------|
+| v2.0 (default) | `load_dataset("CircleCat/pymeta")` | by question ID (133 / 11 / 9 IDs) | 38,918 / 4,863 / 4,865 |
+| v1.0 | `load_dataset("CircleCat/pymeta", revision="v1.0")` | random, by submission | 39,402 / 4,379 / 4,865 |
+
+Each row holds the problem description, the reference solution, the student's submission,
+the raw Online Judge outcome and the derived error labels; v2.0 also adds the starter code
+(`answer_preload`). The
+[dataset card](https://huggingface.co/datasets/CircleCat/pymeta) documents every column.
+See [`data/README.md`](data/README.md) for a summary and [`TAXONOMY.md`](TAXONOMY.md) for
+label definitions.
+
+The two test splits have the same size but are different sets of rows. The prompting
+scripts in this repository, the 97-sample subset index and the runs in
+[`results_summary/`](results_summary/) use the **v1.0** test split, so
+`scripts/bootstrap.sh` downloads that revision.
 
 ## Tasks
 
@@ -90,7 +105,7 @@ errors per submission).
 ### Setup
 
 The dataset splits are not in git. `bootstrap.sh` creates the virtualenv, installs the
-pinned dependencies, downloads the test split from Hugging Face, and builds the
+pinned dependencies, downloads the v1.0 test split from Hugging Face, and builds the
 multi-error subset:
 
 ```bash

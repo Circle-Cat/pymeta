@@ -5,6 +5,11 @@
 # splits from Hugging Face (they are not in git — see data/README.md) and builds
 # the aligned multi-error subset.
 #
+# The splits are pinned to the v1.0 revision of the dataset: Sample_Index in
+# annotation/multi_error_subset_97.csv is a row position in the v1.0 test split,
+# and the runs in results_summary/ were made on that split. The default (v2.0)
+# test.csv on Hugging Face has the same row count but different rows.
+#
 #   bash scripts/bootstrap.sh              # test split only (what the experiments need)
 #   bash scripts/bootstrap.sh --with-dev   # also fetch dev.csv
 #   bash scripts/bootstrap.sh --with-train # also fetch train.csv (105 MB)
@@ -17,7 +22,7 @@
 
 set -euo pipefail
 cd "$(dirname "$0")/.."
-HF=https://huggingface.co/datasets/CircleCat/pymeta/resolve/main
+HF=https://huggingface.co/datasets/CircleCat/pymeta/resolve/v1.0
 
 fetch() {  # fetch <name> <expected-min-bytes>
   local name=$1 min=$2
